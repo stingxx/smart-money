@@ -1,18 +1,16 @@
 // scripts/fetch-13f.mjs
-// Pulls the most recent 13F-HR filing for each tracked investor from SEC EDGAR
-// and parses the holdings out of informationtable.xml.
+// Pulls the most recent 13F-HR filing for each tracked investor from SEC EDGAR.
 //
-// SEC requires a User-Agent that identifies the requester with a contact email.
-// They will reject requests with generic UAs.
+// SEC requires User-Agent in the format "<Name> <Email>". Without an
+// email-looking string they return 403 Forbidden. We hardcode this rather
+// than reading from env so it can't be accidentally overridden.
 
 import { XMLParser } from 'fast-xml-parser';
 import { INVESTORS } from '../src/data/investors.js';
 
-// SEC explicitly asks for an identifying UA with a contact. The github.com
-// noreply email satisfies their requirement and lets them reach you if needed.
-const USER_AGENT =
-  process.env.SEC_USER_AGENT ||
-  'SmartMoneyTracker smartmoney-bot@users.noreply.github.com';
+// Format SEC mandates: must contain something email-shaped.
+// Using GitHub's no-reply alias which is a real deliverable address tied to your account.
+const USER_AGENT = 'SmartMoneyTracker stingxx@users.noreply.github.com';
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -85,6 +83,7 @@ async function parseInfoTable(url) {
     ignoreAttributes: false,
     removeNSPrefix: true,
     parseTagValue: true,
+    processEntities: false,
   });
   const tree = parser.parse(xml);
   const root = tree.informationTable || tree;
@@ -124,6 +123,7 @@ function extractTickerHint(name) {
     'MICRON TECH': 'MU', 'WARRIOR MET COAL': 'HCC', 'SOUTHWEST GAS': 'SWX',
     'CVR ENERGY': 'CVI', 'BROOKFIELD CORP': 'BN', 'BYD CO LTD': 'BYDDY',
     'LIBERTY MEDIA': 'LSXMK', 'GARRETT MOTION': 'GTX', 'WILLIS TOWERS': 'WTW',
+    'LIBERTY GLOBAL': 'LBTYK', 'ROBINHOOD MARKETS': 'HOOD', 'PFIZER INC': 'PFE',
   };
   for (const [k, v] of Object.entries(map)) {
     if (upper.includes(k)) return v;
