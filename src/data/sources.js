@@ -1,3 +1,4 @@
+// src/data/sources.js
 // Sources for the "Retail Pulse" section.
 // Reddit JSON endpoints work without authentication.
 // RSS feeds are public.
@@ -87,17 +88,28 @@ export const BLOGGERS = [
   },
 ];
 
-// Common false-positive tickers to filter out from Reddit text scraping
+// Blacklist common English words and acronyms that look like tickers.
+// Even with $ prefix required, we keep this as a defense.
 export const TICKER_BLACKLIST = new Set([
   'A', 'I', 'IT', 'BE', 'GO', 'SO', 'NOW', 'ALL', 'ANY', 'BIG', 'CAN', 'FOR',
   'GET', 'HAS', 'HE', 'HOW', 'NEW', 'NOT', 'ONE', 'OUR', 'OUT', 'TWO', 'WHO',
-  'WHY', 'YOU', 'OK', 'OP', 'CEO', 'CFO', 'IPO', 'ETF', 'API', 'USA', 'EU',
-  'FED', 'GDP', 'CPI', 'PPI', 'PE', 'PEG', 'EPS', 'ROI', 'ROE', 'WSB', 'YOLO',
-  'DD', 'TLDR', 'IMO', 'IMHO', 'ATH', 'ATL', 'FOMO', 'BTFD', 'HODL', 'FUD',
-  'LFG', 'TLDR', 'NVDA', // NVDA isn't false but let's add valid ones below
+  'WHY', 'YOU', 'OK', 'OP', 'CEO', 'CFO', 'CTO', 'COO', 'IPO', 'ETF', 'API',
+  'USA', 'EU', 'UK', 'US', 'FED', 'GDP', 'CPI', 'PPI', 'PE', 'PEG', 'EPS',
+  'ROI', 'ROE', 'ROA', 'EBIT', 'WSB', 'YOLO', 'DD', 'TLDR', 'IMO', 'IMHO',
+  'ATH', 'ATL', 'FOMO', 'BTFD', 'HODL', 'FUD', 'LFG', 'TLDR', 'OFF', 'ON',
+  'OR', 'AND', 'BUT', 'IF', 'IS', 'AS', 'AT', 'OF', 'TO', 'BY', 'NO', 'AM',
+  'PM', 'TV', 'OS', 'AI', 'ML', 'VR', 'AR', 'EV', 'TLDR', 'IRA', 'HSA', 'NPV',
+  'SEC', 'IRS', 'NYSE', 'NASDAQ', 'NYC', 'LA', 'SF', 'WSJ', 'NYT', 'CNBC',
+  'BBC', 'CNN', 'FOX', 'AKA', 'ASAP', 'ETA', 'FAQ', 'FYI', 'MVP', 'PR', 'QA',
+  'AOC', 'POTUS', 'GOP', 'DM', 'PM', 'AM',
 ]);
-TICKER_BLACKLIST.delete('NVDA'); // keep tickers we know are real
+// (NYT is a real ticker for the New York Times Co; if you ever care about that
+// stock specifically, just remove it from the blacklist above.)
 
-// We *whitelist* common real tickers so noise is minimized.
-// Reddit text gets matched against this set.
-export const VALID_TICKER_REGEX = /\$?([A-Z]{2,5})\b/g;
+// Match ONLY $-prefixed tickers. This is the standard Reddit/social-media
+// convention for stock cashtags and eliminates virtually all false positives
+// that come from common English words appearing in post text.
+//
+// Examples that match:    $NVDA  $AAPL  $T  $BRK.B
+// Examples that DON'T:    NVDA  Apple  off  voting on
+export const VALID_TICKER_REGEX = /\$([A-Z]{1,5}(?:\.[A-Z])?)\b/g;
