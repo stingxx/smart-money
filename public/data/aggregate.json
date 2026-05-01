@@ -1,212 +1,80 @@
 {
-  "lastUpdated": "2026-05-01T21:54:28.771Z",
+  "lastUpdated": "2026-05-01T22:03:57.319Z",
   "holdings": {},
   "redditTickers": [
     {
-      "ticker": "OFF",
-      "mentions": 116,
-      "subreddits": [
-        "wallstreetbets",
-        "stocks",
-        "investing",
-        "valueinvesting",
-        "SecurityAnalysis",
-        "options"
-      ]
-    },
-    {
-      "ticker": "ON",
-      "mentions": 116,
-      "subreddits": [
-        "wallstreetbets",
-        "stocks",
-        "investing",
-        "valueinvesting",
-        "SecurityAnalysis",
-        "options"
-      ]
-    },
-    {
-      "ticker": "AI",
-      "mentions": 20,
-      "subreddits": [
-        "wallstreetbets",
-        "stocks",
-        "investing",
-        "valueinvesting",
-        "SecurityAnalysis",
-        "options"
-      ]
-    },
-    {
-      "ticker": "US",
-      "mentions": 11,
-      "subreddits": [
-        "stocks",
-        "investing",
-        "valueinvesting",
-        "SecurityAnalysis",
-        "options"
-      ]
-    },
-    {
-      "ticker": "IV",
-      "mentions": 6,
-      "subreddits": [
-        "options"
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "mentions": 5,
-      "subreddits": [
-        "wallstreetbets",
-        "stocks",
-        "valueinvesting",
-        "options"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "mentions": 5,
-      "subreddits": [
-        "wallstreetbets",
-        "stocks",
-        "investing",
-        "valueinvesting",
-        "SecurityAnalysis"
-      ]
-    },
-    {
-      "ticker": "IRA",
-      "mentions": 5,
-      "subreddits": [
-        "investing"
-      ]
-    },
-    {
       "ticker": "META",
-      "mentions": 5,
+      "mentions": 2,
       "subreddits": [
-        "investing",
         "valueinvesting",
         "options"
       ]
     },
     {
-      "ticker": "AMD",
-      "mentions": 4,
+      "ticker": "HITI",
+      "mentions": 1,
       "subreddits": [
-        "wallstreetbets",
-        "stocks",
-        "investing",
         "valueinvesting"
       ]
     },
     {
-      "ticker": "MSFT",
-      "mentions": 4,
+      "ticker": "MU",
+      "mentions": 1,
       "subreddits": [
-        "wallstreetbets",
-        "investing",
-        "valueinvesting",
         "options"
       ]
     },
     {
-      "ticker": "AAPL",
-      "mentions": 4,
+      "ticker": "NFLX",
+      "mentions": 1,
       "subreddits": [
-        "stocks",
-        "investing"
-      ]
-    },
-    {
-      "ticker": "ITM",
-      "mentions": 4,
-      "subreddits": [
-        "stocks",
-        "options"
-      ]
-    },
-    {
-      "ticker": "GPT",
-      "mentions": 4,
-      "subreddits": [
-        "stocks",
-        "valueinvesting"
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "mentions": 3,
-      "subreddits": [
-        "wallstreetbets",
-        "stocks",
-        "SecurityAnalysis"
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "mentions": 3,
-      "subreddits": [
-        "wallstreetbets",
-        "options"
-      ]
-    },
-    {
-      "ticker": "QQQ",
-      "mentions": 3,
-      "subreddits": [
-        "wallstreetbets",
-        "valueinvesting",
-        "options"
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "mentions": 3,
-      "subreddits": [
-        "wallstreetbets",
-        "investing",
-        "options"
-      ]
-    },
-    {
-      "ticker": "EV",
-      "mentions": 3,
-      "subreddits": [
-        "stocks",
-        "investing",
         "options"
       ]
     },
     {
       "ticker": "HOOD",
-      "mentions": 3,
+      "mentions": 1,
       "subreddits": [
-        "stocks",
+        "options"
+      ]
+    },
+    {
+      "ticker": "QQQ",
+      "mentions": 1,
+      "subreddits": [
+        "options"
+      ]
+    },
+    {
+      "ticker": "SPY",
+      "mentions": 1,
+      "subreddits": [
+        "options"
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "mentions": 1,
+      "subreddits": [
+        "options"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "mentions": 1,
+      "subreddits": [
+        "options"
+      ]
+    },
+    {
+      "ticker": "GOOG",
+      "mentions": 1,
+      "subreddits": [
         "options"
       ]
     }
   ],
   "redditPosts": [
-    {
-      "id": "t3_1t173vw",
-      "title": "I believe moving money out of USD dollar will be wise advice.",
-      "subreddit": "valueinvesting",
-      "author": "/u/wishworthweb",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-01T21:50:52+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t173vw/i_believe_moving_money_out_of_usd_dollar_will_be/",
-      "tickers": [
-        "USD",
-        "OFF",
-        "US",
-        "ON"
-      ]
-    },
     {
       "id": "t3_1t16x08",
       "title": "[Stock Analysis] Watania (DFM) — Hidden undervalued play or just a small-cap trap?",
@@ -216,18 +84,7 @@
       "num_comments": 0,
       "created": "2026-05-01T21:43:10+00:00",
       "url": "https://old.reddit.com/r/ValueInvesting/comments/1t16x08/stock_analysis_watania_dfm_hidden_undervalued/",
-      "tickers": [
-        "DFM",
-        "OFF",
-        "TANIA",
-        "AED",
-        "BUT",
-        "OR",
-        "UAE",
-        "DEWA",
-        "NBD",
-        "ON"
-      ]
+      "tickers": []
     },
     {
       "id": "t3_1t16w71",
@@ -238,38 +95,7 @@
       "num_comments": 0,
       "created": "2026-05-01T21:42:17+00:00",
       "url": "https://old.reddit.com/r/investing/comments/1t16w71/the_time_in_the_market_rule_is_regimedependent/",
-      "tickers": [
-        "OFF",
-        "ZIRP",
-        "ON"
-      ]
-    },
-    {
-      "id": "t3_1t16uzt",
-      "title": "GameStop preparing offer for eBay, WSJ reports",
-      "subreddit": "wallstreetbets",
-      "author": "/u/King-of-Limbs-07",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-01T21:41:01+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t16uzt/gamestop_preparing_offer_for_ebay_wsj_reports/",
-      "tickers": [
-        "WSJ"
-      ]
-    },
-    {
-      "id": "t3_1t16t2x",
-      "title": "New WSB Icon",
-      "subreddit": "wallstreetbets",
-      "author": "/u/punknothing",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-01T21:38:56+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t16t2x/new_wsb_icon/",
-      "tickers": [
-        "OFF",
-        "ON"
-      ]
+      "tickers": []
     },
     {
       "id": "t3_1t16ono",
@@ -280,19 +106,6 @@
       "num_comments": 0,
       "created": "2026-05-01T21:34:01+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1t16ono/gamestop_preparing_offer_for_ebay/",
-      "tickers": [
-        "WM"
-      ]
-    },
-    {
-      "id": "t3_1t16o3g",
-      "title": "Just in!!!",
-      "subreddit": "wallstreetbets",
-      "author": "/u/RGN99_mag_journalist",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-01T21:33:27+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t16o3g/just_in/",
       "tickers": []
     },
     {
@@ -305,15 +118,19 @@
       "created": "2026-05-01T21:32:38+00:00",
       "url": "https://old.reddit.com/r/ValueInvesting/comments/1t16ndd/meta_meta_q1_2026_33_revenue_growth_vs_the_237b/",
       "tickers": [
-        "META",
-        "AI",
-        "OFF",
-        "FCF",
-        "SBC",
-        "LTM",
-        "NOPAT",
-        "ON"
+        "META"
       ]
+    },
+    {
+      "id": "t3_1t16f1t",
+      "title": "All Losses",
+      "subreddit": "wallstreetbets",
+      "author": "/u/sylphvanas",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T21:23:33+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t16f1t/all_losses/",
+      "tickers": []
     },
     {
       "id": "t3_1t15lag",
@@ -335,16 +152,7 @@
       "num_comments": 0,
       "created": "2026-05-01T20:46:47+00:00",
       "url": "https://old.reddit.com/r/ValueInvesting/comments/1t15gf7/all_my_last_year_underdogs_have_reversed_back_to/",
-      "tickers": [
-        "OFF",
-        "LNTH",
-        "IBIT",
-        "ZS",
-        "CRM",
-        "COF",
-        "AND",
-        "ON"
-      ]
+      "tickers": []
     },
     {
       "id": "t3_1t156i9",
@@ -366,20 +174,7 @@
       "num_comments": 0,
       "created": "2026-05-01T20:34:03+00:00",
       "url": "https://old.reddit.com/r/ValueInvesting/comments/1t1549k/portfolio_review_request_hold_vs_rebalance/",
-      "tickers": [
-        "OFF",
-        "SLV",
-        "RDDT",
-        "ORCL",
-        "NVDA",
-        "NET",
-        "MSTR",
-        "MSFT",
-        "GOOGL",
-        "AMD",
-        "AI",
-        "ON"
-      ]
+      "tickers": []
     },
     {
       "id": "t3_1t14xov",
@@ -390,11 +185,7 @@
       "num_comments": 0,
       "created": "2026-05-01T20:27:11+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1t14xov/18m_yolo_qqq_short/",
-      "tickers": [
-        "QQQ",
-        "OFF",
-        "ON"
-      ]
+      "tickers": []
     },
     {
       "id": "t3_1t14t2b",
@@ -405,25 +196,7 @@
       "num_comments": 0,
       "created": "2026-05-01T20:22:13+00:00",
       "url": "https://old.reddit.com/r/investing/comments/1t14t2b/covered_call_etfs_the_new_4_plan/",
-      "tickers": [
-        "OFF",
-        "NEOS",
-        "XBCI",
-        "IRA",
-        "CC",
-        "EFT",
-        "CHPY",
-        "FEPI",
-        "REX",
-        "FANG",
-        "IWMI",
-        "MLPI",
-        "MLP",
-        "SPYT",
-        "II",
-        "XQQI",
-        "ON"
-      ]
+      "tickers": []
     },
     {
       "id": "t3_1t14kgl",
@@ -434,13 +207,7 @@
       "num_comments": 0,
       "created": "2026-05-01T20:13:16+00:00",
       "url": "https://old.reddit.com/r/ValueInvesting/comments/1t14kgl/reddit_stock_gets_much_needed_boost_after/",
-      "tickers": [
-        "OFF",
-        "RDDT",
-        "GPT",
-        "AI",
-        "ON"
-      ]
+      "tickers": []
     },
     {
       "id": "t3_1t14k1t",
@@ -451,12 +218,7 @@
       "num_comments": 0,
       "created": "2026-05-01T20:12:53+00:00",
       "url": "https://old.reddit.com/r/ValueInvesting/comments/1t14k1t/copa_holdings_cpa/",
-      "tickers": [
-        "CPA",
-        "OFF",
-        "CAGR",
-        "ON"
-      ]
+      "tickers": []
     },
     {
       "id": "t3_1t14ghe",
@@ -489,10 +251,7 @@
       "num_comments": 0,
       "created": "2026-05-01T19:57:13+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1t144hu/weekend_discussion_thread_for_the_weekend_of_may/",
-      "tickers": [
-        "OFF",
-        "ON"
-      ]
+      "tickers": []
     },
     {
       "id": "t3_1t1433s",
@@ -503,10 +262,7 @@
       "num_comments": 0,
       "created": "2026-05-01T19:55:44+00:00",
       "url": "https://old.reddit.com/r/investing/comments/1t1433s/investment_advisors_do_you_use_them_or_no/",
-      "tickers": [
-        "OFF",
-        "ON"
-      ]
+      "tickers": []
     },
     {
       "id": "t3_1t1414k",
@@ -517,12 +273,7 @@
       "num_comments": 0,
       "created": "2026-05-01T19:53:41+00:00",
       "url": "https://old.reddit.com/r/investing/comments/1t1414k/we_analyzed_151422_dividend_exdate_events_across/",
-      "tickers": [
-        "OFF",
-        "BDC",
-        "AND",
-        "ON"
-      ]
+      "tickers": []
     },
     {
       "id": "t3_1t13tiw",
@@ -544,11 +295,7 @@
       "num_comments": 0,
       "created": "2026-05-01T19:42:48+00:00",
       "url": "https://old.reddit.com/r/stocks/comments/1t13qjy/will_hood_dip_more/",
-      "tickers": [
-        "HOOD",
-        "OFF",
-        "ON"
-      ]
+      "tickers": []
     },
     {
       "id": "t3_1t13k9c",
@@ -581,10 +328,7 @@
       "num_comments": 0,
       "created": "2026-05-01T19:22:25+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1t136o2/my_first_10_bagger/",
-      "tickers": [
-        "OFF",
-        "ON"
-      ]
+      "tickers": []
     },
     {
       "id": "t3_1t12e3t",
@@ -595,11 +339,7 @@
       "num_comments": 0,
       "created": "2026-05-01T18:53:44+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1t12e3t/_/",
-      "tickers": [
-        "OFF",
-        "RH",
-        "ON"
-      ]
+      "tickers": []
     },
     {
       "id": "t3_1t127jh",
@@ -610,13 +350,7 @@
       "num_comments": 0,
       "created": "2026-05-01T18:47:06+00:00",
       "url": "https://old.reddit.com/r/stocks/comments/1t127jh/buy_opra_bc_opay_ipo/",
-      "tickers": [
-        "OPRA",
-        "OPAY",
-        "OFF",
-        "OBLEM",
-        "ON"
-      ]
+      "tickers": []
     },
     {
       "id": "t3_1t126d2",
@@ -627,16 +361,7 @@
       "num_comments": 0,
       "created": "2026-05-01T18:45:51+00:00",
       "url": "https://old.reddit.com/r/ValueInvesting/comments/1t126d2/built_an_mcp_connector_for_financial_data_after_i/",
-      "tickers": [
-        "MCP",
-        "OFF",
-        "SEC",
-        "EDGAR",
-        "HTML",
-        "US",
-        "GPT",
-        "ON"
-      ]
+      "tickers": []
     },
     {
       "id": "t3_1t1254u",
@@ -647,13 +372,40 @@
       "num_comments": 0,
       "created": "2026-05-01T18:44:37+00:00",
       "url": "https://old.reddit.com/r/ValueInvesting/comments/1t1254u/bravos_research_and_other_bs/",
-      "tickers": [
-        "RAVOS",
-        "EARCH",
-        "BS",
-        "OFF",
-        "ON"
-      ]
+      "tickers": []
+    },
+    {
+      "id": "t3_1t118ix",
+      "title": "22 Y/O and need some help",
+      "subreddit": "investing",
+      "author": "/u/Historical_Fox_5552",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T18:11:55+00:00",
+      "url": "https://old.reddit.com/r/investing/comments/1t118ix/22_yo_and_need_some_help/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t10m0o",
+      "title": "Citrini Research Subscription Feedback",
+      "subreddit": "investing",
+      "author": "/u/realtimein",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T17:49:55+00:00",
+      "url": "https://old.reddit.com/r/investing/comments/1t10m0o/citrini_research_subscription_feedback/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t10d8c",
+      "title": "Any else find it difficult to invest in a stock that is on a tear?",
+      "subreddit": "investing",
+      "author": "/u/bluefootedpig",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T17:41:08+00:00",
+      "url": "https://old.reddit.com/r/investing/comments/1t10d8c/any_else_find_it_difficult_to_invest_in_a_stock/",
+      "tickers": []
     }
   ],
   "blogPosts": [
