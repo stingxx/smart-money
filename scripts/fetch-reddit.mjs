@@ -1,30 +1,37 @@
 // scripts/fetch-reddit.mjs
-// Pulls hot posts from finance subreddits via their public .json endpoints.
-// No authentication required — these endpoints are open to the public.
-//
-// Reddit asks for a descriptive User-Agent string.
+// Fetches hot posts from finance subreddits via Reddit's RSS feeds.
+// RSS works reliably from CI environments where JSON endpoints get blocked
+// by Reddit's anti-bot detection.
 
+import { XMLParser } from 'fast-xml-parser';
 import { REDDIT_SUBS, TICKER_BLACKLIST, VALID_TICKER_REGEX } from '../src/data/sources.js';
 
-const USER_AGENT = 'SmartMoneyTracker/1.0 (github.com/stingxx)';
+const USER_AGENT =
+  'Mozilla/5.0 (compatible; SmartMoneyTracker/1.0; +https://github.com/stingxx/smart-money)';
+
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-async function fetchSub(name) {
-  const url = `https://www.reddit.com/r/${name}/hot.json?limit=25`;
-  const r = await fetch(url, { headers: { 'User-Agent': USER_AGENT } });
-  if (!r.ok) {
-    console.warn(`[reddit] ${name} returned ${r.status}`);
-    return [];
-  }
-  const data = await r.json();
-  return (data.data?.children || []).map((c) => c.data);
+function pickArr(v) { return v ? (Array.isArray(v) ? v : [v]) : []; }
+
+function stripHtml(s) {
+  if (!s) return '';
+  return String(s)
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
 function extractTickers(text) {
   if (!text) return [];
   const found = new Set();
-  for (const match of text.matchAll(VALID_TICKER_REGEX)) {
-    const t = match[1];
+  for (const m of text.matchAll(VALID_TICKER_REGEX)) {
+    const t = m[1];
     if (t.length < 2 || t.length > 5) continue;
     if (TICKER_BLACKLIST.has(t)) continue;
     found.add(t);
@@ -32,35 +39,83 @@ function extractTickers(text) {
   return [...found];
 }
 
+async function fetchSubRSS(name) {
+  // Try multiple URL forms — old.reddit.com is more lenient from CI IPs
+  const urls = [
+    `https://old.reddit.com/r/${name}/hot/.rss?limit=25`,
+    `https://www.reddit.com/r/${name}/hot/.rss?limit=25`,
+  ];
+
+  for (const url of urls) {
+    try {
+      const r = await fetch(url, {
+        headers: {
+          'User-Agent': USER_AGENT,
+          Accept: 'application/atom+xml, application/rss+xml, application/xml, */*',
+        },
+      });
+      if (r.ok) return await r.text();
+      console.warn(`[reddit] ${url} → ${r.status}`);
+    } catch (e) {
+      console.warn(`[reddit] ${url} threw: ${e.message}`);
+    }
+  }
+  return null;
+}
+
+function parseRedditAtom(xml, subName) {
+  const parser = new XMLParser({
+    ignoreAttributes: false,
+    attributeNamePrefix: '@_',
+    parseTagValue: true,
+  });
+  const tree = parser.parse(xml);
+  const entries = pickArr(tree.feed?.entry);
+
+  return entries.map((e) => {
+    const links = pickArr(e.link);
+    const link = links.find((l) => l['@_rel'] !== 'self') || links[0];
+    const title = stripHtml(e.title?.['#text'] || e.title);
+    const content = stripHtml(e.content?.['#text'] || e.content || '');
+    const idStr = String(e.id || '');
+    const idMatch = idStr.match(/comments\/([a-z0-9]+)/);
+    const postId = idMatch ? idMatch[1] : idStr.slice(-12);
+
+    return {
+      id: postId,
+      title,
+      subreddit: subName,
+      author: e.author?.name || '[unknown]',
+      score: 0, // RSS feeds don't include vote counts
+      num_comments: 0,
+      created: e.updated || e.published || null,
+      url: link?.['@_href'] || '',
+      tickers: extractTickers(`${title} ${content}`),
+    };
+  });
+}
+
 export async function fetchRedditData() {
-  console.log(`[reddit] Fetching ${REDDIT_SUBS.length} subs`);
+  console.log(`[reddit] Fetching ${REDDIT_SUBS.length} subs via RSS`);
   const allPosts = [];
-  const tickerCounts = new Map(); // ticker -> { mentions, subreddits:Set }
+  const tickerCounts = new Map();
 
   for (const sub of REDDIT_SUBS) {
+    const xml = await fetchSubRSS(sub.name);
+    if (!xml) {
+      console.warn(`[reddit] r/${sub.name}: all URLs failed`);
+      await sleep(1200);
+      continue;
+    }
+
     try {
-      const posts = await fetchSub(sub.name);
+      const posts = parseRedditAtom(xml, sub.name);
+      console.log(`[reddit] r/${sub.name}: ${posts.length} posts`);
+
       for (const p of posts) {
-        // Skip stickied/announcement posts
-        if (p.stickied || p.pinned) continue;
-
-        const combinedText = `${p.title || ''} ${p.selftext || ''}`;
-        const tickers = extractTickers(combinedText);
-
-        allPosts.push({
-          id: p.id,
-          title: p.title,
-          subreddit: p.subreddit,
-          author: p.author,
-          score: p.score,
-          num_comments: p.num_comments,
-          created: new Date(p.created_utc * 1000).toISOString(),
-          url: `https://www.reddit.com${p.permalink}`,
-          tickers,
-          flair: p.link_flair_text || null,
-        });
-
-        for (const t of tickers) {
+        if (!p.title || !p.url) continue;
+        allPosts.push(p);
+        for (const t of p.tickers) {
           if (!tickerCounts.has(t)) {
             tickerCounts.set(t, { ticker: t, mentions: 0, subreddits: new Set() });
           }
@@ -69,24 +124,28 @@ export async function fetchRedditData() {
           entry.subreddits.add(p.subreddit);
         }
       }
-      await sleep(800); // be polite, public endpoints rate-limit ~60/min
     } catch (e) {
-      console.warn(`[reddit] ${sub.name} failed: ${e.message}`);
+      console.warn(`[reddit] r/${sub.name} parse failed: ${e.message}`);
     }
+
+    await sleep(1500); // be polite — RSS is gentler but still rate-limited
   }
 
-  // Sort posts by a "heat" score combining upvotes and comments
+  // Sort by recency since RSS lacks score data
   const topPosts = allPosts
-    .sort((a, b) => (b.score + b.num_comments * 2) - (a.score + a.num_comments * 2))
+    .sort((a, b) => {
+      const ta = a.created ? Date.parse(a.created) : 0;
+      const tb = b.created ? Date.parse(b.created) : 0;
+      return tb - ta;
+    })
     .slice(0, 30);
 
-  // Convert ticker counts to sorted array
   const topTickers = [...tickerCounts.values()]
     .map((t) => ({ ...t, subreddits: [...t.subreddits] }))
     .sort((a, b) => b.mentions - a.mentions)
     .slice(0, 20);
 
-  console.log(`[reddit] Got ${allPosts.length} posts, ${topTickers.length} unique tickers`);
+  console.log(`[reddit] Total: ${allPosts.length} posts, ${topTickers.length} tickers`);
   return { posts: topPosts, tickers: topTickers };
 }
 
