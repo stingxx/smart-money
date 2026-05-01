@@ -1,8 +1,219 @@
 {
-  "lastUpdated": null,
+  "lastUpdated": "2026-05-01T21:26:44.992Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
-  "blogPosts": [],
+  "blogPosts": [
+    {
+      "id": "net-interest-https://www.netinterest.co/p/money-for-nothing",
+      "title": "Money for Nothing",
+      "link": "https://www.netinterest.co/p/money-for-nothing",
+      "publishedAt": "2026-05-01T16:28:45.000Z",
+      "snippet": "The Golden Age of Arbitrage?",
+      "author": "Marc Rubinstein",
+      "handle": "Net Interest",
+      "tag": "Financials"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=69576",
+      "title": "How Does a Bond Ladder Work?",
+      "link": "https://awealthofcommonsense.com/2026/04/how-does-a-bond-ladder-work/",
+      "publishedAt": "2026-04-30T13:54:27.000Z",
+      "snippet": "When does a bond ladder make sense? The post How Does a Bond Ladder Work? appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/rain-check",
+      "title": "Rain Check",
+      "link": "https://newsletter.doomberg.com/p/rain-check",
+      "publishedAt": "2026-04-30T09:02:31.000Z",
+      "snippet": "A fascinating journey down a war propaganda rabbit hole.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=69551",
+      "title": "Animal Spirits: Paycheck-to-Paycheck on $500,000",
+      "link": "https://awealthofcommonsense.com/2026/04/animal-spirits-paycheck-to-paycheck-on-500000/",
+      "publishedAt": "2026-04-29T11:15:20.000Z",
+      "snippet": "On today's show we discuss how AI will impact wealth management, a stock market boom for the ages, why the Fed never created a financial crisis, an ode to Tim Cook, the world's biggest ETF, ridiculous car payments, AI jo",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=69544",
+      "title": "The Financial Crisis That Didn&#8217;t Happen",
+      "link": "https://awealthofcommonsense.com/2026/04/the-financial-crisis-that-didnt-happen/",
+      "publishedAt": "2026-04-28T19:17:06.000Z",
+      "snippet": "Why didn't 0% rates from the Fed cause a financial crisis? The post The Financial Crisis That Didn&#8217;t Happen appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/durable-energy-dominance",
+      "title": "Durable Energy Dominance",
+      "link": "https://newsletter.doomberg.com/p/durable-energy-dominance",
+      "publishedAt": "2026-04-28T14:04:51.000Z",
+      "snippet": "Pro Tier: April 2026 Doom Zoom",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=31946",
+      "title": "What I&#8217;ve Learned Writing 500 Blog Posts",
+      "link": "https://ofdollarsanddata.com/what-ive-learned-writing-500-blog-posts/",
+      "publishedAt": "2026-04-28T11:45:29.000Z",
+      "snippet": "As of today, I've published 500 blog posts online since January 2017. That's slightly more than 1 per week. Given this, I wanted to discuss the biggest lessons I've learned from this and how they can help you. Consistenc",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/to-spite-its-face",
+      "title": "To Spite Its Face",
+      "link": "https://newsletter.doomberg.com/p/to-spite-its-face",
+      "publishedAt": "2026-04-25T13:03:19.000Z",
+      "snippet": "Europe&#8217;s proxy attacks Europe&#8217;s oil supply in the middle of a global oil crisis.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
+    {
+      "id": "net-interest-https://www.netinterest.co/p/apple-turnover",
+      "title": "Apple Turnover",
+      "link": "https://www.netinterest.co/p/apple-turnover",
+      "publishedAt": "2026-04-24T16:38:20.000Z",
+      "snippet": "How Tim Cook reshaped payments &#8211; and what he leaves behind",
+      "author": "Marc Rubinstein",
+      "handle": "Net Interest",
+      "tag": "Financials"
+    },
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=32243",
+      "title": "Survival is the Only Success",
+      "link": "https://ofdollarsanddata.com/survival-is-the-only-success/",
+      "publishedAt": "2026-04-21T11:45:11.000Z",
+      "snippet": "In 2015, Tai Lopez started running his now famous \" Here in my garage \" ad on YouTube as a way to promote his 67 Steps self-help course. The ad featured Lopez standing in front of a brand new Lamborghini before panning o",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
+    {
+      "id": "net-interest-https://www.netinterest.co/p/defying-the-surveys",
+      "title": "Defying the Surveys",
+      "link": "https://www.netinterest.co/p/defying-the-surveys",
+      "publishedAt": "2026-04-17T16:54:51.000Z",
+      "snippet": "Banks report a resilient quarter &#8211; and a lurking threat",
+      "author": "Marc Rubinstein",
+      "handle": "Net Interest",
+      "tag": "Financials"
+    },
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=32133",
+      "title": "Did AI Kill Coast FIRE?",
+      "link": "https://ofdollarsanddata.com/did-ai-kill-coast-fire/",
+      "publishedAt": "2026-04-14T11:45:59.000Z",
+      "snippet": "Picture this: You're in your mid-40s and you've just quit your stressful corporate job. You've set aside enough money to fund your future retirement and now can work a more enjoyable (but lower paying) job to cover your ",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
+    {
+      "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
+      "title": "This is the end",
+      "link": "https://thereformedbroker.com/2023/11/29/this-is-the-end/",
+      "publishedAt": "2023-11-29T16:37:54.000Z",
+      "snippet": "Ladies and gentlemen, this is the final post I will be publishing at The Reformed Broker.... The post This is the end appeared first on The Reformed Broker .",
+      "author": "Josh Brown",
+      "handle": "The Reformed Broker",
+      "tag": "Markets"
+    },
+    {
+      "id": "reformed-broker-https://thereformedbroker.com/?p=89781",
+      "title": "Small Cap Tech Stocks Are Taking Off",
+      "link": "https://thereformedbroker.com/2023/11/28/small-cap-tech-stocks-are-taking-off/",
+      "publishedAt": "2023-11-28T15:28:20.000Z",
+      "snippet": "Join Downtown Josh Brown and Michael Batnick for another round of What Are Your Thoughts?... The post Small Cap Tech Stocks Are Taking Off appeared first on The Reformed Broker .",
+      "author": "Josh Brown",
+      "handle": "The Reformed Broker",
+      "tag": "Markets"
+    },
+    {
+      "id": "reformed-broker-https://thereformedbroker.com/?p=89783",
+      "title": "Welcome to the all new ritholtzwealth.com",
+      "link": "https://thereformedbroker.com/2023/11/28/welcome-to-the-all-new-ritholtzwealth-com/",
+      "publishedAt": "2023-11-28T14:13:37.000Z",
+      "snippet": "I hope you love it! ... The post Welcome to the all new ritholtzwealth.com appeared first on The Reformed Broker .",
+      "author": "Josh Brown",
+      "handle": "The Reformed Broker",
+      "tag": "Markets"
+    },
+    {
+      "id": "pragcap-https://www.pragcap.com/?p=139147",
+      "title": "Understanding the Modern Monetary System &#8211; Updated!",
+      "link": "https://www.pragcap.com/understanding-the-modern-monetary-system-updated/",
+      "publishedAt": "2023-06-29T20:19:28.000Z",
+      "snippet": "It&#8217;s been over 10 years since I published Understanding the Modern Monetary System, one of the most widely read papers in the SSRN research database. I published this paper because&#160;[ &#8230; ]",
+      "author": "Cullen Roche",
+      "handle": "Pragmatic Capitalism",
+      "tag": "Macro"
+    },
+    {
+      "id": "pragcap-https://www.pragcap.com/?p=139064",
+      "title": "We&#8217;re Moving!",
+      "link": "https://www.pragcap.com/were-moving/",
+      "publishedAt": "2023-02-27T20:17:27.000Z",
+      "snippet": "Thanks to everyone who has read Pragmatic Capitalism for the last 15 years. I&#8217;ve loved writing this blog, but we need to consolidate our financial content going forward. It&#8217;s become&#160;[ &#8230; ]",
+      "author": "Cullen Roche",
+      "handle": "Pragmatic Capitalism",
+      "tag": "Macro"
+    },
+    {
+      "id": "pragcap-https://www.pragcap.com/?p=139019",
+      "title": "The Investor&#8217;s Podcast: ESG Investing, The Death of 60/40 and More",
+      "link": "https://www.pragcap.com/the-investors-podcast-esg-investing-the-death-of-60-40-and-more/",
+      "publishedAt": "2023-02-13T18:54:15.000Z",
+      "snippet": "I joined The Investor&#8217;s Podcast again this week to discuss a wide range of topics. The YouTube chapters in the interview are linked below and you can listen to the&#160;[ &#8230; ]",
+      "author": "Cullen Roche",
+      "handle": "Pragmatic Capitalism",
+      "tag": "Macro"
+    },
+    {
+      "id": "the-diff-6390d2d8ecce0a003d6c404b",
+      "title": "Money, Credit, Trust, and FTX",
+      "link": "https://www.thediff.co/archive/money-credit-trust-ftx/",
+      "publishedAt": "2022-11-14T13:41:25.000Z",
+      "snippet": "Plus! Alternatives; Where Inflation Hits; The Best Job In tech; Sitting it Out; LNG; Diff Jobs",
+      "author": "Byrne Hobart",
+      "handle": "The Diff",
+      "tag": "Tech / Strategy"
+    },
+    {
+      "id": "the-diff-6390d2d8ecce0a003d6c4088",
+      "title": "Hand-Crafted Artisanal Liquidity Provision",
+      "link": "https://www.thediff.co/archive/hand-crafted-artisanal-liquidity/",
+      "publishedAt": "2022-08-22T12:05:04.000Z",
+      "snippet": "Plus! Consolidation; Shareholder Activism; Cash Burn; PE and Software Compete to Eat the World; Reinsurer of Last Resort; Diff Jobs",
+      "author": "Byrne Hobart",
+      "handle": "The Diff",
+      "tag": "Tech / Strategy"
+    },
+    {
+      "id": "the-diff-6390d2d8ecce0a003d6c4097",
+      "title": "Understanding Jane Street",
+      "link": "https://www.thediff.co/archive/jane-street/",
+      "publishedAt": "2022-08-01T12:39:05.000Z",
+      "snippet": "Plus! Pensions; Customer-Facing; Use Cases; Making a Market; Reflexive Energy Politics; Diff Jobs",
+      "author": "Byrne Hobart",
+      "handle": "The Diff",
+      "tag": "Tech / Strategy"
+    }
+  ],
   "errors": []
 }
