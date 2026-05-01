@@ -18,11 +18,24 @@ function stripHtml(s) {
   return String(s)
     .replace(/<[^>]+>/g, ' ')
     .replace(/&nbsp;/g, ' ')
+    // Numeric entities (decimal): &#8217; → ’
+    .replace(/&#(\d+);/g, (_, n) => {
+      const code = parseInt(n, 10);
+      return code > 0 && code < 0x10000 ? String.fromCharCode(code) : '';
+    })
+    // Numeric entities (hex): &#x2019; → ’
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, n) => {
+      const code = parseInt(n, 16);
+      return code > 0 && code < 0x10000 ? String.fromCharCode(code) : '';
+    })
     .replace(/&amp;/g, '&')
     .replace(/&quot;/g, '"')
     .replace(/&#39;/g, "'")
+    .replace(/&apos;/g, "'")
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
+    // Drop any remaining named entities we don't recognize
+    .replace(/&[a-zA-Z]+;/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
 }
@@ -40,7 +53,6 @@ function extractTickers(text) {
 }
 
 async function fetchSubRSS(name) {
-  // Try multiple URL forms — old.reddit.com is more lenient from CI IPs
   const urls = [
     `https://old.reddit.com/r/${name}/hot/.rss?limit=25`,
     `https://www.reddit.com/r/${name}/hot/.rss?limit=25`,
@@ -68,6 +80,10 @@ function parseRedditAtom(xml, subName) {
     ignoreAttributes: false,
     attributeNamePrefix: '@_',
     parseTagValue: true,
+    // Critical: bypass fast-xml-parser's 1000-entity expansion limit.
+    // Reddit RSS contains many &amp; entities that trip this guard.
+    // We decode entities ourselves in stripHtml() instead.
+    processEntities: false,
   });
   const tree = parser.parse(xml);
   const entries = pickArr(tree.feed?.entry);
@@ -86,7 +102,7 @@ function parseRedditAtom(xml, subName) {
       title,
       subreddit: subName,
       author: e.author?.name || '[unknown]',
-      score: 0, // RSS feeds don't include vote counts
+      score: 0,
       num_comments: 0,
       created: e.updated || e.published || null,
       url: link?.['@_href'] || '',
@@ -128,10 +144,9 @@ export async function fetchRedditData() {
       console.warn(`[reddit] r/${sub.name} parse failed: ${e.message}`);
     }
 
-    await sleep(1500); // be polite — RSS is gentler but still rate-limited
+    await sleep(1500);
   }
 
-  // Sort by recency since RSS lacks score data
   const topPosts = allPosts
     .sort((a, b) => {
       const ta = a.created ? Date.parse(a.created) : 0;
