@@ -1,9 +1,672 @@
 {
-  "lastUpdated": "2026-05-01T21:41:49.602Z",
+  "lastUpdated": "2026-05-01T21:54:28.771Z",
   "holdings": {},
-  "redditTickers": [],
-  "redditPosts": [],
+  "redditTickers": [
+    {
+      "ticker": "OFF",
+      "mentions": 116,
+      "subreddits": [
+        "wallstreetbets",
+        "stocks",
+        "investing",
+        "valueinvesting",
+        "SecurityAnalysis",
+        "options"
+      ]
+    },
+    {
+      "ticker": "ON",
+      "mentions": 116,
+      "subreddits": [
+        "wallstreetbets",
+        "stocks",
+        "investing",
+        "valueinvesting",
+        "SecurityAnalysis",
+        "options"
+      ]
+    },
+    {
+      "ticker": "AI",
+      "mentions": 20,
+      "subreddits": [
+        "wallstreetbets",
+        "stocks",
+        "investing",
+        "valueinvesting",
+        "SecurityAnalysis",
+        "options"
+      ]
+    },
+    {
+      "ticker": "US",
+      "mentions": 11,
+      "subreddits": [
+        "stocks",
+        "investing",
+        "valueinvesting",
+        "SecurityAnalysis",
+        "options"
+      ]
+    },
+    {
+      "ticker": "IV",
+      "mentions": 6,
+      "subreddits": [
+        "options"
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "mentions": 5,
+      "subreddits": [
+        "wallstreetbets",
+        "stocks",
+        "valueinvesting",
+        "options"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "mentions": 5,
+      "subreddits": [
+        "wallstreetbets",
+        "stocks",
+        "investing",
+        "valueinvesting",
+        "SecurityAnalysis"
+      ]
+    },
+    {
+      "ticker": "IRA",
+      "mentions": 5,
+      "subreddits": [
+        "investing"
+      ]
+    },
+    {
+      "ticker": "META",
+      "mentions": 5,
+      "subreddits": [
+        "investing",
+        "valueinvesting",
+        "options"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "mentions": 4,
+      "subreddits": [
+        "wallstreetbets",
+        "stocks",
+        "investing",
+        "valueinvesting"
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "mentions": 4,
+      "subreddits": [
+        "wallstreetbets",
+        "investing",
+        "valueinvesting",
+        "options"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "mentions": 4,
+      "subreddits": [
+        "stocks",
+        "investing"
+      ]
+    },
+    {
+      "ticker": "ITM",
+      "mentions": 4,
+      "subreddits": [
+        "stocks",
+        "options"
+      ]
+    },
+    {
+      "ticker": "GPT",
+      "mentions": 4,
+      "subreddits": [
+        "stocks",
+        "valueinvesting"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "mentions": 3,
+      "subreddits": [
+        "wallstreetbets",
+        "stocks",
+        "SecurityAnalysis"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "mentions": 3,
+      "subreddits": [
+        "wallstreetbets",
+        "options"
+      ]
+    },
+    {
+      "ticker": "QQQ",
+      "mentions": 3,
+      "subreddits": [
+        "wallstreetbets",
+        "valueinvesting",
+        "options"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "mentions": 3,
+      "subreddits": [
+        "wallstreetbets",
+        "investing",
+        "options"
+      ]
+    },
+    {
+      "ticker": "EV",
+      "mentions": 3,
+      "subreddits": [
+        "stocks",
+        "investing",
+        "options"
+      ]
+    },
+    {
+      "ticker": "HOOD",
+      "mentions": 3,
+      "subreddits": [
+        "stocks",
+        "options"
+      ]
+    }
+  ],
+  "redditPosts": [
+    {
+      "id": "t3_1t173vw",
+      "title": "I believe moving money out of USD dollar will be wise advice.",
+      "subreddit": "valueinvesting",
+      "author": "/u/wishworthweb",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T21:50:52+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t173vw/i_believe_moving_money_out_of_usd_dollar_will_be/",
+      "tickers": [
+        "USD",
+        "OFF",
+        "US",
+        "ON"
+      ]
+    },
+    {
+      "id": "t3_1t16x08",
+      "title": "[Stock Analysis] Watania (DFM) — Hidden undervalued play or just a small-cap trap?",
+      "subreddit": "valueinvesting",
+      "author": "/u/wishworthweb",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T21:43:10+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t16x08/stock_analysis_watania_dfm_hidden_undervalued/",
+      "tickers": [
+        "DFM",
+        "OFF",
+        "TANIA",
+        "AED",
+        "BUT",
+        "OR",
+        "UAE",
+        "DEWA",
+        "NBD",
+        "ON"
+      ]
+    },
+    {
+      "id": "t3_1t16w71",
+      "title": "the 'time in the market' rule is regime-dependent, not universal",
+      "subreddit": "investing",
+      "author": "/u/Happy-Control5922",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T21:42:17+00:00",
+      "url": "https://old.reddit.com/r/investing/comments/1t16w71/the_time_in_the_market_rule_is_regimedependent/",
+      "tickers": [
+        "OFF",
+        "ZIRP",
+        "ON"
+      ]
+    },
+    {
+      "id": "t3_1t16uzt",
+      "title": "GameStop preparing offer for eBay, WSJ reports",
+      "subreddit": "wallstreetbets",
+      "author": "/u/King-of-Limbs-07",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T21:41:01+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t16uzt/gamestop_preparing_offer_for_ebay_wsj_reports/",
+      "tickers": [
+        "WSJ"
+      ]
+    },
+    {
+      "id": "t3_1t16t2x",
+      "title": "New WSB Icon",
+      "subreddit": "wallstreetbets",
+      "author": "/u/punknothing",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T21:38:56+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t16t2x/new_wsb_icon/",
+      "tickers": [
+        "OFF",
+        "ON"
+      ]
+    },
+    {
+      "id": "t3_1t16ono",
+      "title": "GameStop Preparing Offer for eBay",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Oreos_Are_Anabolic",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T21:34:01+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t16ono/gamestop_preparing_offer_for_ebay/",
+      "tickers": [
+        "WM"
+      ]
+    },
+    {
+      "id": "t3_1t16o3g",
+      "title": "Just in!!!",
+      "subreddit": "wallstreetbets",
+      "author": "/u/RGN99_mag_journalist",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T21:33:27+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t16o3g/just_in/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t16ndd",
+      "title": "Meta ($META) Q1 2026: 33% Revenue Growth vs. the $237B AI Infrastructure commitment",
+      "subreddit": "valueinvesting",
+      "author": "/u/_The_Silent_Investor",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T21:32:38+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t16ndd/meta_meta_q1_2026_33_revenue_growth_vs_the_237b/",
+      "tickers": [
+        "META",
+        "AI",
+        "OFF",
+        "FCF",
+        "SBC",
+        "LTM",
+        "NOPAT",
+        "ON"
+      ]
+    },
+    {
+      "id": "t3_1t15lag",
+      "title": "me come monday",
+      "subreddit": "wallstreetbets",
+      "author": "/u/DannyCavalerie",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T20:51:53+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t15lag/me_come_monday/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t15gf7",
+      "title": "All my last year underdogs have reversed back to profits. Monthly loser recap",
+      "subreddit": "valueinvesting",
+      "author": "/u/Apprehensive_Two1528",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T20:46:47+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t15gf7/all_my_last_year_underdogs_have_reversed_back_to/",
+      "tickers": [
+        "OFF",
+        "LNTH",
+        "IBIT",
+        "ZS",
+        "CRM",
+        "COF",
+        "AND",
+        "ON"
+      ]
+    },
+    {
+      "id": "t3_1t156i9",
+      "title": "How make money go green, fellas?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/MudBloodLite",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T20:36:26+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t156i9/how_make_money_go_green_fellas/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t1549k",
+      "title": "Portfolio Review Request: Hold vs Rebalance – Seeking Rational Feedback",
+      "subreddit": "valueinvesting",
+      "author": "/u/Sad_Pie227",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T20:34:03+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t1549k/portfolio_review_request_hold_vs_rebalance/",
+      "tickers": [
+        "OFF",
+        "SLV",
+        "RDDT",
+        "ORCL",
+        "NVDA",
+        "NET",
+        "MSTR",
+        "MSFT",
+        "GOOGL",
+        "AMD",
+        "AI",
+        "ON"
+      ]
+    },
+    {
+      "id": "t3_1t14xov",
+      "title": "1.8M YOLO QQQ short",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Quej",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T20:27:11+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t14xov/18m_yolo_qqq_short/",
+      "tickers": [
+        "QQQ",
+        "OFF",
+        "ON"
+      ]
+    },
+    {
+      "id": "t3_1t14t2b",
+      "title": "Covered Call ETF’s, the New 4% Plan",
+      "subreddit": "investing",
+      "author": "/u/ShadowBard0962",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T20:22:13+00:00",
+      "url": "https://old.reddit.com/r/investing/comments/1t14t2b/covered_call_etfs_the_new_4_plan/",
+      "tickers": [
+        "OFF",
+        "NEOS",
+        "XBCI",
+        "IRA",
+        "CC",
+        "EFT",
+        "CHPY",
+        "FEPI",
+        "REX",
+        "FANG",
+        "IWMI",
+        "MLPI",
+        "MLP",
+        "SPYT",
+        "II",
+        "XQQI",
+        "ON"
+      ]
+    },
+    {
+      "id": "t3_1t14kgl",
+      "title": "Reddit Stock Gets Much Needed Boost After Earnings Beat - Barron’s",
+      "subreddit": "valueinvesting",
+      "author": "/u/raytoei",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T20:13:16+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t14kgl/reddit_stock_gets_much_needed_boost_after/",
+      "tickers": [
+        "OFF",
+        "RDDT",
+        "GPT",
+        "AI",
+        "ON"
+      ]
+    },
+    {
+      "id": "t3_1t14k1t",
+      "title": "Copa Holdings (CPA)",
+      "subreddit": "valueinvesting",
+      "author": "/u/No_Injury_1655",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T20:12:53+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t14k1t/copa_holdings_cpa/",
+      "tickers": [
+        "CPA",
+        "OFF",
+        "CAGR",
+        "ON"
+      ]
+    },
+    {
+      "id": "t3_1t14ghe",
+      "title": "35k to over $1,000,000 in profit ✅",
+      "subreddit": "wallstreetbets",
+      "author": "/u/master123160",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T20:09:21+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t14ghe/35k_to_over_1000000_in_profit/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t14856",
+      "title": "Trump says he will raise tariffs on EU autos to 25%",
+      "subreddit": "wallstreetbets",
+      "author": "/u/MudBloodLite",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T20:00:54+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t14856/trump_says_he_will_raise_tariffs_on_eu_autos_to_25/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t144hu",
+      "title": "Weekend Discussion Thread for the Weekend of May 01, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/wsbapp",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T19:57:13+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t144hu/weekend_discussion_thread_for_the_weekend_of_may/",
+      "tickers": [
+        "OFF",
+        "ON"
+      ]
+    },
+    {
+      "id": "t3_1t1433s",
+      "title": "Investment advisors do you use them or no",
+      "subreddit": "investing",
+      "author": "/u/Toeholdz_",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T19:55:44+00:00",
+      "url": "https://old.reddit.com/r/investing/comments/1t1433s/investment_advisors_do_you_use_them_or_no/",
+      "tickers": [
+        "OFF",
+        "ON"
+      ]
+    },
+    {
+      "id": "t3_1t1414k",
+      "title": "We analyzed 151,422 dividend ex-date events across 2,344 securities going back 17 years. Here is what the recovery data actually shows.",
+      "subreddit": "investing",
+      "author": "/u/Recent_Button_1",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T19:53:41+00:00",
+      "url": "https://old.reddit.com/r/investing/comments/1t1414k/we_analyzed_151422_dividend_exdate_events_across/",
+      "tickers": [
+        "OFF",
+        "BDC",
+        "AND",
+        "ON"
+      ]
+    },
+    {
+      "id": "t3_1t13tiw",
+      "title": "Best April in a long time and you see your homie walk out of his JPMorgan performance review.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/MysteriousSlice007",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T19:45:54+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t13tiw/best_april_in_a_long_time_and_you_see_your_homie/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t13qjy",
+      "title": "Will HOOD dip more",
+      "subreddit": "stocks",
+      "author": "/u/Sufficient-Mood-1781",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T19:42:48+00:00",
+      "url": "https://old.reddit.com/r/stocks/comments/1t13qjy/will_hood_dip_more/",
+      "tickers": [
+        "HOOD",
+        "OFF",
+        "ON"
+      ]
+    },
+    {
+      "id": "t3_1t13k9c",
+      "title": "What color Lambo should I get?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Lacedupdrop",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T19:36:18+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t13k9c/what_color_lambo_should_i_get/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t139ol",
+      "title": "Trump says he will hike tariffs on EU cars to 25%",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Leukie0",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T19:25:30+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t139ol/trump_says_he_will_hike_tariffs_on_eu_cars_to_25/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t136o2",
+      "title": "My first 10 bagger",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Latter_Activity_5256",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T19:22:25+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t136o2/my_first_10_bagger/",
+      "tickers": [
+        "OFF",
+        "ON"
+      ]
+    },
+    {
+      "id": "t3_1t12e3t",
+      "title": "🙄",
+      "subreddit": "wallstreetbets",
+      "author": "/u/TheKingInTheNorth",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T18:53:44+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t12e3t/_/",
+      "tickers": [
+        "OFF",
+        "RH",
+        "ON"
+      ]
+    },
+    {
+      "id": "t3_1t127jh",
+      "title": "Buy OPRA b/c OPAY IPO",
+      "subreddit": "stocks",
+      "author": "/u/wiipla",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T18:47:06+00:00",
+      "url": "https://old.reddit.com/r/stocks/comments/1t127jh/buy_opra_bc_opay_ipo/",
+      "tickers": [
+        "OPRA",
+        "OPAY",
+        "OFF",
+        "OBLEM",
+        "ON"
+      ]
+    },
+    {
+      "id": "t3_1t126d2",
+      "title": "Built an MCP Connector for financial data after I nuked through my Claude usage limit",
+      "subreddit": "valueinvesting",
+      "author": "/u/konamul",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T18:45:51+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t126d2/built_an_mcp_connector_for_financial_data_after_i/",
+      "tickers": [
+        "MCP",
+        "OFF",
+        "SEC",
+        "EDGAR",
+        "HTML",
+        "US",
+        "GPT",
+        "ON"
+      ]
+    },
+    {
+      "id": "t3_1t1254u",
+      "title": "BRAVOS \"RESEARCH\" and other BS",
+      "subreddit": "valueinvesting",
+      "author": "/u/erdelyraid",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-01T18:44:37+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t1254u/bravos_research_and_other_bs/",
+      "tickers": [
+        "RAVOS",
+        "EARCH",
+        "BS",
+        "OFF",
+        "ON"
+      ]
+    }
+  ],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=69582",
+      "title": "Half a Million Dollars",
+      "link": "https://awealthofcommonsense.com/2026/05/half-a-million-dollars/",
+      "publishedAt": "2026-05-01T20:30:47.000Z",
+      "snippet": "Goldman Sachs has a report out called the New Economics of Retirement with survey results from interviews with working and retired Americans across generations and wealth levels. There&#8217;s some data in here that stan",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "net-interest-https://www.netinterest.co/p/money-for-nothing",
       "title": "Money for Nothing",
@@ -40,16 +703,6 @@
       "link": "https://awealthofcommonsense.com/2026/04/animal-spirits-paycheck-to-paycheck-on-500000/",
       "publishedAt": "2026-04-29T11:15:20.000Z",
       "snippet": "On today's show we discuss how AI will impact wealth management, a stock market boom for the ages, why the Fed never created a financial crisis, an ode to Tim Cook, the world's biggest ETF, ridiculous car payments, AI jo",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=69544",
-      "title": "The Financial Crisis That Didn&#8217;t Happen",
-      "link": "https://awealthofcommonsense.com/2026/04/the-financial-crisis-that-didnt-happen/",
-      "publishedAt": "2026-04-28T19:17:06.000Z",
-      "snippet": "Why didn't 0% rates from the Fed cause a financial crisis? The post The Financial Crisis That Didn&#8217;t Happen appeared first on A Wealth of Common Sense. ...",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
