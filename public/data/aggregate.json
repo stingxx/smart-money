@@ -1,21 +1,12 @@
 {
-  "lastUpdated": "2026-05-04T11:23:35.106Z",
+  "lastUpdated": "2026-05-05T11:03:43.431Z",
   "holdings": {},
   "redditTickers": [
     {
-      "ticker": "MCD",
-      "mentions": 2,
+      "ticker": "UPS",
+      "mentions": 1,
       "subreddits": [
-        "stocks",
-        "valueinvesting"
-      ]
-    },
-    {
-      "ticker": "LTH",
-      "mentions": 2,
-      "subreddits": [
-        "stocks",
-        "investing"
+        "stocks"
       ]
     },
     {
@@ -33,28 +24,49 @@
       ]
     },
     {
-      "ticker": "HTRO",
+      "ticker": "SBUX",
       "mentions": 1,
       "subreddits": [
-        "stocks"
+        "investing"
       ]
     },
     {
-      "ticker": "AMZN",
-      "mentions": 1,
-      "subreddits": [
-        "valueinvesting"
-      ]
-    },
-    {
-      "ticker": "GOOGL",
+      "ticker": "DJCO",
       "mentions": 1,
       "subreddits": [
         "valueinvesting"
       ]
     },
     {
-      "ticker": "MU",
+      "ticker": "QBTS",
+      "mentions": 1,
+      "subreddits": [
+        "valueinvesting"
+      ]
+    },
+    {
+      "ticker": "BLZE",
+      "mentions": 1,
+      "subreddits": [
+        "valueinvesting"
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "mentions": 1,
+      "subreddits": [
+        "options"
+      ]
+    },
+    {
+      "ticker": "CMPS",
+      "mentions": 1,
+      "subreddits": [
+        "options"
+      ]
+    },
+    {
+      "ticker": "NBIS",
       "mentions": 1,
       "subreddits": [
         "options"
@@ -63,342 +75,353 @@
   ],
   "redditPosts": [
     {
-      "id": "t3_1t3edk8",
-      "title": "Daily Discussion Thread for May 04, 2026",
+      "id": "t3_1t4c30b",
+      "title": "Daily Discussion Thread for May 05, 2026",
       "subreddit": "wallstreetbets",
       "author": "/u/wsbapp",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-05-04T11:01:48+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t3edk8/daily_discussion_thread_for_may_04_2026/",
+      "created": "2026-05-05T11:00:55+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t4c30b/daily_discussion_thread_for_may_05_2026/",
       "tickers": []
     },
     {
-      "id": "t3_1t3e575",
-      "title": "r/Stocks Daily Discussion Monday - May 04, 2026",
+      "id": "t3_1t4c2d7",
+      "title": "Converting ITM CC to call debit spread to avoid wash sale and reduce short-term capital gains tax?",
+      "subreddit": "options",
+      "author": "/u/pantaloonsss",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-05T11:00:12+00:00",
+      "url": "https://old.reddit.com/r/options/comments/1t4c2d7/converting_itm_cc_to_call_debit_spread_to_avoid/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t4byct",
+      "title": "How do you think the SpaceX IPO will mess with RKLB and ASTS?",
       "subreddit": "stocks",
-      "author": "/u/AutoModerator",
+      "author": "/u/Aixafaguitarres",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-05-04T10:50:04+00:00",
-      "url": "https://old.reddit.com/r/stocks/comments/1t3e575/rstocks_daily_discussion_monday_may_04_2026/",
+      "created": "2026-05-05T10:54:39+00:00",
+      "url": "https://old.reddit.com/r/stocks/comments/1t4byct/how_do_you_think_the_spacex_ipo_will_mess_with/",
       "tickers": []
     },
     {
-      "id": "t3_1t3e1mp",
-      "title": "Opnions on Hexatronic Group AB (HTRO) for Fiber + Data Centres",
-      "subreddit": "stocks",
-      "author": "/u/Creme-Waste",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-04T10:44:38+00:00",
-      "url": "https://old.reddit.com/r/stocks/comments/1t3e1mp/opnions_on_hexatronic_group_ab_htro_for_fiber/",
-      "tickers": [
-        "HTRO"
-      ]
-    },
-    {
-      "id": "t3_1t3dovy",
-      "title": "Microcaps are outperforming the S&P",
-      "subreddit": "investing",
-      "author": "/u/Emergency_Frosting55",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-04T10:25:47+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1t3dovy/microcaps_are_outperforming_the_sp/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1t3dki8",
-      "title": "Good morning",
-      "subreddit": "wallstreetbets",
-      "author": "/u/rocketshipinvestor",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-04T10:19:13+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t3dki8/good_morning/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1t3c80x",
-      "title": "Nel ASA - Upcoming commercial launch",
-      "subreddit": "stocks",
-      "author": "/u/Equivalent_Trade6569",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-04T09:03:14+00:00",
-      "url": "https://old.reddit.com/r/stocks/comments/1t3c80x/nel_asa_upcoming_commercial_launch/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1t3b6hr",
-      "title": "Daily General Discussion and Advice Thread - May 04, 2026",
-      "subreddit": "investing",
-      "author": "/u/AutoModerator",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-04T08:00:24+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1t3b6hr/daily_general_discussion_and_advice_thread_may_04/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1t3ady7",
-      "title": "What's more important than power in the AI era?",
-      "subreddit": "investing",
-      "author": "/u/coopermug",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-04T07:12:37+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1t3ady7/whats_more_important_than_power_in_the_ai_era/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1t3a1gy",
-      "title": "Another 10,000% gain - INTC",
-      "subreddit": "wallstreetbets",
-      "author": "/u/troublesome58",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-04T06:52:29+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t3a1gy/another_10000_gain_intc/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1t39xhs",
-      "title": "How to best protect a portfolio to the downside",
-      "subreddit": "stocks",
-      "author": "/u/Unun_Pentium",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-04T06:45:57+00:00",
-      "url": "https://old.reddit.com/r/stocks/comments/1t39xhs/how_to_best_protect_a_portfolio_to_the_downside/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1t39xb5",
-      "title": "What changed for me when I stopped buying cheap stocks.",
+      "id": "t3_1t4bino",
+      "title": "Buffett Warns Dollar Could Collapse as Berkshire Hits $397B Cash, 14th Quarter Selling",
       "subreddit": "valueinvesting",
+      "author": "/u/andix3",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-05T10:32:32+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t4bino/buffett_warns_dollar_could_collapse_as_berkshire/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t4bi9o",
+      "title": "Palantir Q1 Earnings: Revenue Soars 85% to $1.63B, Karp Puts Defense First",
+      "subreddit": "valueinvesting",
+      "author": "/u/andix3",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-05T10:31:56+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t4bi9o/palantir_q1_earnings_revenue_soars_85_to_163b/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t4b37r",
+      "title": "Analysis of the first lecture of Stanford Lecture Series on Economy of AI Supercycle",
+      "subreddit": "valueinvesting",
+      "author": "/u/PodcastAlpha",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-05T10:09:45+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t4b37r/analysis_of_the_first_lecture_of_stanford_lecture/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t4ailw",
+      "title": "Energy Recovery (ERII): a “hidden” small cap on the world’s new gold WATER",
+      "subreddit": "investing",
+      "author": "/u/SfiberWonder",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-05T09:37:59+00:00",
+      "url": "https://old.reddit.com/r/investing/comments/1t4ailw/energy_recovery_erii_a_hidden_small_cap_on_the/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t4agiu",
+      "title": "Energy Recovery (ERII): a “hidden” small cap on the world’s new gold WATER",
+      "subreddit": "stocks",
+      "author": "/u/SfiberWonder",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-05T09:34:50+00:00",
+      "url": "https://old.reddit.com/r/stocks/comments/1t4agiu/energy_recovery_erii_a_hidden_small_cap_on_the/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t4adkf",
+      "title": "r/Stocks Daily Discussion & Technicals Tuesday - May 05, 2026",
+      "subreddit": "stocks",
+      "author": "/u/AutoModerator",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-05T09:30:05+00:00",
+      "url": "https://old.reddit.com/r/stocks/comments/1t4adkf/rstocks_daily_discussion_technicals_tuesday_may/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t4a9pl",
+      "title": "Analyzing 16,701 Jim Cramer picks: Why \"Inverse Cramer\" is a wash, but his small-cap calls fail hard",
+      "subreddit": "stocks",
+      "author": "/u/Andres_Kull",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-05T09:23:59+00:00",
+      "url": "https://old.reddit.com/r/stocks/comments/1t4a9pl/analyzing_16701_jim_cramer_picks_why_inverse/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t4a7y8",
+      "title": "How do you actually figure out where your downside risk is coming from?",
+      "subreddit": "stocks",
       "author": "/u/GooseOtherwise9181",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-05-04T06:45:38+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t39xb5/what_changed_for_me_when_i_stopped_buying_cheap/",
+      "created": "2026-05-05T09:21:06+00:00",
+      "url": "https://old.reddit.com/r/stocks/comments/1t4a7y8/how_do_you_actually_figure_out_where_your/",
       "tickers": []
     },
     {
-      "id": "t3_1t39ovx",
-      "title": "This is what Warren Buffet does right?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Disduguyting",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-04T06:31:48+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t39ovx/this_is_what_warren_buffet_does_right/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1t38tjo",
-      "title": "A bunch of quotes from Warren Buffett",
-      "subreddit": "investing",
-      "author": "/u/Ok_History_4163",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-04T05:42:30+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1t38tjo/a_bunch_of_quotes_from_warren_buffett/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1t387a5",
-      "title": "Built a free wheel strategy scanner — spinputs.com (no account, data stays local)",
+      "id": "t3_1t49zsk",
+      "title": "12% return in 10 days",
       "subreddit": "options",
-      "author": "/u/Longjumping_Ad274",
+      "author": "/u/All_is_well001",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-05-04T05:09:21+00:00",
-      "url": "https://old.reddit.com/r/options/comments/1t387a5/built_a_free_wheel_strategy_scanner_spinputscom/",
+      "created": "2026-05-05T09:07:50+00:00",
+      "url": "https://old.reddit.com/r/options/comments/1t49zsk/12_return_in_10_days/",
       "tickers": []
     },
     {
-      "id": "t3_1t380y7",
-      "title": "Weekly Stock Ideas Megathread: Week of May 04, 2026",
+      "id": "t3_1t49q8u",
+      "title": "Energy Recovery (ERII): a “hidden” small cap on the world’s new gold — WATER",
       "subreddit": "valueinvesting",
+      "author": "/u/SfiberWonder",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-05T08:52:00+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t49q8u/energy_recovery_erii_a_hidden_small_cap_on_the/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t49n3i",
+      "title": "Manager-led funds and poker players",
+      "subreddit": "valueinvesting",
+      "author": "/u/Jera_Value",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-05T08:46:46+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t49n3i/managerled_funds_and_poker_players/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t49ktb",
+      "title": "Manager-led funds and poker players",
+      "subreddit": "stocks",
+      "author": "/u/Jera_Value",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-05T08:42:54+00:00",
+      "url": "https://old.reddit.com/r/stocks/comments/1t49ktb/managerled_funds_and_poker_players/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t48vix",
+      "title": "Daily General Discussion and Advice Thread - May 05, 2026",
+      "subreddit": "investing",
       "author": "/u/AutoModerator",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-05-04T05:00:09+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t380y7/weekly_stock_ideas_megathread_week_of_may_04_2026/",
+      "created": "2026-05-05T08:00:18+00:00",
+      "url": "https://old.reddit.com/r/investing/comments/1t48vix/daily_general_discussion_and_advice_thread_may_05/",
       "tickers": []
     },
     {
-      "id": "t3_1t370jh",
-      "title": "I followed unusual option flow signals for all of April. Here are the actual trades, wins and losses",
-      "subreddit": "options",
-      "author": "/u/ShelterBubbly7854",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-04T04:06:58+00:00",
-      "url": "https://old.reddit.com/r/options/comments/1t370jh/i_followed_unusual_option_flow_signals_for_all_of/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1t35lrn",
-      "title": "Best Trade EVER",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Alrvd83",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-04T02:57:41+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t35lrn/best_trade_ever/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1t34ie8",
-      "title": "Foreclosure filings hit their highest level since 2020",
+      "id": "t3_1t48gk0",
+      "title": "What is Motley Fool talking about here?",
       "subreddit": "stocks",
-      "author": "/u/mastertofu",
+      "author": "/u/Any-Car7782",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-05-04T02:07:00+00:00",
-      "url": "https://old.reddit.com/r/stocks/comments/1t34ie8/foreclosure_filings_hit_their_highest_level_since/",
+      "created": "2026-05-05T07:34:58+00:00",
+      "url": "https://old.reddit.com/r/stocks/comments/1t48gk0/what_is_motley_fool_talking_about_here/",
       "tickers": []
     },
     {
-      "id": "t3_1t341gh",
-      "title": "Backdoor Roth annual contribution question",
-      "subreddit": "investing",
-      "author": "/u/mr_mother",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-04T01:45:43+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1t341gh/backdoor_roth_annual_contribution_question/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1t33ufk",
-      "title": "Need feedback about my site",
-      "subreddit": "options",
-      "author": "/u/Salt-Replacement-653",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-04T01:36:39+00:00",
-      "url": "https://old.reddit.com/r/options/comments/1t33ufk/need_feedback_about_my_site/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1t337h8",
-      "title": "Picks and Shovels",
-      "subreddit": "stocks",
-      "author": "/u/snowycashflow",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-04T01:08:19+00:00",
-      "url": "https://old.reddit.com/r/stocks/comments/1t337h8/picks_and_shovels/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1t32v8f",
-      "title": "Stock market today: S&P 500, Nasdaq, Dow futures climb as the US and Iran inch toward peace talks",
-      "subreddit": "stocks",
-      "author": "/u/app1310",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-05-04T00:53:17+00:00",
-      "url": "https://old.reddit.com/r/stocks/comments/1t32v8f/stock_market_today_sp_500_nasdaq_dow_futures/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1t31ugy",
-      "title": "First attempt at Meta valuation during this period of increased capex.",
+      "id": "t3_1t48bt5",
+      "title": "Hidden Chinese AI gems?",
       "subreddit": "valueinvesting",
-      "author": "/u/raytoei",
+      "author": "/u/ggtfcjj",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-05-04T00:06:30+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t31ugy/first_attempt_at_meta_valuation_during_this/",
+      "created": "2026-05-05T07:26:59+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t48bt5/hidden_chinese_ai_gems/",
       "tickers": []
     },
     {
-      "id": "t3_1t31m17",
-      "title": "GameStop Is Offering to Buy eBay for $56 Billion",
-      "subreddit": "stocks",
-      "author": "/u/PhxCollins",
+      "id": "t3_1t48846",
+      "title": "Has our Virtue Deteriorated?",
+      "subreddit": "valueinvesting",
+      "author": "/u/aWheatgeMcgee",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-05-03T23:56:41+00:00",
-      "url": "https://old.reddit.com/r/stocks/comments/1t31m17/gamestop_is_offering_to_buy_ebay_for_56_billion/",
+      "created": "2026-05-05T07:20:39+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t48846/has_our_virtue_deteriorated/",
       "tickers": [
-        "GME",
-        "EBAY"
+        "DJCO"
       ]
     },
     {
-      "id": "t3_1t31lf9",
-      "title": "Moomoo option trading",
-      "subreddit": "options",
-      "author": "/u/ReasonableOutlook",
+      "id": "t3_1t4862h",
+      "title": "Crash resistant stock",
+      "subreddit": "valueinvesting",
+      "author": "/u/Aware_Roof_7026",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-05-03T23:55:55+00:00",
-      "url": "https://old.reddit.com/r/options/comments/1t31lf9/moomoo_option_trading/",
+      "created": "2026-05-05T07:17:06+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t4862h/crash_resistant_stock/",
       "tickers": []
     },
     {
-      "id": "t3_1t312q5",
-      "title": "I don't even know why I sold..",
+      "id": "t3_1t48472",
+      "title": "5K gainz on MRVL",
       "subreddit": "wallstreetbets",
-      "author": "/u/bajagfjdlbkaoa",
+      "author": "/u/jackjones5",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-05-03T23:32:22+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t312q5/i_dont_even_know_why_i_sold/",
+      "created": "2026-05-05T07:14:03+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t48472/5k_gainz_on_mrvl/",
       "tickers": []
     },
     {
-      "id": "t3_1t308jt",
-      "title": "Section 1256 contracts, straddle rules, deferred losses for tax purposes",
+      "id": "t3_1t47lln",
+      "title": "$QBTS: Real Company or Quantum Hype?",
+      "subreddit": "valueinvesting",
+      "author": "/u/mahend72",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-05T06:44:14+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1t47lln/qbts_real_company_or_quantum_hype/",
+      "tickers": [
+        "QBTS"
+      ]
+    },
+    {
+      "id": "t3_1t463es",
+      "title": "[ Removed by Reddit ]",
       "subreddit": "options",
-      "author": "/u/fomoandyoloandnogrow",
+      "author": "/u/Dr_Dispute",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-05-03T22:55:38+00:00",
-      "url": "https://old.reddit.com/r/options/comments/1t308jt/section_1256_contracts_straddle_rules_deferred/",
+      "created": "2026-05-05T05:20:44+00:00",
+      "url": "https://old.reddit.com/r/options/comments/1t463es/removed_by_reddit/",
       "tickers": []
     },
     {
-      "id": "t3_1t2zw8c",
-      "title": "The AI Bubble: When the Hype Meets Reality",
+      "id": "t3_1t45vk5",
+      "title": "Brokerage account same as a Roth IRA?",
       "subreddit": "investing",
-      "author": "/u/GlobalTechnician5442",
+      "author": "/u/Austinlf63",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-05-03T22:40:57+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1t2zw8c/the_ai_bubble_when_the_hype_meets_reality/",
+      "created": "2026-05-05T05:09:18+00:00",
+      "url": "https://old.reddit.com/r/investing/comments/1t45vk5/brokerage_account_same_as_a_roth_ira/",
       "tickers": []
     },
     {
-      "id": "t3_1t2zvb4",
-      "title": "Anyone sell call spreads against Zebra’s or hedged synthetics?",
+      "id": "t3_1t44339",
+      "title": "Don’t day trade",
+      "subreddit": "wallstreetbets",
+      "author": "/u/IllGroup7",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-05T03:40:09+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t44339/dont_day_trade/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t43v9k",
+      "title": "Looking for input on tax strategy: closing covered call at loss to offset short-term capital gains",
       "subreddit": "options",
-      "author": "/u/Dashover",
+      "author": "/u/pantaloonsss",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-05-03T22:39:54+00:00",
-      "url": "https://old.reddit.com/r/options/comments/1t2zvb4/anyone_sell_call_spreads_against_zebras_or_hedged/",
+      "created": "2026-05-05T03:29:39+00:00",
+      "url": "https://old.reddit.com/r/options/comments/1t43v9k/looking_for_input_on_tax_strategy_closing_covered/",
       "tickers": []
     },
     {
-      "id": "t3_1t2yst9",
-      "title": "Right now with how the economy is going, would it be to wise to invest 100K in an 100% worldwide equities ETF portfolio or split some between savings accounts, bonds etc? LONG TERM horizon but also wondering about consensus over next 12 months",
+      "id": "t3_1t43pvy",
+      "title": "Portfolio advice in retirement",
       "subreddit": "investing",
-      "author": "/u/IAmTheQuestionHere",
+      "author": "/u/Appropriate-Pound-25",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-05-03T21:55:22+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1t2yst9/right_now_with_how_the_economy_is_going_would_it/",
+      "created": "2026-05-05T03:22:23+00:00",
+      "url": "https://old.reddit.com/r/investing/comments/1t43pvy/portfolio_advice_in_retirement/",
       "tickers": []
+    },
+    {
+      "id": "t3_1t43dm5",
+      "title": "Credit Weekly: The Co-Op Is The Trade (CDK Global)",
+      "subreddit": "SecurityAnalysis",
+      "author": "/u/MatricesRL",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-05T03:06:14+00:00",
+      "url": "https://old.reddit.com/r/SecurityAnalysis/comments/1t43dm5/credit_weekly_the_coop_is_the_trade_cdk_global/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t43a79",
+      "title": "Apple explores Intel & Samsung for Main Device Chips in US",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Dickasaurus_Rex_",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-05T03:01:52+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1t43a79/apple_explores_intel_samsung_for_main_device/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1t42uo3",
+      "title": "Is Brian Niccol the worst CEO for long term brand health? ($SBUX)",
+      "subreddit": "investing",
+      "author": "/u/Genzinvestor16180339",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-05-05T02:42:53+00:00",
+      "url": "https://old.reddit.com/r/investing/comments/1t42uo3/is_brian_niccol_the_worst_ceo_for_long_term_brand/",
+      "tickers": [
+        "SBUX"
+      ]
     }
   ],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=69615",
+      "title": "Talk Your Book: Animal Spirits Live with F/m Investments",
+      "link": "https://awealthofcommonsense.com/2026/05/talk-your-book-animal-spirits-live-with-f-m-investments/",
+      "publishedAt": "2026-05-04T11:15:21.000Z",
+      "snippet": "On today's Talk Your Book we have a live show we recorded in Washington D.C. with Alex Morris from F/m Investments that covers inflation, the Fed, AI, tax alpha and much more The post Talk Your Book: Animal Spirits Live ",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "doomberg-https://newsletter.doomberg.com/p/sovereign-arbitrage",
       "title": "Sovereign Arbitrage",
@@ -438,16 +461,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=69576",
-      "title": "How Does a Bond Ladder Work?",
-      "link": "https://awealthofcommonsense.com/2026/04/how-does-a-bond-ladder-work/",
-      "publishedAt": "2026-04-30T13:54:27.000Z",
-      "snippet": "When does a bond ladder make sense? The post How Does a Bond Ladder Work? appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "doomberg-https://newsletter.doomberg.com/p/rain-check",
