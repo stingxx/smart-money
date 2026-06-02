@@ -1,94 +1,23 @@
 {
-  "lastUpdated": "2026-06-01T15:41:17.397Z",
+  "lastUpdated": "2026-06-02T12:57:45.589Z",
   "holdings": {},
   "redditTickers": [
     {
-      "ticker": "RKLB",
-      "mentions": 2,
-      "subreddits": [
-        "wallstreetbets",
-        "stocks"
-      ]
-    },
-    {
-      "ticker": "SPCE",
+      "ticker": "MCD",
       "mentions": 1,
       "subreddits": [
         "wallstreetbets"
       ]
     },
     {
-      "ticker": "GLXY",
+      "ticker": "HUT",
       "mentions": 1,
       "subreddits": [
         "wallstreetbets"
       ]
     },
     {
-      "ticker": "HERB",
-      "mentions": 1,
-      "subreddits": [
-        "stocks"
-      ]
-    },
-    {
-      "ticker": "LUFFF",
-      "mentions": 1,
-      "subreddits": [
-        "stocks"
-      ]
-    },
-    {
-      "ticker": "SMMT",
-      "mentions": 1,
-      "subreddits": [
-        "stocks"
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "mentions": 1,
-      "subreddits": [
-        "valueinvesting"
-      ]
-    },
-    {
-      "ticker": "JACK",
-      "mentions": 1,
-      "subreddits": [
-        "valueinvesting"
-      ]
-    },
-    {
-      "ticker": "HUBS",
-      "mentions": 1,
-      "subreddits": [
-        "valueinvesting"
-      ]
-    },
-    {
-      "ticker": "PANW",
-      "mentions": 1,
-      "subreddits": [
-        "valueinvesting"
-      ]
-    },
-    {
-      "ticker": "CRWD",
-      "mentions": 1,
-      "subreddits": [
-        "valueinvesting"
-      ]
-    },
-    {
-      "ticker": "ORCL",
-      "mentions": 1,
-      "subreddits": [
-        "valueinvesting"
-      ]
-    },
-    {
-      "ticker": "XZO",
+      "ticker": "UBER",
       "mentions": 1,
       "subreddits": [
         "valueinvesting"
@@ -123,7 +52,42 @@
       ]
     },
     {
-      "ticker": "INTU",
+      "ticker": "MU",
+      "mentions": 1,
+      "subreddits": [
+        "options"
+      ]
+    },
+    {
+      "ticker": "RBLX",
+      "mentions": 1,
+      "subreddits": [
+        "options"
+      ]
+    },
+    {
+      "ticker": "ADI",
+      "mentions": 1,
+      "subreddits": [
+        "options"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "mentions": 1,
+      "subreddits": [
+        "options"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "mentions": 1,
+      "subreddits": [
+        "options"
+      ]
+    },
+    {
+      "ticker": "AVGO",
       "mentions": 1,
       "subreddits": [
         "options"
@@ -132,344 +96,349 @@
   ],
   "redditPosts": [
     {
-      "id": "t3_1ttvyq0",
-      "title": "Jumbo S.A. (ATHEX: BELA) — Greek specialty retailer, ~9x earnings, near 52-week lows",
-      "subreddit": "valueinvesting",
-      "author": "/u/IndependentSir9398",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T15:37:19+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1ttvyq0/jumbo_sa_athex_bela_greek_specialty_retailer_9x/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ttvkww",
-      "title": "Market not reacting negatively to oil price shocks anymore",
-      "subreddit": "stocks",
-      "author": "/u/Excellent_Cost170",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T15:24:41+00:00",
-      "url": "https://old.reddit.com/r/stocks/comments/1ttvkww/market_not_reacting_negatively_to_oil_price/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ttvj7k",
-      "title": "The 4 AI infrastructure problems every institutional investor seems to have",
-      "subreddit": "investing",
-      "author": "/u/dreeya06",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T15:23:10+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1ttvj7k/the_4_ai_infrastructure_problems_every/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ttvddu",
-      "title": "The Great Protein Shortage of 2026 - DD",
-      "subreddit": "wallstreetbets",
-      "author": "/u/christophbeatty",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T15:17:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ttvddu/the_great_protein_shortage_of_2026_dd/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ttv8z3",
-      "title": "How to find 100 baggers",
-      "subreddit": "valueinvesting",
-      "author": "/u/FederalPermission261",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T15:13:31+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1ttv8z3/how_to_find_100_baggers/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ttv6tl",
-      "title": "How to Learn ST Swing Better",
-      "subreddit": "stocks",
-      "author": "/u/NoraEmiE",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T15:11:25+00:00",
-      "url": "https://old.reddit.com/r/stocks/comments/1ttv6tl/how_to_learn_st_swing_better/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ttuwlb",
-      "title": "Household Debt Rises in Taiwan as Investors Borrow To Buy Stocks｜TaiwanPlus News",
-      "subreddit": "valueinvesting",
-      "author": "/u/sudhanphd",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T15:01:38+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1ttuwlb/household_debt_rises_in_taiwan_as_investors/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ttus29",
-      "title": "12k loss porn on a shitty stock by trump Jr and conor McGregor",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Weekly-Ad8816",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T14:57:32+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ttus29/12k_loss_porn_on_a_shitty_stock_by_trump_jr_and/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ttuolb",
-      "title": "The top of the market is today ...",
+      "id": "t3_1tuq494",
+      "title": "Using the VIX’s for anticipated price ranges",
       "subreddit": "options",
-      "author": "/u/arbitrageME",
+      "author": "/u/ChickenMazhou",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-06-01T14:54:09+00:00",
-      "url": "https://old.reddit.com/r/options/comments/1ttuolb/the_top_of_the_market_is_today/",
+      "created": "2026-06-02T12:55:03+00:00",
+      "url": "https://old.reddit.com/r/options/comments/1tuq494/using_the_vixs_for_anticipated_price_ranges/",
       "tickers": []
     },
     {
-      "id": "t3_1ttunpo",
-      "title": "Herbal Dispatch $HERB.CN / $LUFFF Q1 Major Pivot Veteran Channel Soars 98%, Massive International Shipments Signal Global Breakout",
-      "subreddit": "stocks",
-      "author": "/u/ComprehensiveArmy451",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T14:53:17+00:00",
-      "url": "https://old.reddit.com/r/stocks/comments/1ttunpo/herbal_dispatch_herbcn_lufff_q1_major_pivot/",
-      "tickers": [
-        "HERB",
-        "LUFFF"
-      ]
-    },
-    {
-      "id": "t3_1ttul6p",
-      "title": "Michael Burry's Chart on How Elon Musk-Nvidia Deal is Putting US Retirees at Risk",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Useful_Tangerine4340",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T14:50:53+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ttul6p/michael_burrys_chart_on_how_elon_musknvidia_deal/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ttuhmc",
-      "title": "META loss porn",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Funny-Sprinkles-5674",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T14:47:29+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ttuhmc/meta_loss_porn/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ttuh6k",
-      "title": "JPMorgan Casts Doubt on Speculative Tech After 57% Rally",
-      "subreddit": "stocks",
-      "author": "/u/joe4942",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T14:47:02+00:00",
-      "url": "https://old.reddit.com/r/stocks/comments/1ttuh6k/jpmorgan_casts_doubt_on_speculative_tech_after_57/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ttuapa",
-      "title": "When do we sell ?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/YourSelf5454",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T14:40:38+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ttuapa/when_do_we_sell/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ttu8y8",
-      "title": "Score de Risco da Sua Carteira de Investimentos",
-      "subreddit": "valueinvesting",
-      "author": "/u/Key-Researcher9856",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T14:38:58+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1ttu8y8/score_de_risco_da_sua_carteira_de_investimentos/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1tttxjr",
-      "title": "Strategy shares fall after selling $2.5 million in bitcoin, its first sale since 2022",
-      "subreddit": "stocks",
-      "author": "/u/joe4942",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T14:28:31+00:00",
-      "url": "https://old.reddit.com/r/stocks/comments/1tttxjr/strategy_shares_fall_after_selling_25_million_in/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1tttm5n",
-      "title": "How many holdings before diversification becomes diworsification?",
-      "subreddit": "investing",
-      "author": "/u/muhammedaroos",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T14:17:25+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1tttm5n/how_many_holdings_before_diversification_becomes/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1tttl6d",
-      "title": "berkshire buying thmc points at the plumbing??",
-      "subreddit": "stocks",
-      "author": "/u/RareRanger2217",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T14:16:33+00:00",
-      "url": "https://old.reddit.com/r/stocks/comments/1tttl6d/berkshire_buying_thmc_points_at_the_plumbing/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1tttl2g",
-      "title": "Trading of SPCE halted... I have seen this before",
-      "subreddit": "wallstreetbets",
-      "author": "/u/SirMoistalot",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T14:16:28+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1tttl2g/trading_of_spce_halted_i_have_seen_this_before/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1tttiyz",
-      "title": "SPX 1DTE 7510/7500",
+      "id": "t3_1tupsu0",
+      "title": "Are you actually good at chart analysis?",
       "subreddit": "options",
-      "author": "/u/One-Dingo1220",
+      "author": "/u/Own-Cartographer409",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-06-01T14:14:24+00:00",
-      "url": "https://old.reddit.com/r/options/comments/1tttiyz/spx_1dte_75107500/",
+      "created": "2026-06-02T12:42:08+00:00",
+      "url": "https://old.reddit.com/r/options/comments/1tupsu0/are_you_actually_good_at_chart_analysis/",
       "tickers": []
     },
     {
-      "id": "t3_1ttthvb",
-      "title": "Taking profits $rklb $amd $now",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Hypednino",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T14:13:23+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ttthvb/taking_profits_rklb_amd_now/",
-      "tickers": [
-        "RKLB"
-      ]
-    },
-    {
-      "id": "t3_1ttthhw",
-      "title": "Iran stops negotiations with U.S., vows to 'completely' block Strait of Hormuz: State media",
-      "subreddit": "wallstreetbets",
-      "author": "/u/maddog107",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T14:13:01+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ttthhw/iran_stops_negotiations_with_us_vows_to/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ttsxwz",
-      "title": "META: The core business is still a monster, but the stock now depends on one uncomfortable question",
-      "subreddit": "valueinvesting",
-      "author": "/u/Low_Oil2169",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T13:53:51+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1ttsxwz/meta_the_core_business_is_still_a_monster_but_the/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ttsrqv",
-      "title": "MSFT actually goes up?!",
-      "subreddit": "wallstreetbets",
-      "author": "/u/SuffiecientSapian",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T13:47:30+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ttsrqv/msft_actually_goes_up/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ttsjgg",
-      "title": "Very confused by $SMMT",
+      "id": "t3_1tupsgk",
+      "title": "Googl down 10% from ATH. Is it a good time to buy some more?",
       "subreddit": "stocks",
-      "author": "/u/The_Platypus10",
+      "author": "/u/mojolakota",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-06-01T13:39:08+00:00",
-      "url": "https://old.reddit.com/r/stocks/comments/1ttsjgg/very_confused_by_smmt/",
+      "created": "2026-06-02T12:41:43+00:00",
+      "url": "https://old.reddit.com/r/stocks/comments/1tupsgk/googl_down_10_from_ath_is_it_a_good_time_to_buy/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tup8av",
+      "title": "Should interest rates rise sharply over the next 10 years?",
+      "subreddit": "investing",
+      "author": "/u/czx5",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T12:18:35+00:00",
+      "url": "https://old.reddit.com/r/investing/comments/1tup8av/should_interest_rates_rise_sharply_over_the_next/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tup0g0",
+      "title": "Ideas To Prepare for IPO onslaught",
+      "subreddit": "valueinvesting",
+      "author": "/u/westonarms",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T12:09:21+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1tup0g0/ideas_to_prepare_for_ipo_onslaught/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tuoutt",
+      "title": "Fed hikes in June? USDJPY at 159.446—watch BOJ & AUD positioning",
+      "subreddit": "options",
+      "author": "/u/OpticAlpha8",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T12:02:39+00:00",
+      "url": "https://old.reddit.com/r/options/comments/1tuoutt/fed_hikes_in_june_usdjpy_at_159446watch_boj_aud/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tuop6x",
+      "title": "Short Term Nividia Call",
+      "subreddit": "options",
+      "author": "/u/Cartier_KOVI",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T11:56:08+00:00",
+      "url": "https://old.reddit.com/r/options/comments/1tuop6x/short_term_nividia_call/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tuolic",
+      "title": "Overhyped but Underpriced: The Nvidia Bargain",
+      "subreddit": "valueinvesting",
+      "author": "/u/Electrical_County_61",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T11:51:41+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1tuolic/overhyped_but_underpriced_the_nvidia_bargain/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tuo46y",
+      "title": "Remember Oracle?.. I remember Oracle..",
+      "subreddit": "wallstreetbets",
+      "author": "/u/ErrorProxy",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T11:29:46+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1tuo46y/remember_oracle_i_remember_oracle/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tuo1yr",
+      "title": "Citi Research Upgrades KSS to a BUY",
+      "subreddit": "valueinvesting",
+      "author": "/u/Friendly-Excuse400",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T11:26:46+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1tuo1yr/citi_research_upgrades_kss_to_a_buy/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tuny1d",
+      "title": "Is RDDT the perfect long-term growth play at current valuations?",
+      "subreddit": "investing",
+      "author": "/u/Select-Leading-4542",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T11:21:35+00:00",
+      "url": "https://old.reddit.com/r/investing/comments/1tuny1d/is_rddt_the_perfect_longterm_growth_play_at/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tunvlb",
+      "title": "US Stocks Surpass 1929 Valuation Levels as AI Rally Accelerates",
+      "subreddit": "stocks",
+      "author": "/u/LavishlyRitzyy",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T11:18:14+00:00",
+      "url": "https://old.reddit.com/r/stocks/comments/1tunvlb/us_stocks_surpass_1929_valuation_levels_as_ai/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tunkgs",
+      "title": "Here is what can still fail the SLS trial when success seems \"guaranteed\"",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Bulls_Will_Win",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T11:03:14+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1tunkgs/here_is_what_can_still_fail_the_sls_trial_when/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tunilo",
+      "title": "Daily Discussion Thread for June 02, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/wsbapp",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T11:00:54+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1tunilo/daily_discussion_thread_for_june_02_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tumy0p",
+      "title": "Sold my home what to do with equity?",
+      "subreddit": "investing",
+      "author": "/u/Mshepard24",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T10:31:56+00:00",
+      "url": "https://old.reddit.com/r/investing/comments/1tumy0p/sold_my_home_what_to_do_with_equity/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tumvdb",
+      "title": "MNTN: Undervalued Performance TV Advertising Company",
+      "subreddit": "valueinvesting",
+      "author": "/u/Pitiful-Schedule1946",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T10:28:14+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1tumvdb/mntn_undervalued_performance_tv_advertising/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tumk9o",
+      "title": "Libertystream Infrastructure Partners (LIB): Revolutionizing Domestic Lithium Production",
+      "subreddit": "valueinvesting",
+      "author": "/u/Ok_Camp_8081",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T10:12:30+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1tumk9o/libertystream_infrastructure_partners_lib/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tuls6m",
+      "title": "r/Stocks Daily Discussion & Technicals Tuesday - Jun 02, 2026",
+      "subreddit": "stocks",
+      "author": "/u/AutoModerator",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T09:30:05+00:00",
+      "url": "https://old.reddit.com/r/stocks/comments/1tuls6m/rstocks_daily_discussion_technicals_tuesday_jun/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tulcn0",
+      "title": "Inflation hits 3.2% in the euro zone as Iran war pushes energy costs higher",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Tadikif",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T09:05:40+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1tulcn0/inflation_hits_32_in_the_euro_zone_as_iran_war/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tuk7m7",
+      "title": "What happened to biotechnological companies in 2020-2022?",
+      "subreddit": "valueinvesting",
+      "author": "/u/Tonka-Jahari-Pizza",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T08:01:02+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1tuk7m7/what_happened_to_biotechnological_companies_in/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tuk6zg",
+      "title": "Daily General Discussion and Advice Thread - June 02, 2026",
+      "subreddit": "investing",
+      "author": "/u/AutoModerator",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T08:00:14+00:00",
+      "url": "https://old.reddit.com/r/investing/comments/1tuk6zg/daily_general_discussion_and_advice_thread_june/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tuk1vd",
+      "title": "SNDK: Zero-Cost Collar Opportunity on a Momentum Leader",
+      "subreddit": "options",
+      "author": "/u/DueDilligenceTrader",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T07:52:06+00:00",
+      "url": "https://old.reddit.com/r/options/comments/1tuk1vd/sndk_zerocost_collar_opportunity_on_a_momentum/",
       "tickers": [
-        "SMMT"
+        "MU"
       ]
     },
     {
-      "id": "t3_1ttsbaw",
-      "title": "Buy and hold vs. active trading, how do you decide?",
-      "subreddit": "investing",
-      "author": "/u/Fit-Poet6736",
+      "id": "t3_1tujlqs",
+      "title": "What would you invest in with $18k right now?",
+      "subreddit": "valueinvesting",
+      "author": "/u/poundofcake",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-06-01T13:30:46+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1ttsbaw/buy_and_hold_vs_active_trading_how_do_you_decide/",
+      "created": "2026-06-02T07:26:19+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1tujlqs/what_would_you_invest_in_with_18k_right_now/",
       "tickers": []
     },
     {
-      "id": "t3_1tts4cs",
-      "title": "MSTR sold 32 BTC- more to come? down 5% pre-market",
+      "id": "t3_1tujgn0",
+      "title": "The Eighty Billion Dollar Perspective Dilemma: 2026 Edition",
+      "subreddit": "investing",
+      "author": "/u/marima33",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T07:18:05+00:00",
+      "url": "https://old.reddit.com/r/investing/comments/1tujgn0/the_eighty_billion_dollar_perspective_dilemma/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tuizl2",
+      "title": "Where should I invest small amount of money/month",
+      "subreddit": "investing",
+      "author": "/u/IndependentStore9566",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T06:52:05+00:00",
+      "url": "https://old.reddit.com/r/investing/comments/1tuizl2/where_should_i_invest_small_amount_of_moneymonth/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tuikhr",
+      "title": "what to invest in as a 14 yr old",
+      "subreddit": "valueinvesting",
+      "author": "/u/Admirable-Shift1856",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T06:28:50+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1tuikhr/what_to_invest_in_as_a_14_yr_old/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tuig2r",
+      "title": "Next bottleneck is high spec PC for local agentic workflow.",
       "subreddit": "wallstreetbets",
-      "author": "/u/KleinerFuchs14",
+      "author": "/u/Fluffy-Discussion166",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-06-01T13:23:35+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1tts4cs/mstr_sold_32_btc_more_to_come_down_5_premarket/",
+      "created": "2026-06-02T06:22:07+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1tuig2r/next_bottleneck_is_high_spec_pc_for_local_agentic/",
       "tickers": []
     },
     {
-      "id": "t3_1tts3px",
-      "title": "Here goes 2 net yearly salary of an europoor regard. SPCEx IPO to the moon!",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Imaginary_Lock1938",
+      "id": "t3_1tuicje",
+      "title": "In my opinion, \"Same as Ever\" is one of the best books of investing",
+      "subreddit": "valueinvesting",
+      "author": "/u/_hemisphere",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-06-01T13:22:57+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1tts3px/here_goes_2_net_yearly_salary_of_an_europoor/",
+      "created": "2026-06-02T06:16:49+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1tuicje/in_my_opinion_same_as_ever_is_one_of_the_best/",
       "tickers": []
     },
     {
-      "id": "t3_1ttryug",
-      "title": "AI is real. The AI bubble is also real. Both things can be true.",
+      "id": "t3_1tui2x9",
+      "title": "How do you track whether your original investment thesis is still valid after 1-2 years?",
+      "subreddit": "valueinvesting",
+      "author": "/u/Careful_North3421",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-02T06:02:32+00:00",
+      "url": "https://old.reddit.com/r/ValueInvesting/comments/1tui2x9/how_do_you_track_whether_your_original_investment/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1tuh68i",
+      "title": "AI is creating a new gold rush. Companies are investing heavily in the energy sector. AIPO ETF?",
       "subreddit": "investing",
-      "author": "/u/Roaring_lion_",
+      "author": "/u/TheReborner",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-06-01T13:17:54+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1ttryug/ai_is_real_the_ai_bubble_is_also_real_both_things/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ttrp9s",
-      "title": "Is VT also safe from SpaceX risk?",
-      "subreddit": "investing",
-      "author": "/u/Inner_Ad_4725",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-01T13:08:02+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1ttrp9s/is_vt_also_safe_from_spacex_risk/",
+      "created": "2026-06-02T05:14:39+00:00",
+      "url": "https://old.reddit.com/r/investing/comments/1tuh68i/ai_is_creating_a_new_gold_rush_companies_are/",
       "tickers": []
     }
   ],
   "blogPosts": [
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=31818",
+      "title": "Being Useful is More Attractive Than Being Rich",
+      "link": "https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/",
+      "publishedAt": "2026-06-02T11:45:19.000Z",
+      "snippet": "I recently saw this Reddit post about a man who retired early ( FIRE ) only to be called a \"loser\" by his wife go viral. In the man's own words: 41m, $2mm liquid, $650k retirement and I get a $75k/yr royalty from a busin",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=70128",
       "title": "Talk Your Book: Why Rising Rates Won&#8217;t Hurt You Anymore",
@@ -495,7 +464,7 @@
       "title": "The Different Kinds of Investors",
       "link": "https://awealthofcommonsense.com/2026/05/the-different-kinds-of-investors/",
       "publishedAt": "2026-06-01T02:58:39.000Z",
-      "snippet": "The many ways to be successful as an ivnestor. The post The Different Kinds of Investors appeared first on A Wealth of Common Sense. ...",
+      "snippet": "The many ways to be successful as an investor. The post The Different Kinds of Investors appeared first on A Wealth of Common Sense. ...",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
@@ -579,16 +548,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "dollars-data-https://ofdollarsanddata.com/?p=31976",
-      "title": "The Risk-Wealth Paradox: Why More Money Means You Should Take Less Risk",
-      "link": "https://ofdollarsanddata.com/the-risk-wealth-paradox/",
-      "publishedAt": "2026-05-12T11:45:32.000Z",
-      "snippet": "There's a common belief that as your wealth increases, your capacity to take risk increases as well. After all, when you have more you can afford to lose more, right? This might be correct in the extremes, but this argum",
-      "author": "Nick Maggiulli",
-      "handle": "Of Dollars and Data",
-      "tag": "Behavioral"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
