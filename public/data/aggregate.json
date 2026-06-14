@@ -1,30 +1,129 @@
 {
-  "lastUpdated": "2026-06-13T11:28:46.043Z",
+  "lastUpdated": "2026-06-14T11:39:40.127Z",
   "holdings": {},
-  "redditTickers": [
-    {
-      "ticker": "SPCX",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "SPCE",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "SPXC",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    }
-  ],
+  "redditTickers": [],
   "redditPosts": [
+    {
+      "id": "t3_1u5hfne",
+      "title": "never swiped right this fast in my life",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Ok_Magician7682",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-14T10:18:36+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u5hfne/never_swiped_right_this_fast_in_my_life/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u5ggap",
+      "title": "Serious Question: What qualifications do you need to become one of those Wall Street Guy’s wearing Patagonia Vests?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/BillyBillyButcherr",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-14T09:19:13+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u5ggap/serious_question_what_qualifications_do_you_need/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u5euh0",
+      "title": "RAM is not cyclical(not till 2030 at least)",
+      "subreddit": "wallstreetbets",
+      "author": "/u/SnooHedgehogs5162",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-14T07:40:06+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u5euh0/ram_is_not_cyclicalnot_till_2030_at_least/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u5e1m6",
+      "title": "Europe Is Too Scared to Grow, So Their Money Keeps Buying My SPY Calls",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Nasha210",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-14T06:53:02+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u5e1m6/europe_is_too_scared_to_grow_so_their_money_keeps/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u5ctyn",
+      "title": "What will be the impact on MRVL from inclusion in SP500 on 22 June?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/zooretdota",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-14T05:45:27+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u5ctyn/what_will_be_the_impact_on_mrvl_from_inclusion_in/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u54frd",
+      "title": "how do i get a refund?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/trysavingmenot",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-13T22:46:33+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u54frd/how_do_i_get_a_refund/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u5200w",
+      "title": "Cathie Wood Buys 3.3 Million SpaceX Shares On IPO Day",
+      "subreddit": "wallstreetbets",
+      "author": "/u/just-hokum",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-13T20:58:20+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u5200w/cathie_wood_buys_33_million_spacex_shares_on_ipo/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u4zfmo",
+      "title": "5k-66k in 3 days. Life finds a way",
+      "subreddit": "wallstreetbets",
+      "author": "/u/lococommotion",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-13T19:11:54+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u4zfmo/5k66k_in_3_days_life_finds_a_way/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u4x21r",
+      "title": "Bald 7k",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Huge_Finish6990",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-13T17:37:16+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u4x21r/bald_7k/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u4wsn1",
+      "title": "Bullish thesis for SPCX into the summer",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Fun_Paleontologist_2",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-13T17:26:47+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u4wsn1/bullish_thesis_for_spcx_into_the_summer/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u4w9mx",
+      "title": "Trump says Iran deal will be signed Sunday, Strait of Hormuz to open immediately after",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Independent-Cress382",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-13T17:05:48+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u4w9mx/trump_says_iran_deal_will_be_signed_sunday_strait/",
+      "tickers": []
+    },
     {
       "id": "t3_1u4nzr5",
       "title": "Attractive women are starting to approach me. God help us all.",
@@ -48,17 +147,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1u4kh2k",
-      "title": "Futures Gains!",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Mr-mma",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-13T07:28:35+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u4kh2k/futures_gains/",
-      "tickers": []
-    },
-    {
       "id": "t3_1u4kas1",
       "title": "Space X Options Are Enabled Tuesday",
       "subreddit": "wallstreetbets",
@@ -70,17 +158,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1u4jpzr",
-      "title": "US gov might have inadvertently popped the AI bubble",
-      "subreddit": "wallstreetbets",
-      "author": "/u/nse_yolo",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-13T06:45:33+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u4jpzr/us_gov_might_have_inadvertently_popped_the_ai/",
-      "tickers": []
-    },
-    {
       "id": "t3_1u4fvtf",
       "title": "0dte SPY strat",
       "subreddit": "wallstreetbets",
@@ -89,17 +166,6 @@
       "num_comments": 0,
       "created": "2026-06-13T03:19:03+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1u4fvtf/0dte_spy_strat/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u4es1m",
-      "title": "Correction is Coming - 51k PUT bet on SOXX",
-      "subreddit": "wallstreetbets",
-      "author": "/u/stock_investor91",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-13T02:24:30+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u4es1m/correction_is_coming_51k_put_bet_on_soxx/",
       "tickers": []
     },
     {
@@ -169,17 +235,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1u45vgl",
-      "title": "PDT rule held me back",
-      "subreddit": "wallstreetbets",
-      "author": "/u/lorenzoeelen",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-12T19:57:29+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u45vgl/pdt_rule_held_me_back/",
-      "tickers": []
-    },
-    {
       "id": "t3_1u43p1f",
       "title": "Am I doing this right?",
       "subreddit": "wallstreetbets",
@@ -188,54 +243,6 @@
       "num_comments": 0,
       "created": "2026-06-12T18:34:16+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1u43p1f/am_i_doing_this_right/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u43aso",
-      "title": "SpaceX In and Out",
-      "subreddit": "wallstreetbets",
-      "author": "/u/MrSorge",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-12T18:19:51+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u43aso/spacex_in_and_out/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u41z42",
-      "title": "$SPCX vs $SPCE the degenerate thesis was hilariously wrong",
-      "subreddit": "wallstreetbets",
-      "author": "/u/rickster9",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-12T17:31:55+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u41z42/spcx_vs_spce_the_degenerate_thesis_was/",
-      "tickers": [
-        "SPCX",
-        "SPCE",
-        "SPXC"
-      ]
-    },
-    {
-      "id": "t3_1u411je",
-      "title": "It was a pleasure scamming scammers.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/IllDifficulty3487",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-12T16:58:49+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u411je/it_was_a_pleasure_scamming_scammers/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u3xban",
-      "title": "I am regarded SPCE loss",
-      "subreddit": "wallstreetbets",
-      "author": "/u/a7dfj8aerj",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-12T14:45:18+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u3xban/i_am_regarded_spce_loss/",
       "tickers": []
     },
     {
@@ -269,39 +276,6 @@
       "num_comments": 0,
       "created": "2026-06-12T14:08:07+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1u3wbgt/spacexs_president_is_floating_a_tesla_merger_as/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u3v7nm",
-      "title": "SPCX Allocation on ETrade",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Edgetiger",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-12T13:24:54+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u3v7nm/spcx_allocation_on_etrade/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u3oiny",
-      "title": "Spacex allocation",
-      "subreddit": "wallstreetbets",
-      "author": "/u/brandonng",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-12T07:33:22+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u3oiny/spacex_allocation/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u3dbia",
-      "title": "Ready for tomorrow?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/I_killed_the_kraken",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-11T22:18:42+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u3dbia/ready_for_tomorrow/",
       "tickers": []
     }
   ],
