@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-15T15:28:05.393Z",
+  "lastUpdated": "2026-06-16T14:30:57.878Z",
   "holdings": {},
   "redditTickers": [
     {
-      "ticker": "ZS",
+      "ticker": "SPCX",
       "mentions": 1,
       "subreddits": [
         "wallstreetbets"
@@ -12,14 +12,214 @@
   ],
   "redditPosts": [
     {
-      "id": "t3_1u6ixki",
-      "title": "Missed the boat, made some money in day trading 0DTE 100% win today !",
+      "id": "t3_1u7er9k",
+      "title": "Anyone sold SPCX Puts this morning on the 1st SPCX options day",
       "subreddit": "wallstreetbets",
-      "author": "/u/Good_Ride_2508",
+      "author": "/u/TCEHY",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-06-15T14:55:45+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6ixki/missed_the_boat_made_some_money_in_day_trading/",
+      "created": "2026-06-16T14:14:10+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7er9k/anyone_sold_spcx_puts_this_morning_on_the_1st/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u7enif",
+      "title": "$380 LEAP for SPCX wish me luck",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Swat-Benelli-M700",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T14:10:08+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7enif/380_leap_for_spcx_wish_me_luck/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u7e3gv",
+      "title": "Threw my entire Roth ira (315k worth) into SpaceX at 211",
+      "subreddit": "wallstreetbets",
+      "author": "/u/smellyfingernail",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T13:49:06+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7e3gv/threw_my_entire_roth_ira_315k_worth_into_spacex/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u7a2at",
+      "title": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60 billion",
+      "subreddit": "wallstreetbets",
+      "author": "/u/MeowTheMixer",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T10:48:06+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7a2at/spacex_to_buy_cursor_ai_coding_agent_operator/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u796ur",
+      "title": "Daily Discussion Thread for June 16, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/zjz",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T10:00:37+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u796ur/daily_discussion_thread_for_june_16_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u76uuq",
+      "title": "China economy weakens further in May as retail sales post first drop in over three years",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Legendary-Lemon",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T07:41:18+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u76uuq/china_economy_weakens_further_in_may_as_retail/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u75zkp",
+      "title": "OpenAI spending hit $34bn last year ahead of planned IPO",
+      "subreddit": "wallstreetbets",
+      "author": "/u/gruenistblau",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T06:50:07+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u75zkp/openai_spending_hit_34bn_last_year_ahead_of/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u7544f",
+      "title": "Advance money duplicator",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Snoo_99020",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T05:59:43+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7544f/advance_money_duplicator/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u748av",
+      "title": "Shorting SpaceX Tomorrow: Blue Origin Blew Up Its Own Rocket To Pump SpaceX",
+      "subreddit": "wallstreetbets",
+      "author": "/u/MiningEarth",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T05:10:46+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u748av/shorting_spacex_tomorrow_blue_origin_blew_up_its/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u72yla",
+      "title": "The only hope you have is to accept the fact that you're already dead",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Foooour",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T04:04:57+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u72yla/the_only_hope_you_have_is_to_accept_the_fact_that/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u7236h",
+      "title": "Bank of Japan 25bp rate hike to 1%, as widely expected",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Relative_Expert8587",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T03:20:57+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7236h/bank_of_japan_25bp_rate_hike_to_1_as_widely/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u7140d",
+      "title": "$17k SPY Calls Gain📈",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Thebestofbuffalo",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T02:33:53+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7140d/17k_spy_calls_gain/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u70icj",
+      "title": "Spacex Swiss Cheese",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Check123ok",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T02:06:27+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u70icj/spacex_swiss_cheese/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u6z65o",
+      "title": "SpaceX, $SPCX, is now trading above $220/share in overnight trading",
+      "subreddit": "wallstreetbets",
+      "author": "/u/-----Marcel-----",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T01:05:00+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6z65o/spacex_spcx_is_now_trading_above_220share_in/",
+      "tickers": [
+        "SPCX"
+      ]
+    },
+    {
+      "id": "t3_1u6tz0f",
+      "title": "Is the market regarded ?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Legitimate-Space8847",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-15T21:27:58+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6tz0f/is_the_market_regarded/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u6sc54",
+      "title": "Good enough to screenshot good enough to sell right?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Upset_Blackberry8922",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-15T20:27:58+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6sc54/good_enough_to_screenshot_good_enough_to_sell/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u6rkzt",
+      "title": "What Are Your Moves Tomorrow, June 16, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/zjz",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-15T20:00:37+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6rkzt/what_are_your_moves_tomorrow_june_16_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u6omao",
+      "title": "100k SPY 6/16 744c YOLO held through iran deal / Trump's birthday weekend",
+      "subreddit": "wallstreetbets",
+      "author": "/u/DesktopSurfer",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-15T18:17:48+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6omao/100k_spy_616_744c_yolo_held_through_iran_deal/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u6lhff",
+      "title": "I keep coming back to MU",
+      "subreddit": "wallstreetbets",
+      "author": "/u/defaultkoolaid",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-15T16:26:57+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6lhff/i_keep_coming_back_to_mu/",
       "tickers": []
     },
     {
@@ -31,28 +231,6 @@
       "num_comments": 0,
       "created": "2026-06-15T14:41:27+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6ijs5/sandisk_sndk_1000_itm/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u6hyfh",
-      "title": "Orange men finally made me money",
-      "subreddit": "wallstreetbets",
-      "author": "/u/ggokaliptus",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-15T14:18:59+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6hyfh/orange_men_finally_made_me_money/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u6he49",
-      "title": "Over Weekend Calls 4x",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Shot-Welcome-2822",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-15T13:57:58+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6he49/over_weekend_calls_4x/",
       "tickers": []
     },
     {
@@ -78,52 +256,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1u6cbn4",
-      "title": "Am I doing this right?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Interesting_Sock9883",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-15T10:07:51+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6cbn4/am_i_doing_this_right/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u6c6sm",
-      "title": "Daily Discussion Thread for June 15, 2026",
-      "subreddit": "wallstreetbets",
-      "author": "/u/zjz",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-15T10:00:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6c6sm/daily_discussion_thread_for_june_15_2026/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u64fdo",
-      "title": "DD: We Are Not in a Dot-Com Bubble Because the Knicks Just Beat the Spurs",
-      "subreddit": "wallstreetbets",
-      "author": "/u/doctorchasingtendies",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-15T02:53:11+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u64fdo/dd_we_are_not_in_a_dotcom_bubble_because_the/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u5zzag",
-      "title": "30k in $NOW is the time for 23k $ZS to get it's shit together",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Riskismyapellido",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-14T23:22:48+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u5zzag/30k_in_now_is_the_time_for_23k_zs_to_get_its_shit/",
-      "tickers": [
-        "ZS"
-      ]
-    },
-    {
       "id": "t3_1u5zpqc",
       "title": "Bers",
       "subreddit": "wallstreetbets",
@@ -146,138 +278,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1u5xbnj",
-      "title": "U.S.-Iran deal to end war \"now in place\": Pakistani PM (Axios)",
-      "subreddit": "wallstreetbets",
-      "author": "/u/voxpopper",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-14T21:29:02+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u5xbnj/usiran_deal_to_end_war_now_in_place_pakistani_pm/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u5pjo4",
-      "title": "Warner Brothers Arbitrage",
-      "subreddit": "wallstreetbets",
-      "author": "/u/AutisticTradingPro",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-14T16:24:00+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u5pjo4/warner_brothers_arbitrage/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u5p9rz",
-      "title": "Space yolo",
-      "subreddit": "wallstreetbets",
-      "author": "/u/zer0_chance284",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-14T16:13:15+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u5p9rz/space_yolo/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u5mzou",
-      "title": "Monday Bloodbath",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Mammoth-Fee1592",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-14T14:44:14+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u5mzou/monday_bloodbath/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u5m715",
-      "title": "Why Adobe?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/TenkaiRyo",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-14T14:11:28+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u5m715/why_adobe/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u5lwf0",
-      "title": "Amazon researchers are reportedly behind the jailbreak report that led to the U.S. crackdown on Anthropic’s top models.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/IncomingBroccoli",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-14T13:59:15+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u5lwf0/amazon_researchers_are_reportedly_behind_the/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u5ggap",
-      "title": "Serious Question: What qualifications do you need to become one of those Wall Street Guy’s wearing Patagonia Vests?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/BillyBillyButcherr",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-14T09:19:13+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u5ggap/serious_question_what_qualifications_do_you_need/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u5euh0",
-      "title": "RAM is not cyclical(not till 2030 at least)",
-      "subreddit": "wallstreetbets",
-      "author": "/u/SnooHedgehogs5162",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-14T07:40:06+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u5euh0/ram_is_not_cyclicalnot_till_2030_at_least/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u5e1m6",
-      "title": "Europe Is Too Scared to Grow, So Their Money Keeps Buying My SPY Calls",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Nasha210",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-14T06:53:02+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u5e1m6/europe_is_too_scared_to_grow_so_their_money_keeps/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u54frd",
-      "title": "how do i get a refund?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/trysavingmenot",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-13T22:46:33+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u54frd/how_do_i_get_a_refund/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u5200w",
-      "title": "Cathie Wood Buys 3.3 Million SpaceX Shares On IPO Day",
-      "subreddit": "wallstreetbets",
-      "author": "/u/just-hokum",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-13T20:58:20+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u5200w/cathie_wood_buys_33_million_spacex_shares_on_ipo/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u4w9mx",
-      "title": "Trump says Iran deal will be signed Sunday, Strait of Hormuz to open immediately after",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Independent-Cress382",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-13T17:05:48+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u4w9mx/trump_says_iran_deal_will_be_signed_sunday_strait/",
-      "tickers": []
-    },
-    {
       "id": "t3_1u46uhv",
       "title": "Weekly Earnings Thread 6/15 - 6/19",
       "subreddit": "wallstreetbets",
@@ -290,6 +290,26 @@
     }
   ],
   "blogPosts": [
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=31645",
+      "title": "Can Supply and Demand Predict the Stock Market?",
+      "link": "https://ofdollarsanddata.com/can-supply-and-demand-predict-the-stock-market/",
+      "publishedAt": "2026-06-16T11:45:22.000Z",
+      "snippet": "Working in England in the 14th century was difficult to say the least. Between the harsh conditions and low wages, you also had to fight against the occasional disease outbreak and a repressive government. As the Black D",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/flex-capacitor",
+      "title": "Flex Capacitor",
+      "link": "https://newsletter.doomberg.com/p/flex-capacitor",
+      "publishedAt": "2026-06-16T09:01:47.000Z",
+      "snippet": "While nobody was looking, China harmonized global hydrocarbon fungibility.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=70411",
       "title": "Talk Your Book: The Case For Investing in Emerging Market Bonds",
@@ -371,16 +391,6 @@
       "tag": "Financials"
     },
     {
-      "id": "doomberg-https://newsletter.doomberg.com/p/new-found-gas",
-      "title": "New Found Gas",
-      "link": "https://newsletter.doomberg.com/p/new-found-gas",
-      "publishedAt": "2026-06-04T09:01:26.000Z",
-      "snippet": "Will Canadian hydrocarbon development displace Europe&#8217;s reliance on the US?",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
-    },
-    {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=31818",
       "title": "Being Useful is More Attractive Than Being Rich",
       "link": "https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/",
@@ -399,16 +409,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "dollars-data-https://ofdollarsanddata.com/?p=31221",
-      "title": "Hacks vs. Artists",
-      "link": "https://ofdollarsanddata.com/hacks-vs-artists/",
-      "publishedAt": "2026-05-26T11:45:28.000Z",
-      "snippet": "My wife and I recently started watching Hacks , the HBO TV series starring Jean Smart and Hannah Einbinder, about a legendary comedian trying to stay relevant in a changing world. It's funny, the writing is fantastic, an",
-      "author": "Nick Maggiulli",
-      "handle": "Of Dollars and Data",
-      "tag": "Behavioral"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
