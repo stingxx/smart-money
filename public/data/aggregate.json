@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-06-16T14:30:57.878Z",
+  "lastUpdated": "2026-06-17T13:01:13.904Z",
   "holdings": {},
   "redditTickers": [
     {
       "ticker": "SPCX",
+      "mentions": 2,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    },
+    {
+      "ticker": "FLYYQ",
+      "mentions": 1,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    },
+    {
+      "ticker": "SNAP",
       "mentions": 1,
       "subreddits": [
         "wallstreetbets"
@@ -11,6 +25,232 @@
     }
   ],
   "redditPosts": [
+    {
+      "id": "t3_1u89g4b",
+      "title": "Trading SPCX IPO be like",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Fun_Training6342",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-17T12:56:43+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u89g4b/trading_spcx_ipo_be_like/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u87sb4",
+      "title": "AST SpaceMobile Announces Successful Orbital Launch of BlueBirds 8, 9, and 10",
+      "subreddit": "wallstreetbets",
+      "author": "/u/kader91",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-17T11:40:25+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u87sb4/ast_spacemobile_announces_successful_orbital/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u85wuy",
+      "title": "Daily Discussion Thread for June 17, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/zjz",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-17T10:00:37+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u85wuy/daily_discussion_thread_for_june_17_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u84mmr",
+      "title": "Anyone still holding Spirit Airlines ($FLYYQ)?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/prophetmuhammad",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-17T08:44:40+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u84mmr/anyone_still_holding_spirit_airlines_flyyq/",
+      "tickers": [
+        "FLYYQ"
+      ]
+    },
+    {
+      "id": "t3_1u7zubl",
+      "title": "We live and learn",
+      "subreddit": "wallstreetbets",
+      "author": "/u/MechaGodzilla34",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-17T04:13:20+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7zubl/we_live_and_learn/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u7y9wc",
+      "title": "+63% (8.5K) SPCX FREE MONEY. Thanks Elon!",
+      "subreddit": "wallstreetbets",
+      "author": "/u/camelliatea93",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-17T02:57:05+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7y9wc/63_85k_spcx_free_money_thanks_elon/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u7xwir",
+      "title": "Screw AI. Screw Space. Fusion Energy is the future.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/autofocus111",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-17T02:39:21+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7xwir/screw_ai_screw_space_fusion_energy_is_the_future/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u7wup4",
+      "title": "A year ago, Michael Burry sold everything except Estee Lauder. He also bought puts on Nvidia.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/AccelerationFinish",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-17T01:49:54+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7wup4/a_year_ago_michael_burry_sold_everything_except/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u7w7nf",
+      "title": "Open AI's money fire goes on",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Leukie0",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-17T01:19:40+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7w7nf/open_ais_money_fire_goes_on/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u7u0a9",
+      "title": "Microsoft DD (Not AI for once!)",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Back2ThuBasics",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T23:40:58+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7u0a9/microsoft_dd_not_ai_for_once/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u7sfqw",
+      "title": "$SPCX Baby Bear Play",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Margin_Call_Me_Maybe",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T22:34:20+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7sfqw/spcx_baby_bear_play/",
+      "tickers": [
+        "SPCX"
+      ]
+    },
+    {
+      "id": "t3_1u7qnev",
+      "title": "Michael Burry says he’s tempted to bet against SpaceX, but passes on expensive options",
+      "subreddit": "wallstreetbets",
+      "author": "/u/I_killed_the_kraken",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T21:24:25+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7qnev/michael_burry_says_hes_tempted_to_bet_against/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u7qcnj",
+      "title": "Serious discussion: Is it time to full port healthcare, or am I regarded?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/SOCOOLLLL",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T21:12:58+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7qcnj/serious_discussion_is_it_time_to_full_port/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u7q3pz",
+      "title": "goodbye everyone",
+      "subreddit": "wallstreetbets",
+      "author": "/u/drankleanonce",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T21:03:29+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7q3pz/goodbye_everyone/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u7pzv5",
+      "title": "First exam I’ve ever gotten 100% on!",
+      "subreddit": "wallstreetbets",
+      "author": "/u/powerboner",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T20:59:20+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7pzv5/first_exam_ive_ever_gotten_100_on/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u7oqgf",
+      "title": "$SNAP YOLO guy where are you?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/LimitlessMentally",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T20:12:00+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7oqgf/snap_yolo_guy_where_are_you/",
+      "tickers": [
+        "SNAP"
+      ]
+    },
+    {
+      "id": "t3_1u7okd5",
+      "title": "Can a single listing like SPCX crash the market?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/HubertBrooks",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T20:05:49+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7okd5/can_a_single_listing_like_spcx_crash_the_market/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u7ojq0",
+      "title": "SPCX Rocket Ship Imploding",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Prudent-Weird-4379",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T20:05:14+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7ojq0/spcx_rocket_ship_imploding/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u7of66",
+      "title": "What Are Your Moves Tomorrow, June 17, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/zjz",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T20:00:37+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7of66/what_are_your_moves_tomorrow_june_17_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1u7na7p",
+      "title": "The SpaceX Short Because Blue Origin: Day 1 of options beginning available Put",
+      "subreddit": "wallstreetbets",
+      "author": "/u/MiningEarth",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-16T19:19:43+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7na7p/the_spacex_short_because_blue_origin_day_1_of/",
+      "tickers": []
+    },
     {
       "id": "t3_1u7er9k",
       "title": "Anyone sold SPCX Puts this morning on the 1st SPCX options day",
@@ -20,17 +260,6 @@
       "num_comments": 0,
       "created": "2026-06-16T14:14:10+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7er9k/anyone_sold_spcx_puts_this_morning_on_the_1st/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u7enif",
-      "title": "$380 LEAP for SPCX wish me luck",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Swat-Benelli-M700",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-16T14:10:08+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7enif/380_leap_for_spcx_wish_me_luck/",
       "tickers": []
     },
     {
@@ -56,105 +285,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1u796ur",
-      "title": "Daily Discussion Thread for June 16, 2026",
-      "subreddit": "wallstreetbets",
-      "author": "/u/zjz",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-16T10:00:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u796ur/daily_discussion_thread_for_june_16_2026/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u76uuq",
-      "title": "China economy weakens further in May as retail sales post first drop in over three years",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Legendary-Lemon",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-16T07:41:18+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u76uuq/china_economy_weakens_further_in_may_as_retail/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u75zkp",
-      "title": "OpenAI spending hit $34bn last year ahead of planned IPO",
-      "subreddit": "wallstreetbets",
-      "author": "/u/gruenistblau",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-16T06:50:07+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u75zkp/openai_spending_hit_34bn_last_year_ahead_of/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u7544f",
-      "title": "Advance money duplicator",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Snoo_99020",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-16T05:59:43+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7544f/advance_money_duplicator/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u748av",
-      "title": "Shorting SpaceX Tomorrow: Blue Origin Blew Up Its Own Rocket To Pump SpaceX",
-      "subreddit": "wallstreetbets",
-      "author": "/u/MiningEarth",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-16T05:10:46+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u748av/shorting_spacex_tomorrow_blue_origin_blew_up_its/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u72yla",
-      "title": "The only hope you have is to accept the fact that you're already dead",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Foooour",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-16T04:04:57+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u72yla/the_only_hope_you_have_is_to_accept_the_fact_that/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u7236h",
-      "title": "Bank of Japan 25bp rate hike to 1%, as widely expected",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Relative_Expert8587",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-16T03:20:57+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7236h/bank_of_japan_25bp_rate_hike_to_1_as_widely/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u7140d",
-      "title": "$17k SPY Calls Gain📈",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Thebestofbuffalo",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-16T02:33:53+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u7140d/17k_spy_calls_gain/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u70icj",
-      "title": "Spacex Swiss Cheese",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Check123ok",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-16T02:06:27+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u70icj/spacex_swiss_cheese/",
-      "tickers": []
-    },
-    {
       "id": "t3_1u6z65o",
       "title": "SpaceX, $SPCX, is now trading above $220/share in overnight trading",
       "subreddit": "wallstreetbets",
@@ -166,116 +296,6 @@
       "tickers": [
         "SPCX"
       ]
-    },
-    {
-      "id": "t3_1u6tz0f",
-      "title": "Is the market regarded ?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Legitimate-Space8847",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-15T21:27:58+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6tz0f/is_the_market_regarded/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u6sc54",
-      "title": "Good enough to screenshot good enough to sell right?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Upset_Blackberry8922",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-15T20:27:58+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6sc54/good_enough_to_screenshot_good_enough_to_sell/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u6rkzt",
-      "title": "What Are Your Moves Tomorrow, June 16, 2026",
-      "subreddit": "wallstreetbets",
-      "author": "/u/zjz",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-15T20:00:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6rkzt/what_are_your_moves_tomorrow_june_16_2026/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u6omao",
-      "title": "100k SPY 6/16 744c YOLO held through iran deal / Trump's birthday weekend",
-      "subreddit": "wallstreetbets",
-      "author": "/u/DesktopSurfer",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-15T18:17:48+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6omao/100k_spy_616_744c_yolo_held_through_iran_deal/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u6lhff",
-      "title": "I keep coming back to MU",
-      "subreddit": "wallstreetbets",
-      "author": "/u/defaultkoolaid",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-15T16:26:57+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6lhff/i_keep_coming_back_to_mu/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u6ijs5",
-      "title": "Sandisk (SNDK) $1000 ITM",
-      "subreddit": "wallstreetbets",
-      "author": "/u/mulletstation",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-15T14:41:27+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6ijs5/sandisk_sndk_1000_itm/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u6fjh8",
-      "title": "Nvidia Looks to Raise at Least $20 Billion From Bond Offering",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Quixotus",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-15T12:43:48+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6fjh8/nvidia_looks_to_raise_at_least_20_billion_from/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u6eobf",
-      "title": "Fox to buy streaming pioneer Roku in a $22 billion deal",
-      "subreddit": "wallstreetbets",
-      "author": "/u/MeowTheMixer",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-15T12:05:36+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u6eobf/fox_to_buy_streaming_pioneer_roku_in_a_22_billion/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u5zpqc",
-      "title": "Bers",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Sweeetmoves",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-14T23:11:06+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u5zpqc/bers/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u5yxf7",
-      "title": "Tomorrow at 9:30 with SPCX and Iran peace deal",
-      "subreddit": "wallstreetbets",
-      "author": "/u/johnsoft223",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-14T22:36:31+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u5yxf7/tomorrow_at_930_with_spcx_and_iran_peace_deal/",
-      "tickers": []
     },
     {
       "id": "t3_1u46uhv",
@@ -290,6 +310,26 @@
     }
   ],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=70460",
+      "title": "Animal Spirits: How Much is $1 Trillion",
+      "link": "https://awealthofcommonsense.com/2026/06/animal-spirits-how-much-is-1-trillion/",
+      "publishedAt": "2026-06-17T11:15:00.000Z",
+      "snippet": "On today's show we discuss the desire to call an AI top, the SpaceX IPO frenzy, taking profits, why value is beating growth, why EM is beating the US, the markets were right about the war, agentic trading, 3% mortgages v",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=70428",
+      "title": "The Greatest Wall Street Comic of All-Time",
+      "link": "https://awealthofcommonsense.com/2026/06/the-greatest-wall-street-comic-of-all-time/",
+      "publishedAt": "2026-06-16T17:28:46.000Z",
+      "snippet": "A look at market history through the lens of Wall Street comics. The post The Greatest Wall Street Comic of All-Time appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=31645",
       "title": "Can Supply and Demand Predict the Stock Market?",
@@ -316,26 +356,6 @@
       "link": "https://awealthofcommonsense.com/2026/06/talk-your-book-the-case-for-investing-in-emerging-market-bonds/",
       "publishedAt": "2026-06-15T11:15:02.000Z",
       "snippet": "On today's Talk Your Book we speak with Eric Fine from VanEck about how emerging markets have changed, geopolitical risk, currencies, AI and more. The post Talk Your Book: The Case For Investing in Emerging Market Bonds ",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=70375",
-      "title": "Smart Investors vs. Dumb Investors",
-      "link": "https://awealthofcommonsense.com/2026/06/smart-investors-vs-dumb-investors/",
-      "publishedAt": "2026-06-14T13:02:06.000Z",
-      "snippet": "Why bull markets make you feel smarter and bear markets make you feel dumber. The post Smart Investors vs. Dumb Investors appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=70364",
-      "title": "$1 Trillion ETFs, Wealth Inequality and the Shrinking Middle Class",
-      "link": "https://awealthofcommonsense.com/2026/06/1-trillion-etfs-wealth-inequality-and-the-shrinking-middle-class/",
-      "publishedAt": "2026-06-12T20:30:25.000Z",
-      "snippet": "Two things happening at once with investing and wealth. The post $1 Trillion ETFs, Wealth Inequality and the Shrinking Middle Class appeared first on A Wealth of Common Sense. ...",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
