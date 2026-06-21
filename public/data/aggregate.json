@@ -1,51 +1,162 @@
 {
-  "lastUpdated": "2026-06-20T11:30:08.877Z",
+  "lastUpdated": "2026-06-21T12:00:05.887Z",
   "holdings": {},
-  "redditTickers": [
-    {
-      "ticker": "MSFT",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "META",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "TMC",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "SWBI",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    }
-  ],
+  "redditTickers": [],
   "redditPosts": [
+    {
+      "id": "t3_1ubnl1o",
+      "title": "Pentagon used Elon Musk’s Grok AI to fire missiles at Iran, official says",
+      "subreddit": "wallstreetbets",
+      "author": "/u/EngineerElectrical73",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-21T11:22:39+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ubnl1o/pentagon_used_elon_musks_grok_ai_to_fire_missiles/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ubmd31",
+      "title": "Go big or go home amirite?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/0nth3sp3ctrum",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-21T10:11:26+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ubmd31/go_big_or_go_home_amirite/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ubjo5e",
+      "title": "Gold is done. (for now)",
+      "subreddit": "wallstreetbets",
+      "author": "/u/1234away",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-21T07:26:37+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ubjo5e/gold_is_done_for_now/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ubij8w",
+      "title": "Loss Porn",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Siavash458",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-21T06:19:22+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ubij8w/loss_porn/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ubhdd2",
+      "title": "It’s a choice",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Liquidate-Me-Daddy",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-21T05:12:57+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ubhdd2/its_a_choice/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ubezr3",
+      "title": "Memory stocks - next play?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/JustCan6425",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-21T03:04:06+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ubezr3/memory_stocks_next_play/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ubel5u",
+      "title": "Cashing out on LEAPs",
+      "subreddit": "wallstreetbets",
+      "author": "/u/theinevitable117",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-21T02:42:57+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ubel5u/cashing_out_on_leaps/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ube9u3",
+      "title": "I've made loss in every AI stock!",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Evening_Control6034",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-21T02:26:38+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ube9u3/ive_made_loss_in_every_ai_stock/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ub9typ",
+      "title": "Metaverse CEO",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Ohlele",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-20T22:48:34+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ub9typ/metaverse_ceo/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ub65b3",
+      "title": "Me, an American, waiting for Market Monday after a 3 day weekend",
+      "subreddit": "wallstreetbets",
+      "author": "/u/anotherloserhere",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-20T20:06:20+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ub65b3/me_an_american_waiting_for_market_monday_after_a/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ub60wz",
+      "title": "Europoor discovers WSB",
+      "subreddit": "wallstreetbets",
+      "author": "/u/_LKS_",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-20T20:01:11+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ub60wz/europoor_discovers_wsb/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ub0nzy",
+      "title": "Not bad",
+      "subreddit": "wallstreetbets",
+      "author": "/u/SQU1DSN1P3R61",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-20T16:20:46+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ub0nzy/not_bad/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uax8o6",
+      "title": "SNAP can only go up from here",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Enough_Possibility41",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-20T13:55:03+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uax8o6/snap_can_only_go_up_from_here/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uawfjv",
+      "title": "One Million Dollars. One Brain Cell.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/defaultkoolaid",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-20T13:18:07+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uawfjv/one_million_dollars_one_brain_cell/",
+      "tickers": []
+    },
     {
       "id": "t3_1ual9sg",
       "title": "SNXX Gains",
@@ -77,17 +188,6 @@
       "num_comments": 0,
       "created": "2026-06-19T23:49:54+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1uahiip/news_screwing_with_my_only_investment_into_peace/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uah6wm",
-      "title": "Charter Communications. Potential 56 bagger.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/PenComfortable5269",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-19T23:34:23+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uah6wm/charter_communications_potential_56_bagger/",
       "tickers": []
     },
     {
@@ -146,39 +246,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1uaalzr",
-      "title": "My First 200% Stock",
-      "subreddit": "wallstreetbets",
-      "author": "/u/BASGTA",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-19T19:00:13+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uaalzr/my_first_200_stock/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uaafb6",
-      "title": "I probably shouldn't have...but I did anyways. Wish me luck.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/MoistCabbage1",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-19T18:52:57+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uaafb6/i_probably_shouldnt_havebut_i_did_anyways_wish_me/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ua8vl5",
-      "title": "Servthisnow in my ass",
-      "subreddit": "wallstreetbets",
-      "author": "/u/charliekirkbread",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-19T17:54:36+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ua8vl5/servthisnow_in_my_ass/",
-      "tickers": []
-    },
-    {
       "id": "t3_1ua7mug",
       "title": "The US says ASML's top chip tool may be in China | TechCrunch",
       "subreddit": "wallstreetbets",
@@ -201,103 +268,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1ua4ws5",
-      "title": "70K LEAP YOLO $TMC",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Uzunzatu",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-19T15:23:26+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ua4ws5/70k_leap_yolo_tmc/",
-      "tickers": [
-        "TMC"
-      ]
-    },
-    {
-      "id": "t3_1u9xuif",
-      "title": "What Are Your Moves for Juneteenth, June 19, 2026",
-      "subreddit": "wallstreetbets",
-      "author": "/u/verified-trader",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-19T10:00:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u9xuif/what_are_your_moves_for_juneteenth_june_19_2026/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u9tci4",
-      "title": "When MU going back to $100…?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Hi_Keyboard_Warriors",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-19T05:35:40+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u9tci4/when_mu_going_back_to_100/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u9qvku",
-      "title": "Satya and Zuckerberg are incinerating capital",
-      "subreddit": "wallstreetbets",
-      "author": "/u/carpetmagicianlaughs",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-19T03:27:05+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u9qvku/satya_and_zuckerberg_are_incinerating_capital/",
-      "tickers": [
-        "MSFT",
-        "META",
-        "MU",
-        "AMD"
-      ]
-    },
-    {
-      "id": "t3_1u9nakp",
-      "title": "Smith and Wesson ($SWBI) BANG BANG BANG",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Lox4tw",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-19T00:33:12+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u9nakp/smith_and_wesson_swbi_bang_bang_bang/",
-      "tickers": [
-        "SWBI"
-      ]
-    },
-    {
-      "id": "t3_1u9jfcg",
-      "title": "Even more investors want out of private credit",
-      "subreddit": "wallstreetbets",
-      "author": "/u/I_killed_the_kraken",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-18T21:44:46+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u9jfcg/even_more_investors_want_out_of_private_credit/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u9i619",
-      "title": "33k -> 225k in a month.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Chosoiii",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-18T20:55:30+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u9i619/33k_225k_in_a_month/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u9ffv5",
-      "title": "Spacex loss prn, suggestions for my last 40k?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/BandicootMelodic1417",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-18T19:11:39+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u9ffv5/spacex_loss_prn_suggestions_for_my_last_40k/",
-      "tickers": []
-    },
-    {
       "id": "t3_1u9drsx",
       "title": "Weekly Earnings Thread 6/22 - 6/26",
       "subreddit": "wallstreetbets",
@@ -306,28 +276,6 @@
       "num_comments": 0,
       "created": "2026-06-18T18:10:16+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1u9drsx/weekly_earnings_thread_622_626/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u9bfu2",
-      "title": "SpaceX Bankers Preparing for Bond Sale of at Least $20 Billion",
-      "subreddit": "wallstreetbets",
-      "author": "/u/joe4942",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-18T16:45:00+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u9bfu2/spacex_bankers_preparing_for_bond_sale_of_at/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1u96r5r",
-      "title": "Bought ACN puts instead of ACM, got 3000%",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Jacker247",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-18T13:47:17+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1u96r5r/bought_acn_puts_instead_of_acm_got_3000/",
       "tickers": []
     }
   ],
