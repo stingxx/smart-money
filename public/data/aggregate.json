@@ -1,72 +1,258 @@
 {
-  "lastUpdated": "2026-06-22T15:05:07.240Z",
+  "lastUpdated": "2026-06-23T12:21:38.364Z",
   "holdings": {},
-  "redditTickers": [],
+  "redditTickers": [
+    {
+      "ticker": "MU",
+      "mentions": 1,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    }
+  ],
   "redditPosts": [
     {
-      "id": "t3_1ucmpg4",
-      "title": "Buying the Top: Final Boss",
+      "id": "t3_1udfd22",
+      "title": "Abort launch",
       "subreddit": "wallstreetbets",
-      "author": "/u/TrainWr3ckZZ",
+      "author": "/u/WSB_ThAw",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-06-22T14:51:17+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ucmpg4/buying_the_top_final_boss/",
+      "created": "2026-06-23T12:09:09+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1udfd22/abort_launch/",
       "tickers": []
     },
     {
-      "id": "t3_1ucly13",
-      "title": "Russell Reconstitution Arbitrage: Index Funds Forced to Buy Big Into INFQ & ONDS This Friday",
+      "id": "t3_1udef90",
+      "title": "Private Credit Is Passing Its First Real Liquidity Test",
       "subreddit": "wallstreetbets",
-      "author": "/u/Nice_History5856",
+      "author": "/u/DueDilligenceTrader",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-06-22T14:22:14+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ucly13/russell_reconstitution_arbitrage_index_funds/",
+      "created": "2026-06-23T11:23:44+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1udef90/private_credit_is_passing_its_first_real/",
       "tickers": []
     },
     {
-      "id": "t3_1uclilg",
-      "title": "Bought 300 shares of MSTR",
+      "id": "t3_1udd5i9",
+      "title": "0DTEs are a love hate relationship",
       "subreddit": "wallstreetbets",
-      "author": "/u/CalligrapherAlive829",
+      "author": "/u/Dramatic_Ad_6138",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-06-22T14:05:28+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uclilg/bought_300_shares_of_mstr/",
+      "created": "2026-06-23T10:14:51+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1udd5i9/0dtes_are_a_love_hate_relationship/",
       "tickers": []
     },
     {
-      "id": "t3_1uclgzd",
-      "title": "HIVE & KEEL",
+      "id": "t3_1udcwfr",
+      "title": "Daily Discussion Thread for June 23, 2026",
       "subreddit": "wallstreetbets",
-      "author": "/u/guploka",
+      "author": "/u/verified-trader",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-06-22T14:03:38+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uclgzd/hive_keel/",
+      "created": "2026-06-23T10:00:37+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1udcwfr/daily_discussion_thread_for_june_23_2026/",
       "tickers": []
     },
     {
-      "id": "t3_1uclbyc",
-      "title": "Power market is Blooming!",
+      "id": "t3_1udbiau",
+      "title": "To the ground SPCX",
       "subreddit": "wallstreetbets",
-      "author": "/u/Trader0721",
+      "author": "/u/puycelsi",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-06-22T13:58:26+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uclbyc/power_market_is_blooming/",
+      "created": "2026-06-23T08:39:26+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1udbiau/to_the_ground_spcx/",
       "tickers": []
     },
     {
-      "id": "t3_1uckolo",
-      "title": "KORU 25% return 19k profit",
+      "id": "t3_1udb45b",
+      "title": "All in on Zuck. $417,000 USD 🎰",
       "subreddit": "wallstreetbets",
-      "author": "/u/arfaiprod",
+      "author": "/u/yatv",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-06-22T13:31:42+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uckolo/koru_25_return_19k_profit/",
+      "created": "2026-06-23T08:15:36+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1udb45b/all_in_on_zuck_417000_usd/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ud8y0q",
+      "title": "Brace yourself for kospi!!",
+      "subreddit": "wallstreetbets",
+      "author": "/u/risingfor",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-23T06:08:06+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ud8y0q/brace_yourself_for_kospi/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ud8h4y",
+      "title": "SPCX 🐻",
+      "subreddit": "wallstreetbets",
+      "author": "/u/GreedyTexas",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-23T05:41:52+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ud8h4y/spcx/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ud7rls",
+      "title": "Top 0.1% !!!",
+      "subreddit": "wallstreetbets",
+      "author": "/u/GoldenRobobutt",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-23T05:03:48+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ud7rls/top_01/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ud4n8w",
+      "title": "Switch from P/E to PEG",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Due_Contact_8271",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-23T02:28:39+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ud4n8w/switch_from_pe_to_peg/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ud3hix",
+      "title": "SpaceX made me negative",
+      "subreddit": "wallstreetbets",
+      "author": "/u/WhoRuleTheWorld",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-23T01:35:26+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ud3hix/spacex_made_me_negative/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ud32cr",
+      "title": "I think I’ve gambled enough…..selling Wendsday morning. I think we’ll hit $1300 before earnings.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Xmatic81",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-23T01:16:21+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ud32cr/i_think_ive_gambled_enoughselling_wendsday/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ucykno",
+      "title": "Regard Award: Who got the closest to the tippy top? Come out and claim your throne, sir.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/fffffffffffrrrrrrr",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-22T22:05:39+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ucykno/regard_award_who_got_the_closest_to_the_tippy_top/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ucybkr",
+      "title": "Guys am i fukd",
+      "subreddit": "wallstreetbets",
+      "author": "/u/IlinistRainbow6",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-22T21:56:03+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ucybkr/guys_am_i_fukd/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ucwd4e",
+      "title": "Quick trips to Space aren’t cheap",
+      "subreddit": "wallstreetbets",
+      "author": "/u/ukweeve",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-22T20:41:51+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ucwd4e/quick_trips_to_space_arent_cheap/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ucwbkq",
+      "title": "Weren’t we supposed to be going to the fucking moon? Did Elon lose his compass or something? $spxc",
+      "subreddit": "wallstreetbets",
+      "author": "/u/kvara_17",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-22T20:40:17+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ucwbkq/werent_we_supposed_to_be_going_to_the_fucking/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ucvhm8",
+      "title": "Thank You $MU ($14k -> $73k)",
+      "subreddit": "wallstreetbets",
+      "author": "/u/ralphphen",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-22T20:10:10+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ucvhm8/thank_you_mu_14k_73k/",
+      "tickers": [
+        "MU"
+      ]
+    },
+    {
+      "id": "t3_1ucv71b",
+      "title": "AMD - Long Hold",
+      "subreddit": "wallstreetbets",
+      "author": "/u/TheMadHatter1337",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-22T19:59:35+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ucv71b/amd_long_hold/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ucsx7t",
+      "title": "Alphabet Shares Drop After Second AI Star Departs for Rival",
+      "subreddit": "wallstreetbets",
+      "author": "/u/King-of-Limbs-07",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-22T18:36:50+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ucsx7t/alphabet_shares_drop_after_second_ai_star_departs/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ucrp2d",
+      "title": "Its been fun. Just gonna go back to investing no more trading. I tried.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/igotthis_man",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-22T17:51:56+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ucrp2d/its_been_fun_just_gonna_go_back_to_investing_no/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ucpnbj",
+      "title": "The next Financial Crisis is here, and it's not just AI.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/MeMahi",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-22T16:37:00+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ucpnbj/the_next_financial_crisis_is_here_and_its_not/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ucngu7",
+      "title": "SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Boston-Bets",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-22T15:18:34+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ucngu7/spacex_signs_computing_power_deal_with_opensource/",
       "tickers": []
     },
     {
@@ -92,182 +278,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1ucggha",
-      "title": "Daily Discussion Thread for June 22, 2026",
-      "subreddit": "wallstreetbets",
-      "author": "/u/verified-trader",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-22T10:05:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ucggha/daily_discussion_thread_for_june_22_2026/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uccvsu",
-      "title": "Good bye to trump era of option trading",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Late_Sympathy_1845",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-22T06:30:46+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uccvsu/good_bye_to_trump_era_of_option_trading/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ucay85",
-      "title": "DRAM/MU (49.5k -> 84k)",
-      "subreddit": "wallstreetbets",
-      "author": "/u/NotStreetSmart56",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-22T04:42:13+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ucay85/drammu_495k_84k/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uc6nra",
-      "title": "Nasdaq-100 adds 5 new dominant companies into its index today",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Fun_Training4330",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-22T01:09:23+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uc6nra/nasdaq100_adds_5_new_dominant_companies_into_its/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uc32h9",
-      "title": "Paid $200/month to do you guys better than that Google junk",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Defiant-Walk-8330",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-21T22:23:27+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uc32h9/paid_200month_to_do_you_guys_better_than_that/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uc22a7",
-      "title": "I'm about to do you guys a solid",
-      "subreddit": "wallstreetbets",
-      "author": "/u/likwitsnake",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-21T21:40:13+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uc22a7/im_about_to_do_you_guys_a_solid/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uc10w7",
-      "title": "Buls are about to \"graduate\" from bovine university",
-      "subreddit": "wallstreetbets",
-      "author": "/u/dfivetf",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-21T20:56:27+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uc10w7/buls_are_about_to_graduate_from_bovine_university/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uc0lox",
-      "title": "I too spent the weekend solving the Straight of Hormuz; I think I did it!",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Fritzkreig",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-21T20:38:53+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uc0lox/i_too_spent_the_weekend_solving_the_straight_of/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ubznyl",
-      "title": "What Are Your Moves Tomorrow, June 22, 2026",
-      "subreddit": "wallstreetbets",
-      "author": "/u/verified-trader",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-21T20:00:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ubznyl/what_are_your_moves_tomorrow_june_22_2026/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ubzgzn",
-      "title": "GTA VI Pre-order hype and the inevitable trailer is going to cause TTWO to go vertical",
-      "subreddit": "wallstreetbets",
-      "author": "/u/niofalpha",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-21T19:52:41+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ubzgzn/gta_vi_preorder_hype_and_the_inevitable_trailer/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ubz0kw",
-      "title": "yolo’d my life savings into 3 stocks a week ago",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Creative-Adjt",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-21T19:34:01+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ubz0kw/yolod_my_life_savings_into_3_stocks_a_week_ago/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ubwn2y",
-      "title": "Bridgewater and Appaloosa Both Roughly Doubled Their Amazon Stakes Last Quarter. Most of Their Peers Were Cutting.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/_SG9",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-21T17:59:05+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ubwn2y/bridgewater_and_appaloosa_both_roughly_doubled/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uboo8r",
-      "title": "Bears what are you waiting on? A 5, 10, 15, 30 or 50% drop are you perma bearish and will only buy puts and shorts?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/ponziacs",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-21T12:20:39+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uboo8r/bears_what_are_you_waiting_on_a_5_10_15_30_or_50/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ubjo5e",
-      "title": "Gold is done. (for now)",
-      "subreddit": "wallstreetbets",
-      "author": "/u/1234away",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-21T07:26:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ubjo5e/gold_is_done_for_now/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ubhdd2",
-      "title": "It’s a choice",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Liquidate-Me-Daddy",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-21T05:12:57+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ubhdd2/its_a_choice/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ube9u3",
-      "title": "I've made loss in every AI stock!",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Evening_Control6034",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-21T02:26:38+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ube9u3/ive_made_loss_in_every_ai_stock/",
-      "tickers": []
-    },
-    {
       "id": "t3_1u9drsx",
       "title": "Weekly Earnings Thread 6/22 - 6/26",
       "subreddit": "wallstreetbets",
@@ -280,6 +290,16 @@
     }
   ],
   "blogPosts": [
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=32684",
+      "title": "Why Poorer Students Earn Less (Even With the Same Degree)",
+      "link": "https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/",
+      "publishedAt": "2026-06-23T11:45:33.000Z",
+      "snippet": "I recently saw this video where Anna Stansbury, an assistant professor at MIT, explains that people who grew up in poverty end up earning less than their more affluent peers, even when they attended the same university: ",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
     {
       "id": "doomberg-https://newsletter.doomberg.com/p/sacred-cow",
       "title": "Sacred Cow",
@@ -389,16 +409,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "dollars-data-https://ofdollarsanddata.com/?p=31818",
-      "title": "Being Useful is More Attractive Than Being Rich",
-      "link": "https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/",
-      "publishedAt": "2026-06-02T11:45:19.000Z",
-      "snippet": "I recently saw this Reddit post about a man who retired early ( FIRE ) only to be called a \"loser\" by his wife go viral. In the man's own words: 41m, $2mm liquid, $650k retirement and I get a $75k/yr royalty from a busin",
-      "author": "Nick Maggiulli",
-      "handle": "Of Dollars and Data",
-      "tag": "Behavioral"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
