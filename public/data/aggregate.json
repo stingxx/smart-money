@@ -1,39 +1,284 @@
 {
-  "lastUpdated": "2026-06-28T11:21:12.844Z",
+  "lastUpdated": "2026-06-29T13:51:28.397Z",
   "holdings": {},
-  "redditTickers": [],
+  "redditTickers": [
+    {
+      "ticker": "WEN",
+      "mentions": 1,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    },
+    {
+      "ticker": "BB",
+      "mentions": 1,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    },
+    {
+      "ticker": "WMT",
+      "mentions": 1,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    },
+    {
+      "ticker": "CEG",
+      "mentions": 1,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    }
+  ],
   "redditPosts": [
     {
-      "id": "t3_1uhtu5w",
-      "title": "Major future bear case that nobody talks about",
+      "id": "t3_1uit08s",
+      "title": "$BB Bears Are About to Learn What QNX Is",
       "subreddit": "wallstreetbets",
-      "author": "/u/Intrepid-Amoeba9297",
+      "author": "/u/zbb_93",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-06-28T10:30:50+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uhtu5w/major_future_bear_case_that_nobody_talks_about/",
+      "created": "2026-06-29T13:47:31+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uit08s/bb_bears_are_about_to_learn_what_qnx_is/",
+      "tickers": [
+        "BB"
+      ]
+    },
+    {
+      "id": "t3_1uiszh9",
+      "title": "Nuggets out for Harambe",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Cenorg",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-29T13:46:41+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uiszh9/nuggets_out_for_harambe/",
       "tickers": []
     },
     {
-      "id": "t3_1uhsz4x",
-      "title": "Treasuries Have Started Moving With Stocks. The 60/40 Bond Hedge Is Quietly Weakening",
+      "id": "t3_1uisvza",
+      "title": "$WEN International is a Goldmine 🍔 Boots-on-the-Ground DD in Jakarta. PT Revised to $23 🚀🚀",
       "subreddit": "wallstreetbets",
-      "author": "/u/_SG9",
+      "author": "/u/indonesian_activist",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-06-28T09:40:30+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uhsz4x/treasuries_have_started_moving_with_stocks_the/",
+      "created": "2026-06-29T13:42:49+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uisvza/wen_international_is_a_goldmine_bootsontheground/",
+      "tickers": [
+        "WEN"
+      ]
+    },
+    {
+      "id": "t3_1uisis7",
+      "title": "Comcast soars 20% after announcing it will spin off NBCUniversal and Sky from cable business",
+      "subreddit": "wallstreetbets",
+      "author": "/u/CalebVanPoneisen",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-29T13:27:56+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uisis7/comcast_soars_20_after_announcing_it_will_spin/",
       "tickers": []
     },
     {
-      "id": "t3_1uhsu01",
-      "title": "the oil from Ormuz is coming!",
+      "id": "t3_1uiqkgp",
+      "title": "Rocket Lab to buy satellite communications firm Iridium in $8 billion deal",
       "subreddit": "wallstreetbets",
-      "author": "/u/hecho2",
+      "author": "/u/I_killed_the_kraken",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-06-28T09:31:53+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uhsu01/the_oil_from_ormuz_is_coming/",
+      "created": "2026-06-29T12:03:22+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uiqkgp/rocket_lab_to_buy_satellite_communications_firm/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uiq8d4",
+      "title": "BB QNX Securing Physical AI",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Pipepoi",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-29T11:48:01+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uiq8d4/bb_qnx_securing_physical_ai/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uipg80",
+      "title": "WEN",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Redwoodbear77",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-29T11:08:52+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uipg80/wen/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uio695",
+      "title": "Daily Discussion Thread for June 29, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/verified-trader",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-29T10:00:37+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uio695/daily_discussion_thread_for_june_29_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uin8ul",
+      "title": "Is anyone shorting Global ETFs ahead of July 7th?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/poisonrain3",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-29T09:05:39+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uin8ul/is_anyone_shorting_global_etfs_ahead_of_july_7th/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uik31c",
+      "title": "Samsung Electronics, SK Hynix to invest in two new fabrication sites in South Korea, government says",
+      "subreddit": "wallstreetbets",
+      "author": "/u/spicykimchi_inmybutt",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-29T06:03:02+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uik31c/samsung_electronics_sk_hynix_to_invest_in_two_new/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uie8bf",
+      "title": "KOSPI opens 3% lower as financial regulators indefinitely postpone the launch of weekly options.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/ShamAsil",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-29T01:05:33+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uie8bf/kospi_opens_3_lower_as_financial_regulators/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uidu6z",
+      "title": "Samsung, SK Reportedly to Invest $1.3 Trillion Over 10 Years",
+      "subreddit": "wallstreetbets",
+      "author": "/u/BlackberryJolly4830",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-29T00:46:48+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uidu6z/samsung_sk_reportedly_to_invest_13_trillion_over/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uib0mk",
+      "title": "BB then & now",
+      "subreddit": "wallstreetbets",
+      "author": "/u/No-Pay3755",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-28T22:38:56+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uib0mk/bb_then_now/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uiaw7j",
+      "title": "So about that AI trade..",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Grubby454",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-28T22:33:23+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uiaw7j/so_about_that_ai_trade/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uiatng",
+      "title": "Google limits Meta’s use of its Gemini AI models, FT reports",
+      "subreddit": "wallstreetbets",
+      "author": "/u/I_killed_the_kraken",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-28T22:30:17+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uiatng/google_limits_metas_use_of_its_gemini_ai_models/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ui8dyn",
+      "title": "US, Iran Halt Strikes Ahead of Tuesday Talks",
+      "subreddit": "wallstreetbets",
+      "author": "/u/spicykimchi_inmybutt",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-28T20:49:45+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ui8dyn/us_iran_halt_strikes_ahead_of_tuesday_talks/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ui8cae",
+      "title": "Weekends Over, Wars Over!",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Low-Rooster5398",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-28T20:47:47+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ui8cae/weekends_over_wars_over/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ui75bc",
+      "title": "What Are Your Moves Tomorrow, June 29, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/verified-trader",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-28T20:00:37+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ui75bc/what_are_your_moves_tomorrow_june_29_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ui40c5",
+      "title": "The market remained irrational longer than I remained solvent",
+      "subreddit": "wallstreetbets",
+      "author": "/u/degenfish_HG",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-28T17:59:11+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ui40c5/the_market_remained_irrational_longer_than_i/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ui287h",
+      "title": "Risked 20k on 0DTE MU calls just to break even and it worked (6/26)",
+      "subreddit": "wallstreetbets",
+      "author": "/u/brotherOSRS",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-28T16:49:32+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ui287h/risked_20k_on_0dte_mu_calls_just_to_break_even/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ui1d28",
+      "title": "CEG is literally printing glowing green money now. Walmart goes Nuclear? ☢️🛒",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Dismal-Conclusion350",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-28T16:14:31+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ui1d28/ceg_is_literally_printing_glowing_green_money_now/",
+      "tickers": [
+        "WMT",
+        "CEG"
+      ]
+    },
+    {
+      "id": "t3_1uhypv3",
+      "title": "Didn’t know we had regards in Alaska",
+      "subreddit": "wallstreetbets",
+      "author": "/u/TroubledDoggo",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-06-28T14:28:37+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uhypv3/didnt_know_we_had_regards_in_alaska/",
       "tickers": []
     },
     {
@@ -48,17 +293,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1uhs7ir",
-      "title": "Recession indicator",
-      "subreddit": "wallstreetbets",
-      "author": "/u/ImNotNotlaw",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-28T08:53:43+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uhs7ir/recession_indicator/",
-      "tickers": []
-    },
-    {
       "id": "t3_1uhruvn",
       "title": "Wendy's: A Deep Value Turnaround",
       "subreddit": "wallstreetbets",
@@ -67,28 +301,6 @@
       "num_comments": 0,
       "created": "2026-06-28T08:32:25+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1uhruvn/wendys_a_deep_value_turnaround/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uhr12b",
-      "title": "Webull glitch",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Own-Turnip-292",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-28T07:42:56+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uhr12b/webull_glitch/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uhko8e",
-      "title": "Margin finally called me",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Odd-Block-2998",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-28T02:06:08+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uhko8e/margin_finally_called_me/",
       "tickers": []
     },
     {
@@ -101,185 +313,19 @@
       "created": "2026-06-28T01:25:00+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1uhjt2g/cathie_wood_invests_115_million_in_coinbase_as/",
       "tickers": []
-    },
-    {
-      "id": "t3_1uhich3",
-      "title": "Though it was free money, it was, just not for me.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/That_anonymous_guy18",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-28T00:16:23+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uhich3/though_it_was_free_money_it_was_just_not_for_me/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uhfcfc",
-      "title": "I believe an AI/semiconductor run-up to earnings strategy will yield gains",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Interesting-Hold5636",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-27T22:04:32+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uhfcfc/i_believe_an_aisemiconductor_runup_to_earnings/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uhenfn",
-      "title": "That’s how I roll lol",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Outrageous-Ad4121",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-27T21:35:22+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uhenfn/thats_how_i_roll_lol/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uhbl9a",
-      "title": "Nebius now makes ASMR videos. They are more diversified than I thought",
-      "subreddit": "wallstreetbets",
-      "author": "/u/WickedSensitiveCrew",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-27T19:28:44+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uhbl9a/nebius_now_makes_asmr_videos_they_are_more/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uh8edw",
-      "title": "Microslop is on sale",
-      "subreddit": "wallstreetbets",
-      "author": "/u/monoteapot",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-27T17:20:00+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uh8edw/microslop_is_on_sale/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uh5yux",
-      "title": "MU $2000 is no longer a meme",
-      "subreddit": "wallstreetbets",
-      "author": "/u/willbabu",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-27T15:42:12+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uh5yux/mu_2000_is_no_longer_a_meme/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uh5vie",
-      "title": "Strong week ahead.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Fun_Training4330",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-27T15:38:23+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uh5vie/strong_week_ahead/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uh43fr",
-      "title": "Current losses on my META position",
-      "subreddit": "wallstreetbets",
-      "author": "/u/withthepotboy",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-27T14:24:48+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uh43fr/current_losses_on_my_meta_position/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ugv75x",
-      "title": "I was a six-figure trader 18 months ago. Today I officially qualify for food stamps. AMA.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Sea-Lengthiness-7889",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-27T06:31:56+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ugv75x/i_was_a_sixfigure_trader_18_months_ago_today_i/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uguo9y",
-      "title": "For all you degens",
-      "subreddit": "wallstreetbets",
-      "author": "/u/stuntondeezh0es",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-27T06:03:03+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uguo9y/for_all_you_degens/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ugshv7",
-      "title": "Chinese margin calls must be next level",
-      "subreddit": "wallstreetbets",
-      "author": "/u/tronald_dum",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-27T04:08:06+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ugshv7/chinese_margin_calls_must_be_next_level/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ugsgwr",
-      "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Lisaismyfav",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-27T04:06:45+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ugsgwr/trump_admin_allows_anthropic_to_release_mythos_ai/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ugqbmv",
-      "title": "I accidentally sold a put option and now I owe 70k USD.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/az000l26",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-27T02:20:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ugqbmv/i_accidentally_sold_a_put_option_and_now_i_owe/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ugo9s2",
-      "title": "I ain’t selling until MU is 2000. Today dip don’t scared me.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Kingmusk420",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-27T00:43:41+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ugo9s2/i_aint_selling_until_mu_is_2000_today_dip_dont/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ugjgt3",
-      "title": "Weekly Earnings Thread 6/29 - 7/3",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Swiifttx",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-26T21:22:22+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ugjgt3/weekly_earnings_thread_629_73/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ughbqu",
-      "title": "Weekend Discussion Thread for the Weekend of June 27-28",
-      "subreddit": "wallstreetbets",
-      "author": "/u/verified-trader",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-06-26T20:00:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ughbqu/weekend_discussion_thread_for_the_weekend_of_june/",
-      "tickers": []
     }
   ],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=70716",
+      "title": "Talk Your Book: Investing in the Power Grid",
+      "link": "https://awealthofcommonsense.com/2026/06/talk-your-book-investing-in-the-power-grid/",
+      "publishedAt": "2026-06-29T11:15:12.000Z",
+      "snippet": "On today's Talk Your Book, we speak with Ryan Issakainen fro, First Trust about investing in the buildout of a new power grid, AI bottlenecks, data centers, thematic ETFs and more. The post Talk Your Book: Investing in t",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=70656",
       "title": "Why Are Investors Holding More Cash?",
@@ -319,16 +365,6 @@
       "author": "Doomberg",
       "handle": "@DoombergT",
       "tag": "Energy / Macro"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=70608",
-      "title": "Animal Spirits: Everything is Outperforming the S&#038;P 500 This Year",
-      "link": "https://awealthofcommonsense.com/2026/06/animal-spirits-everything-is-outperforming-the-sp-500-this-year/",
-      "publishedAt": "2026-06-24T11:15:28.000Z",
-      "snippet": "On today's show we discuss why diversification is working again, how AI is creating more winners and losers in the stock market, why the Mag 7 is underperforming, the triple-digit club, why investors are holding more cas",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=32684",
