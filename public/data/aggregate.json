@@ -1,90 +1,258 @@
 {
-  "lastUpdated": "2026-07-02T11:53:52.352Z",
+  "lastUpdated": "2026-07-03T11:51:49.090Z",
   "holdings": {},
   "redditTickers": [
     {
-      "ticker": "WEN",
+      "ticker": "HOOD",
       "mentions": 1,
       "subreddits": [
         "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "COLL",
-      "mentions": 1,
-      "subreddits": [
-        "valueinvesting"
-      ]
-    },
-    {
-      "ticker": "RMV.L",
-      "mentions": 1,
-      "subreddits": [
-        "valueinvesting"
-      ]
-    },
-    {
-      "ticker": "MC",
-      "mentions": 1,
-      "subreddits": [
-        "valueinvesting"
       ]
     }
   ],
   "redditPosts": [
     {
-      "id": "t3_1ulfv66",
-      "title": "I’m Down with the Syndrome (WEN)",
-      "subreddit": "wallstreetbets",
-      "author": "/u/OlivanzaCat",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-02T11:42:07+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ulfv66/im_down_with_the_syndrome_wen/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ulfuke",
-      "title": "SaaS sold off as a sector this year. The Value ranks say the sorting still needs to happen by hand.",
-      "subreddit": "valueinvesting",
-      "author": "/u/ichbinschomi",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-02T11:41:17+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1ulfuke/saas_sold_off_as_a_sector_this_year_the_value/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uldy3c",
-      "title": "Daily Discussion Thread for July 2, 2026",
+      "id": "t3_1uma8p0",
+      "title": "What Are Your Moves for Independence Day, July 3, 2026",
       "subreddit": "wallstreetbets",
       "author": "/u/verified-trader",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-07-02T10:00:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uldy3c/daily_discussion_thread_for_july_2_2026/",
+      "created": "2026-07-03T10:00:37+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uma8p0/what_are_your_moves_for_independence_day_july_3/",
       "tickers": []
     },
     {
-      "id": "t3_1uldu9p",
-      "title": "HUBS (& CRM) - A short write up",
-      "subreddit": "valueinvesting",
-      "author": "/u/NinjAsger",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-02T09:54:46+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1uldu9p/hubs_crm_a_short_write_up/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uldru4",
-      "title": "South Korean Banks Expand Trading Floors for 24-Hour Won Market",
+      "id": "t3_1um938w",
+      "title": "AMA +7546% in half a year playing options",
       "subreddit": "wallstreetbets",
-      "author": "/u/Boraximus",
+      "author": "/u/zin1422",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-07-02T09:50:43+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uldru4/south_korean_banks_expand_trading_floors_for/",
+      "created": "2026-07-03T08:53:29+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1um938w/ama_7546_in_half_a_year_playing_options/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1um8yp7",
+      "title": "Meta Explores Partnership with Samsung for $7.7 Billion AI Chip Production",
+      "subreddit": "wallstreetbets",
+      "author": "/u/SnooHedgehogs5162",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-03T08:45:57+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1um8yp7/meta_explores_partnership_with_samsung_for_77/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1um87yq",
+      "title": "Casino is closed. I heard there is soccer tournament ongoing",
+      "subreddit": "wallstreetbets",
+      "author": "/u/ShaggysHyper",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-03T08:01:31+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1um87yq/casino_is_closed_i_heard_there_is_soccer/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1um7pg2",
+      "title": "South Korean Stocks Gain 5% as Risk on Trades gain momentum Again",
+      "subreddit": "wallstreetbets",
+      "author": "/u/CaptainApeCommander",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-03T07:30:44+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1um7pg2/south_korean_stocks_gain_5_as_risk_on_trades_gain/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1um6r78",
+      "title": "So, I had a good week..",
+      "subreddit": "wallstreetbets",
+      "author": "/u/----0___0----",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-03T06:36:24+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1um6r78/so_i_had_a_good_week/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1um5vrg",
+      "title": "Bought the wrong dip😫",
+      "subreddit": "wallstreetbets",
+      "author": "/u/No_Alternative_5819",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-03T05:48:14+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1um5vrg/bought_the_wrong_dip/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1um4iho",
+      "title": "I’m the biggest degenerate gambler on WSB. 740% returns in the last 2 weeks.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/WhoRuleTheWorld",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-03T04:37:09+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1um4iho/im_the_biggest_degenerate_gambler_on_wsb_740/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1um3nn5",
+      "title": "Almost 4000% gains",
+      "subreddit": "wallstreetbets",
+      "author": "/u/LiftAndRun26",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-03T03:54:08+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1um3nn5/almost_4000_gains/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1um1cxg",
+      "title": "My anti-midas touch continues!",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Evening_Control6034",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-03T02:01:59+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1um1cxg/my_antimidas_touch_continues/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ulz1pn",
+      "title": "YOLO Oracle",
+      "subreddit": "wallstreetbets",
+      "author": "/u/wrongrobertpatrick",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-03T00:12:20+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ulz1pn/yolo_oracle/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ulybxa",
+      "title": "You can own Jensen Huang's Tom Ford Leather Jacket",
+      "subreddit": "wallstreetbets",
+      "author": "/u/wildcat1055",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-02T23:40:09+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ulybxa/you_can_own_jensen_huangs_tom_ford_leather_jacket/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ulv2h7",
+      "title": "SpaceX will pump before QQQ inclusion. $600k position",
+      "subreddit": "wallstreetbets",
+      "author": "/u/WhoRuleTheWorld",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-02T21:25:20+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ulv2h7/spacex_will_pump_before_qqq_inclusion_600k/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uluw9b",
+      "title": "Mrs. Obama, it's been an honor",
+      "subreddit": "wallstreetbets",
+      "author": "/u/OuttaHereWithThat",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-02T21:18:38+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uluw9b/mrs_obama_its_been_an_honor/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ulsvrr",
+      "title": "WSJ: Michael Burry Cites ‘Beginning of the End’ With New AI Short Bets",
+      "subreddit": "wallstreetbets",
+      "author": "/u/tabspdx",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-02T20:01:32+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ulsvrr/wsj_michael_burry_cites_beginning_of_the_end_with/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ulsves",
+      "title": "What Are Your Moves for Independence Day, July 3, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/verified-trader",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-02T20:01:12+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ulsves/what_are_your_moves_for_independence_day_july_3/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ulqdz9",
+      "title": "Palantir's CEO meltdown on TV: \"These models have been completely over, irresponsibly over-sale\"",
+      "subreddit": "wallstreetbets",
+      "author": "/u/botulidze",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-02T18:28:48+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ulqdz9/palantirs_ceo_meltdown_on_tv_these_models_have/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uloqsy",
+      "title": "Got liquidated but thankfully just under 25 so will never do this ever again",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Puzzled_Butterfly814",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-02T17:29:41+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uloqsy/got_liquidated_but_thankfully_just_under_25_so/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uln7nr",
+      "title": "Weekly earnings thread 7/6 - 7/10",
+      "subreddit": "wallstreetbets",
+      "author": "/u/OSRSkarma",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-02T16:34:08+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uln7nr/weekly_earnings_thread_76_710/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ulm2rw",
+      "title": "$HOOD gain 1500 percent",
+      "subreddit": "wallstreetbets",
+      "author": "/u/PumpkinWest7430",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-02T15:52:57+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ulm2rw/hood_gain_1500_percent/",
+      "tickers": [
+        "HOOD"
+      ]
+    },
+    {
+      "id": "t3_1ulibtf",
+      "title": "Tesla reports 480,126 vehicle deliveries for second quarter, topping expectation",
+      "subreddit": "wallstreetbets",
+      "author": "/u/of_course_horse",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-02T13:29:31+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ulibtf/tesla_reports_480126_vehicle_deliveries_for/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ulh9ka",
+      "title": "June jobs report: US payrolls rose by 57,000 in June, missing expectations",
+      "subreddit": "wallstreetbets",
+      "author": "/u/LarryBlink",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-02T12:45:11+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ulh9ka/june_jobs_report_us_payrolls_rose_by_57000_in/",
       "tickers": []
     },
     {
@@ -110,208 +278,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1ulcna5",
-      "title": "Makes a fortune in cash. Costs almost nothing to run. Protected by patents until 2037. COLL at $35 looks too cheap.",
-      "subreddit": "valueinvesting",
-      "author": "/u/solacelabx",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-02T08:45:03+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1ulcna5/makes_a_fortune_in_cash_costs_almost_nothing_to/",
-      "tickers": [
-        "COLL"
-      ]
-    },
-    {
-      "id": "t3_1ulbtiv",
-      "title": "MSFT earnings",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Jollygreen182",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-02T07:56:00+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ulbtiv/msft_earnings/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ulb2s2",
-      "title": "KOSPI traders figured out the way around the -8% circuit breaker",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Impressive_Order60",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-02T07:12:01+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ulb2s2/kospi_traders_figured_out_the_way_around_the_8/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ulax91",
-      "title": "Small caps on the AI power bottleneck (CGEH, FCEL, others?)",
-      "subreddit": "valueinvesting",
-      "author": "/u/No_Effective6401",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-02T07:03:05+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1ulax91/small_caps_on_the_ai_power_bottleneck_cgeh_fcel/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ul8r50",
-      "title": "Any thoughts on buy and hold lowest PE ratio Mag 7 stock? (backtested)",
-      "subreddit": "valueinvesting",
-      "author": "/u/Madison_369",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-02T05:03:00+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1ul8r50/any_thoughts_on_buy_and_hold_lowest_pe_ratio_mag/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ul8d05",
-      "title": "Nvidia starts revenue-sharing credit-support model for AI Clouds",
-      "subreddit": "wallstreetbets",
-      "author": "/u/981flacht6",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-02T04:42:35+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ul8d05/nvidia_starts_revenuesharing_creditsupport_model/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ul7868",
-      "title": "Betting on battery storage CATL 3750.HK",
-      "subreddit": "valueinvesting",
-      "author": "/u/jackandjillonthehill",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-02T03:45:35+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1ul7868/betting_on_battery_storage_catl_3750hk/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ul4i7v",
-      "title": "I scan 3,000+ US non-financial companies every year for balance sheet distress. Here's what the aggregate signal looks like since 2005.",
-      "subreddit": "valueinvesting",
-      "author": "/u/ConsciousToe1557",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-02T01:36:49+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1ul4i7v/i_scan_3000_us_nonfinancial_companies_every_year/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ul3yd7",
-      "title": "What are your favorite value ETFs?",
-      "subreddit": "valueinvesting",
-      "author": "/u/Yimpish",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-02T01:11:10+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1ul3yd7/what_are_your_favorite_value_etfs/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ul3tl7",
-      "title": "I'm cooked lost over 50k of my hard earned money if I sell now.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Puzzled_Butterfly814",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-02T01:05:24+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ul3tl7/im_cooked_lost_over_50k_of_my_hard_earned_money/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ul3l2e",
-      "title": "Is it possible predict a bull run?",
-      "subreddit": "valueinvesting",
-      "author": "/u/Mycryptoaccount_idk",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-02T00:54:49+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1ul3l2e/is_it_possible_predict_a_bull_run/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ul24ic",
-      "title": "SK Hynix Files For Nasdaq Debut Under Symbol SKHY – Prepares For Multi-Billion Dollar ADS Sale",
-      "subreddit": "wallstreetbets",
-      "author": "/u/permanent_pixel",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-01T23:49:41+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ul24ic/sk_hynix_files_for_nasdaq_debut_under_symbol_skhy/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ul1o9g",
-      "title": "Everyone here doubted my YOLO. Now 8 days later I'm 21yo and retiring. Thank you Zuck 🙏❤️",
-      "subreddit": "wallstreetbets",
-      "author": "/u/yatv",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-01T23:30:15+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ul1o9g/everyone_here_doubted_my_yolo_now_8_days_later_im/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ul16da",
-      "title": "Trading has changed my life immeasurably 👼",
-      "subreddit": "wallstreetbets",
-      "author": "/u/spacemane1",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-01T23:09:20+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ul16da/trading_has_changed_my_life_immeasurably/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ul02io",
-      "title": "Industries well positioned for continued AI growth?",
-      "subreddit": "valueinvesting",
-      "author": "/u/Sufficient-Year4640",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-01T22:23:34+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1ul02io/industries_well_positioned_for_continued_ai_growth/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ukzhmf",
-      "title": "The Federal Reserve Bank of Atlanta has lowered its GDP growth forecast from 3% to 1.2%",
-      "subreddit": "wallstreetbets",
-      "author": "/u/I_killed_the_kraken",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-01T22:00:23+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ukzhmf/the_federal_reserve_bank_of_atlanta_has_lowered/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ukyqbn",
-      "title": "$17k to be a part of history $WEN",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Hood-Whale",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-01T21:30:23+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ukyqbn/17k_to_be_a_part_of_history_wen/",
-      "tickers": [
-        "WEN"
-      ]
-    },
-    {
-      "id": "t3_1uky070",
-      "title": "I can finally say “no” to my Boss",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Sire_Jenkins",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-01T21:02:48+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uky070/i_can_finally_say_no_to_my_boss/",
-      "tickers": []
-    },
-    {
       "id": "t3_1ukxcrp",
       "title": "Suckerberg panic bought the entire AI chip supply and now he has no idea what to do with it...",
       "subreddit": "wallstreetbets",
@@ -321,55 +287,19 @@
       "created": "2026-07-01T20:38:29+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1ukxcrp/suckerberg_panic_bought_the_entire_ai_chip_supply/",
       "tickers": []
-    },
-    {
-      "id": "t3_1ukx4vt",
-      "title": "Rightmove ($RMV.L): a 253% ROIC platform now trading 44% below the takeover offer its board rejected in 2024",
-      "subreddit": "valueinvesting",
-      "author": "/u/selfsideUK",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-01T20:30:29+00:00",
-      "url": "https://old.reddit.com/r/ValueInvesting/comments/1ukx4vt/rightmove_rmvl_a_253_roic_platform_now_trading_44/",
-      "tickers": [
-        "RMV.L"
-      ]
-    },
-    {
-      "id": "t3_1ukwua1",
-      "title": "100K Bet on WEN",
-      "subreddit": "wallstreetbets",
-      "author": "/u/TheBearsKingdom",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-01T20:19:28+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ukwua1/100k_bet_on_wen/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ukwbxe",
-      "title": "What Are Your Moves Tomorrow, July 2, 2026",
-      "subreddit": "wallstreetbets",
-      "author": "/u/verified-trader",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-01T20:00:38+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ukwbxe/what_are_your_moves_tomorrow_july_2_2026/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ukvi14",
-      "title": "Sorry for tanking the semi conductor market, i bought $800k worth of NVDA at the top last Friday",
-      "subreddit": "wallstreetbets",
-      "author": "/u/two_beers_left",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-01T19:29:45+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ukvi14/sorry_for_tanking_the_semi_conductor_market_i/",
-      "tickers": []
     }
   ],
   "blogPosts": [
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/treatment-resistant",
+      "title": "Treatment Resistant",
+      "link": "https://newsletter.doomberg.com/p/treatment-resistant",
+      "publishedAt": "2026-07-03T09:00:41.000Z",
+      "snippet": "Even when they &#8220;work,&#8221; sanctions eventually backfire.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=70742",
       "title": "Animal Spirits: Is Debt Fueling the Rally?",
@@ -449,16 +379,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "doomberg-https://newsletter.doomberg.com/p/sacred-cow",
-      "title": "Sacred Cow",
-      "link": "https://newsletter.doomberg.com/p/sacred-cow",
-      "publishedAt": "2026-06-22T14:22:09.000Z",
-      "snippet": "Pro Tier: June 2026 Doom Zoom",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
     },
     {
       "id": "net-interest-https://www.netinterest.co/p/the-transfer-market",
