@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-07-04T11:06:41.112Z",
+  "lastUpdated": "2026-07-05T11:16:58.562Z",
   "holdings": {},
   "redditTickers": [
+    {
+      "ticker": "MU",
+      "mentions": 1,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "mentions": 1,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "mentions": 1,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    },
     {
       "ticker": "ADBE",
       "mentions": 1,
@@ -12,14 +33,84 @@
   ],
   "redditPosts": [
     {
-      "id": "t3_1un3976",
-      "title": "BTC with the literal \"I dunno\" formation",
+      "id": "t3_1unx5n0",
+      "title": "Foxconn second-quarter revenue jumps 40%",
       "subreddit": "wallstreetbets",
-      "author": "/u/BloodMossHunter",
+      "author": "/u/SnooHedgehogs5162",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-07-04T08:03:26+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1un3976/btc_with_the_literal_i_dunno_formation/",
+      "created": "2026-07-05T08:49:34+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1unx5n0/foxconn_secondquarter_revenue_jumps_40/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1unm6cq",
+      "title": "RKLB YOLO",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Not-Bruce-Wayne1",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-04T22:43:24+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1unm6cq/rklb_yolo/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1unk8bf",
+      "title": "Leverage in South Korean chip stocks is out of control",
+      "subreddit": "wallstreetbets",
+      "author": "/u/SnooHedgehogs5162",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-04T21:13:36+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1unk8bf/leverage_in_south_korean_chip_stocks_is_out_of/",
+      "tickers": [
+        "MU",
+        "TSLA",
+        "NVDA"
+      ]
+    },
+    {
+      "id": "t3_1undt05",
+      "title": "The famous \"I cant im too poor\" starter pack",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Pristine-Feature3025",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-04T16:46:06+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1undt05/the_famous_i_cant_im_too_poor_starter_pack/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1undrn8",
+      "title": "First known congressional SpaceX stock buys surface after record IPO",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Wunder_Bred",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-04T16:44:31+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1undrn8/first_known_congressional_spacex_stock_buys/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1unbo7q",
+      "title": "$71,000 in SNXX",
+      "subreddit": "wallstreetbets",
+      "author": "/u/heycanyouallhelpme",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-04T15:18:09+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1unbo7q/71000_in_snxx/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1una0zd",
+      "title": "50k in Jan 2027 NBIS Calls",
+      "subreddit": "wallstreetbets",
+      "author": "/u/source-material",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-04T14:09:06+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1una0zd/50k_in_jan_2027_nbis_calls/",
       "tickers": []
     },
     {
@@ -45,17 +136,6 @@
       "tickers": [
         "ADBE"
       ]
-    },
-    {
-      "id": "t3_1umu3rz",
-      "title": "10k ADBE calls",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Soundsgoood5",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-04T00:01:44+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1umu3rz/10k_adbe_calls/",
-      "tickers": []
     },
     {
       "id": "t3_1umta9x",
@@ -146,17 +226,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1umhsk5",
-      "title": "Foreign investor flows in Asia",
-      "subreddit": "wallstreetbets",
-      "author": "/u/SnooHedgehogs5162",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-03T15:39:17+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1umhsk5/foreign_investor_flows_in_asia/",
-      "tickers": []
-    },
-    {
       "id": "t3_1umdiqq",
       "title": "Amazon’s Starlink Rival Just Reached Its Orbital Tipping Point to Begin Service",
       "subreddit": "wallstreetbets",
@@ -165,17 +234,6 @@
       "num_comments": 0,
       "created": "2026-07-03T12:45:56+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1umdiqq/amazons_starlink_rival_just_reached_its_orbital/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uma8p0",
-      "title": "What Are Your Moves for Independence Day, July 3, 2026",
-      "subreddit": "wallstreetbets",
-      "author": "/u/verified-trader",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-03T10:00:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uma8p0/what_are_your_moves_for_independence_day_july_3/",
       "tickers": []
     },
     {
@@ -234,28 +292,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1um3nn5",
-      "title": "Almost 4000% gains",
-      "subreddit": "wallstreetbets",
-      "author": "/u/LiftAndRun26",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-03T03:54:08+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1um3nn5/almost_4000_gains/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ulsvrr",
-      "title": "WSJ: Michael Burry Cites ‘Beginning of the End’ With New AI Short Bets",
-      "subreddit": "wallstreetbets",
-      "author": "/u/tabspdx",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-02T20:01:32+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ulsvrr/wsj_michael_burry_cites_beginning_of_the_end_with/",
-      "tickers": []
-    },
-    {
       "id": "t3_1ulqdz9",
       "title": "Palantir's CEO meltdown on TV: \"These models have been completely over, irresponsibly over-sale\"",
       "subreddit": "wallstreetbets",
@@ -275,17 +311,6 @@
       "num_comments": 0,
       "created": "2026-07-02T16:34:08+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1uln7nr/weekly_earnings_thread_76_710/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uldqki",
-      "title": "Open AI to offer Trump Admin 5% stake in company",
-      "subreddit": "wallstreetbets",
-      "author": "/u/MakesEthanol",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-02T09:48:43+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uldqki/open_ai_to_offer_trump_admin_5_stake_in_company/",
       "tickers": []
     }
   ],
