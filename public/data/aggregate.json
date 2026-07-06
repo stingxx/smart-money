@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-07-05T11:16:58.562Z",
+  "lastUpdated": "2026-07-06T13:05:36.944Z",
   "holdings": {},
   "redditTickers": [
+    {
+      "ticker": "WULF",
+      "mentions": 1,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    },
+    {
+      "ticker": "AVAV",
+      "mentions": 1,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    },
+    {
+      "ticker": "ABVX",
+      "mentions": 1,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    },
     {
       "ticker": "MU",
       "mentions": 1,
@@ -22,16 +43,202 @@
       "subreddits": [
         "wallstreetbets"
       ]
-    },
-    {
-      "ticker": "ADBE",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
     }
   ],
   "redditPosts": [
+    {
+      "id": "t3_1uownez",
+      "title": "A proper oldschool DD that's probably a 2-3 bagger by end of year. $ABVX",
+      "subreddit": "wallstreetbets",
+      "author": "/u/double_a_mtl",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T12:59:15+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uownez/a_proper_oldschool_dd_thats_probably_a_23_bagger/",
+      "tickers": [
+        "ABVX"
+      ]
+    },
+    {
+      "id": "t3_1uovjmg",
+      "title": "Michael Saylor's 'Strategy' sold another 3,588 Bitcoin worth $225 million.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Kazgarth_",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T12:11:23+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uovjmg/michael_saylors_strategy_sold_another_3588/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uovhgd",
+      "title": "Terrawulf $WULF announced deal with Anthropic. Stock up 20%. Expected to generate $19B",
+      "subreddit": "wallstreetbets",
+      "author": "/u/ShaggysHyper",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T12:08:38+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uovhgd/terrawulf_wulf_announced_deal_with_anthropic/",
+      "tickers": [
+        "WULF"
+      ]
+    },
+    {
+      "id": "t3_1uosy1d",
+      "title": "Daily Discussion Thread for July 6, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/verified-trader",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T10:00:37+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uosy1d/daily_discussion_thread_for_july_6_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uootpg",
+      "title": "One of you is looking for divine intervention",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Muinko",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T05:59:54+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uootpg/one_of_you_is_looking_for_divine_intervention/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uomfzf",
+      "title": "South Korea's SK Hynix to launch $28 billion US listing to ride global AI wave",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Presently_Naked",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T03:53:04+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uomfzf/south_koreas_sk_hynix_to_launch_28_billion_us/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uok1x3",
+      "title": "What is going on with Oil prices?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Maxh_SCGA",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T01:54:11+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uok1x3/what_is_going_on_with_oil_prices/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uoiuun",
+      "title": "$AVAV — Thing That Actually Shoots Down Other Things",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Interesting_Dingo194",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T00:55:38+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uoiuun/avav_thing_that_actually_shoots_down_other_things/",
+      "tickers": [
+        "AVAV"
+      ]
+    },
+    {
+      "id": "t3_1uoiivp",
+      "title": "Netflix's top shows have been losing 30-70% of their audience between seasons 1 and 2. Executives are trying to figure out why.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/2d12-RogueGames",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T00:40:15+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uoiivp/netflixs_top_shows_have_been_losing_3070_of_their/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uocya8",
+      "title": "Tech stocks to the moon or down the hell?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Ok_Set329",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-05T20:43:11+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uocya8/tech_stocks_to_the_moon_or_down_the_hell/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uobx5h",
+      "title": "What Are Your Moves Tomorrow, July 6, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/verified-trader",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-05T20:00:37+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uobx5h/what_are_your_moves_tomorrow_july_6_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uoab53",
+      "title": "Position Sharing Circle",
+      "subreddit": "wallstreetbets",
+      "author": "/u/oldwhitch",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-05T18:57:03+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uoab53/position_sharing_circle/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uo9f94",
+      "title": "Hims to 60 soon!",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Itsallaboutmargin",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-05T18:22:18+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uo9f94/hims_to_60_soon/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uo58k8",
+      "title": "OPEC+ approves further oil output increase as Hormuz exports start to recover",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Separate-Scene4672",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-05T15:36:40+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uo58k8/opec_approves_further_oil_output_increase_as/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uo4wnd",
+      "title": "$60k in IBM, so far so good.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Normal-Phase-1252",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-05T15:23:02+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uo4wnd/60k_in_ibm_so_far_so_good/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uo3zlu",
+      "title": "GOOGL YOLO ~$150k",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Icy-Tea-2954",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-05T14:45:20+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uo3zlu/googl_yolo_150k/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uo0mlv",
+      "title": "SKHY is not just SK hynix. It accidentally reads like a Korean chaebol love letter.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/IMAX_NASCAR",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-05T12:11:01+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uo0mlv/skhy_is_not_just_sk_hynix_it_accidentally_reads/",
+      "tickers": []
+    },
     {
       "id": "t3_1unx5n0",
       "title": "Foxconn second-quarter revenue jumps 40%",
@@ -81,17 +288,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1undrn8",
-      "title": "First known congressional SpaceX stock buys surface after record IPO",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Wunder_Bred",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-04T16:44:31+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1undrn8/first_known_congressional_spacex_stock_buys/",
-      "tickers": []
-    },
-    {
       "id": "t3_1unbo7q",
       "title": "$71,000 in SNXX",
       "subreddit": "wallstreetbets",
@@ -125,184 +321,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1umukxk",
-      "title": "$70K in $ADBE Calls",
-      "subreddit": "wallstreetbets",
-      "author": "/u/hazxrrd",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-04T00:24:41+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1umukxk/70k_in_adbe_calls/",
-      "tickers": [
-        "ADBE"
-      ]
-    },
-    {
-      "id": "t3_1umta9x",
-      "title": "How are my options looking?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/sentrixz",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-03T23:22:35+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1umta9x/how_are_my_options_looking/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1umor8y",
-      "title": "+38,074. CVNA Puts, WEN Calls. Realized + a few positions rolling into Q3",
-      "subreddit": "wallstreetbets",
-      "author": "/u/BFLO-Retail",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-03T20:09:59+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1umor8y/38074_cvna_puts_wen_calls_realized_a_few/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1umoiql",
-      "title": "Weekend Discussion Thread for the Weekend of July 4-5",
-      "subreddit": "wallstreetbets",
-      "author": "/u/verified-trader",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-03T20:00:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1umoiql/weekend_discussion_thread_for_the_weekend_of_july/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ummuzw",
-      "title": "HOOD play!",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Itsallaboutmargin",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-03T18:54:03+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ummuzw/hood_play/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1umm95k",
-      "title": "Every dip is buying opportunity in Apple.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Itsallaboutmargin",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-03T18:30:07+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1umm95k/every_dip_is_buying_opportunity_in_apple/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1umlrqq",
-      "title": "I’m more confused by yesterday’s sell-off than the earnings",
-      "subreddit": "wallstreetbets",
-      "author": "/u/fersati",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-03T18:11:07+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1umlrqq/im_more_confused_by_yesterdays_selloff_than_the/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1umi8er",
-      "title": "I fucking love this sub",
-      "subreddit": "wallstreetbets",
-      "author": "/u/SmoothButtCake",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-03T15:56:04+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1umi8er/i_fucking_love_this_sub/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1umhwam",
-      "title": "Jersey Mikes files for IPO",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Decent_Relative_4070",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-03T15:43:19+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1umhwam/jersey_mikes_files_for_ipo/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1umdiqq",
-      "title": "Amazon’s Starlink Rival Just Reached Its Orbital Tipping Point to Begin Service",
-      "subreddit": "wallstreetbets",
-      "author": "/u/tke248",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-03T12:45:56+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1umdiqq/amazons_starlink_rival_just_reached_its_orbital/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1um938w",
-      "title": "AMA +7546% in half a year playing options",
-      "subreddit": "wallstreetbets",
-      "author": "/u/zin1422",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-03T08:53:29+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1um938w/ama_7546_in_half_a_year_playing_options/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1um8yp7",
-      "title": "Meta Explores Partnership with Samsung for $7.7 Billion AI Chip Production",
-      "subreddit": "wallstreetbets",
-      "author": "/u/SnooHedgehogs5162",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-03T08:45:57+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1um8yp7/meta_explores_partnership_with_samsung_for_77/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1um87yq",
-      "title": "Casino is closed. I heard there is soccer tournament ongoing",
-      "subreddit": "wallstreetbets",
-      "author": "/u/ShaggysHyper",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-03T08:01:31+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1um87yq/casino_is_closed_i_heard_there_is_soccer/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1um7pg2",
-      "title": "South Korean Stocks Gain 5% as Risk on Trades gain momentum Again",
-      "subreddit": "wallstreetbets",
-      "author": "/u/CaptainApeCommander",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-03T07:30:44+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1um7pg2/south_korean_stocks_gain_5_as_risk_on_trades_gain/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1um4iho",
-      "title": "I’m the biggest degenerate gambler on WSB. 740% returns in the last 2 weeks.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/WhoRuleTheWorld",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-03T04:37:09+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1um4iho/im_the_biggest_degenerate_gambler_on_wsb_740/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ulqdz9",
-      "title": "Palantir's CEO meltdown on TV: \"These models have been completely over, irresponsibly over-sale\"",
-      "subreddit": "wallstreetbets",
-      "author": "/u/botulidze",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-02T18:28:48+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ulqdz9/palantirs_ceo_meltdown_on_tv_these_models_have/",
-      "tickers": []
-    },
-    {
       "id": "t3_1uln7nr",
       "title": "Weekly earnings thread 7/6 - 7/10",
       "subreddit": "wallstreetbets",
@@ -315,6 +333,26 @@
     }
   ],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=70851",
+      "title": "Talk Your Book: How SpaceX Got Into the Nasdaq 100",
+      "link": "https://awealthofcommonsense.com/2026/07/talk-your-book-how-spacex-got-into-the-nasdaq-100/",
+      "publishedAt": "2026-07-06T11:15:10.000Z",
+      "snippet": "On today's Talk Your Book we speak with Invesco's Paul Schroeder about the Nasdaq 100, index methodology, tech fundamentals, fast entry timelines for IPOs and more. The post Talk Your Book: How SpaceX Got Into the Nasdaq",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=70831",
+      "title": "The Mag 7 is Losing?",
+      "link": "https://awealthofcommonsense.com/2026/07/the-mag-7-is-losing/",
+      "publishedAt": "2026-07-06T03:05:07.000Z",
+      "snippet": "Everything is outperforming the Mag 7 right now. The post The Mag 7 is Losing? appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "net-interest-https://www.netinterest.co/p/stretch-marks",
       "title": "Stretch Marks",
@@ -344,26 +382,6 @@
       "author": "Doomberg",
       "handle": "@DoombergT",
       "tag": "Energy / Macro"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=70742",
-      "title": "Animal Spirits: Is Debt Fueling the Rally?",
-      "link": "https://awealthofcommonsense.com/2026/07/animal-spirits-is-debt-fueling-the-rally/",
-      "publishedAt": "2026-07-01T11:15:24.000Z",
-      "snippet": "On today's show we discuss all-time highs in margin debt, the small cap rally, the hyperscaler dilemma, why Micron is up so much, everything is outperforming the Mag 7, concentration is normal, no signs of a recession, r",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=70727",
-      "title": "Leverage in the Stock Market",
-      "link": "https://awealthofcommonsense.com/2026/06/leverage-in-the-stock-market/",
-      "publishedAt": "2026-06-30T22:10:36.000Z",
-      "snippet": "Is margin debt a concern for the stock market? The post Leverage in the Stock Market appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=33328",
