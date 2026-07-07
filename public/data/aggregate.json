@@ -1,44 +1,23 @@
 {
-  "lastUpdated": "2026-07-06T13:05:36.944Z",
+  "lastUpdated": "2026-07-07T12:15:19.596Z",
   "holdings": {},
   "redditTickers": [
     {
+      "ticker": "WEN",
+      "mentions": 1,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    },
+    {
+      "ticker": "AVEX",
+      "mentions": 1,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    },
+    {
       "ticker": "WULF",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "AVAV",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "ABVX",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "NVDA",
       "mentions": 1,
       "subreddits": [
         "wallstreetbets"
@@ -47,17 +26,228 @@
   ],
   "redditPosts": [
     {
-      "id": "t3_1uownez",
-      "title": "A proper oldschool DD that's probably a 2-3 bagger by end of year. $ABVX",
+      "id": "t3_1uprk10",
+      "title": "Beijing is looking at curbing overseas access to China's top AI models, sources say",
       "subreddit": "wallstreetbets",
-      "author": "/u/double_a_mtl",
+      "author": "/u/kaapooj",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-07-06T12:59:15+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uownez/a_proper_oldschool_dd_thats_probably_a_23_bagger/",
+      "created": "2026-07-07T10:52:26+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uprk10/beijing_is_looking_at_curbing_overseas_access_to/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1upr9tj",
+      "title": "Not even a meme at this point, only green stock in premarket daily",
+      "subreddit": "wallstreetbets",
+      "author": "/u/AskMeWhyIAmSilver",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-07T10:37:55+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upr9tj/not_even_a_meme_at_this_point_only_green_stock_in/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1upqkbw",
+      "title": "Daily Discussion Thread for July 7, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/verified-trader",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-07T10:00:37+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upqkbw/daily_discussion_thread_for_july_7_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1upowv1",
+      "title": "Fuxk it - Shorting SPCX",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Key-Sweet-6418",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-07T08:26:13+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upowv1/fuxk_it_shorting_spcx/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uplwat",
+      "title": "RDDT to $300",
+      "subreddit": "wallstreetbets",
+      "author": "/u/RegardedBull_",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-07T05:37:45+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uplwat/rddt_to_300/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1upk5v0",
+      "title": "Should I just hang it up",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Standard_Effect9904",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-07T04:07:37+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upk5v0/should_i_just_hang_it_up/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1upgbna",
+      "title": "Micron Breaks Ground On $9 Billion Hiroshima Memory Chip Plant",
+      "subreddit": "wallstreetbets",
+      "author": "/u/tke248",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-07T01:09:55+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upgbna/micron_breaks_ground_on_9_billion_hiroshima/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1upf5ym",
+      "title": "Toyota to invest $3.6 billion to move Tacoma pickup truck production from Mexico to Texas",
+      "subreddit": "wallstreetbets",
+      "author": "/u/lawyertings",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-07T00:18:25+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upf5ym/toyota_to_invest_36_billion_to_move_tacoma_pickup/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1upduld",
+      "title": "Being a perma-bear is a bad habit",
+      "subreddit": "wallstreetbets",
+      "author": "/u/HailX3",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T23:23:46+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upduld/being_a_permabear_is_a_bad_habit/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1updsgf",
+      "title": "$AVEX — unjammable military drones, first profitable quarter, still mispriced",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Valkyrie_Skuld",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T23:21:20+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1updsgf/avex_unjammable_military_drones_first_profitable/",
       "tickers": [
-        "ABVX"
+        "AVEX"
       ]
+    },
+    {
+      "id": "t3_1upddkl",
+      "title": "Samsung Electronics Announces Earnings Guidance for Second Quarter 2026: 89.4t KW ($58.4b) operating profit, 1902% YOY",
+      "subreddit": "wallstreetbets",
+      "author": "/u/aizver_muti",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T23:04:38+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upddkl/samsung_electronics_announces_earnings_guidance/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1upcmuh",
+      "title": "Rivian shares fall after public offering plan overshadows upbeat revenue forecast",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Several_Print4633",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T22:37:12+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upcmuh/rivian_shares_fall_after_public_offering_plan/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1upa3gd",
+      "title": "How are KOSPI gains sustainable?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Independent-Eye9513",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T21:01:52+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upa3gd/how_are_kospi_gains_sustainable/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1up9yp6",
+      "title": "China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Several_Print4633",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T20:56:54+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1up9yp6/chinas_alibaba_bans_anthropic_ai_for_employees/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1up8fvp",
+      "title": "What Are Your Moves Tomorrow, July 7, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/verified-trader",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T20:00:37+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1up8fvp/what_are_your_moves_tomorrow_july_7_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1up4xa1",
+      "title": "AMD gain…",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Klutzy_Throat_2813",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T17:57:40+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1up4xa1/amd_gain/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1up4m9u",
+      "title": "$WEN",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Sith_Lord_Karen",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T17:47:13+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1up4m9u/wen/",
+      "tickers": [
+        "WEN"
+      ]
+    },
+    {
+      "id": "t3_1up3gya",
+      "title": "Trump does not like gay bears 🐻",
+      "subreddit": "wallstreetbets",
+      "author": "/u/ApeApplePine",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T17:07:40+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1up3gya/trump_does_not_like_gay_bears/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1up2eh5",
+      "title": "Nvidia Server Delay Report Sends Asian Tech Stocks Sliding",
+      "subreddit": "wallstreetbets",
+      "author": "/u/lawyertings",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T16:30:27+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1up2eh5/nvidia_server_delay_report_sends_asian_tech/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1up26op",
+      "title": "It's ok guys, Bitcoin has won",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Independent-Cress382",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-06T16:22:48+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1up26op/its_ok_guys_bitcoin_has_won/",
+      "tickers": []
     },
     {
       "id": "t3_1uovjmg",
@@ -84,17 +274,6 @@
       ]
     },
     {
-      "id": "t3_1uosy1d",
-      "title": "Daily Discussion Thread for July 6, 2026",
-      "subreddit": "wallstreetbets",
-      "author": "/u/verified-trader",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-06T10:00:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uosy1d/daily_discussion_thread_for_july_6_2026/",
-      "tickers": []
-    },
-    {
       "id": "t3_1uootpg",
       "title": "One of you is looking for divine intervention",
       "subreddit": "wallstreetbets",
@@ -106,41 +285,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1uomfzf",
-      "title": "South Korea's SK Hynix to launch $28 billion US listing to ride global AI wave",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Presently_Naked",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-06T03:53:04+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uomfzf/south_koreas_sk_hynix_to_launch_28_billion_us/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uok1x3",
-      "title": "What is going on with Oil prices?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Maxh_SCGA",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-06T01:54:11+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uok1x3/what_is_going_on_with_oil_prices/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uoiuun",
-      "title": "$AVAV — Thing That Actually Shoots Down Other Things",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Interesting_Dingo194",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-06T00:55:38+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uoiuun/avav_thing_that_actually_shoots_down_other_things/",
-      "tickers": [
-        "AVAV"
-      ]
-    },
-    {
       "id": "t3_1uoiivp",
       "title": "Netflix's top shows have been losing 30-70% of their audience between seasons 1 and 2. Executives are trying to figure out why.",
       "subreddit": "wallstreetbets",
@@ -149,175 +293,6 @@
       "num_comments": 0,
       "created": "2026-07-06T00:40:15+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1uoiivp/netflixs_top_shows_have_been_losing_3070_of_their/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uocya8",
-      "title": "Tech stocks to the moon or down the hell?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Ok_Set329",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-05T20:43:11+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uocya8/tech_stocks_to_the_moon_or_down_the_hell/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uobx5h",
-      "title": "What Are Your Moves Tomorrow, July 6, 2026",
-      "subreddit": "wallstreetbets",
-      "author": "/u/verified-trader",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-05T20:00:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uobx5h/what_are_your_moves_tomorrow_july_6_2026/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uoab53",
-      "title": "Position Sharing Circle",
-      "subreddit": "wallstreetbets",
-      "author": "/u/oldwhitch",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-05T18:57:03+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uoab53/position_sharing_circle/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uo9f94",
-      "title": "Hims to 60 soon!",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Itsallaboutmargin",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-05T18:22:18+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uo9f94/hims_to_60_soon/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uo58k8",
-      "title": "OPEC+ approves further oil output increase as Hormuz exports start to recover",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Separate-Scene4672",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-05T15:36:40+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uo58k8/opec_approves_further_oil_output_increase_as/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uo4wnd",
-      "title": "$60k in IBM, so far so good.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Normal-Phase-1252",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-05T15:23:02+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uo4wnd/60k_in_ibm_so_far_so_good/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uo3zlu",
-      "title": "GOOGL YOLO ~$150k",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Icy-Tea-2954",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-05T14:45:20+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uo3zlu/googl_yolo_150k/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uo0mlv",
-      "title": "SKHY is not just SK hynix. It accidentally reads like a Korean chaebol love letter.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/IMAX_NASCAR",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-05T12:11:01+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uo0mlv/skhy_is_not_just_sk_hynix_it_accidentally_reads/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1unx5n0",
-      "title": "Foxconn second-quarter revenue jumps 40%",
-      "subreddit": "wallstreetbets",
-      "author": "/u/SnooHedgehogs5162",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-05T08:49:34+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1unx5n0/foxconn_secondquarter_revenue_jumps_40/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1unm6cq",
-      "title": "RKLB YOLO",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Not-Bruce-Wayne1",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-04T22:43:24+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1unm6cq/rklb_yolo/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1unk8bf",
-      "title": "Leverage in South Korean chip stocks is out of control",
-      "subreddit": "wallstreetbets",
-      "author": "/u/SnooHedgehogs5162",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-04T21:13:36+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1unk8bf/leverage_in_south_korean_chip_stocks_is_out_of/",
-      "tickers": [
-        "MU",
-        "TSLA",
-        "NVDA"
-      ]
-    },
-    {
-      "id": "t3_1undt05",
-      "title": "The famous \"I cant im too poor\" starter pack",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Pristine-Feature3025",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-04T16:46:06+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1undt05/the_famous_i_cant_im_too_poor_starter_pack/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1unbo7q",
-      "title": "$71,000 in SNXX",
-      "subreddit": "wallstreetbets",
-      "author": "/u/heycanyouallhelpme",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-04T15:18:09+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1unbo7q/71000_in_snxx/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1una0zd",
-      "title": "50k in Jan 2027 NBIS Calls",
-      "subreddit": "wallstreetbets",
-      "author": "/u/source-material",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-04T14:09:06+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1una0zd/50k_in_jan_2027_nbis_calls/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1umx56q",
-      "title": "Buying homes with pre-IPO OpenAI stock? New trend going viral in San Francisco",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Accomplished-Air439",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-04T02:30:38+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1umx56q/buying_homes_with_preipo_openai_stock_new_trend/",
       "tickers": []
     },
     {
@@ -333,6 +308,26 @@
     }
   ],
   "blogPosts": [
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=32248",
+      "title": "A Century of U.S. Stock Returns: Expect the Unexpected",
+      "link": "https://ofdollarsanddata.com/a-century-of-us-stock-returns/",
+      "publishedAt": "2026-07-07T11:45:59.000Z",
+      "snippet": "In honor of America's 250th birthday, I decided to do a deep dive into U.S. stock returns over the past century. My goal was to answer the following question: If you had invested in U.S. stocks at a random point in the l",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/blue-chips",
+      "title": "Blue Chips",
+      "link": "https://newsletter.doomberg.com/p/blue-chips",
+      "publishedAt": "2026-07-07T09:01:38.000Z",
+      "snippet": "Will the highest-pedigreed off-grid gas-to-data project in the world get built?",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=70851",
       "title": "Talk Your Book: How SpaceX Got Into the Nasdaq 100",
@@ -414,16 +409,6 @@
       "tag": "Financials"
     },
     {
-      "id": "doomberg-https://newsletter.doomberg.com/p/fused-objectives",
-      "title": "Fused Objectives",
-      "link": "https://newsletter.doomberg.com/p/fused-objectives",
-      "publishedAt": "2026-06-25T09:02:04.000Z",
-      "snippet": "Has the real purpose of fusion hype been revealed?",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
-    },
-    {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=32684",
       "title": "Why Poorer Students Earn Less (Even With the Same Degree)",
       "link": "https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/",
@@ -442,16 +427,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "dollars-data-https://ofdollarsanddata.com/?p=31645",
-      "title": "Can Supply and Demand Predict the Stock Market?",
-      "link": "https://ofdollarsanddata.com/can-supply-and-demand-predict-the-stock-market/",
-      "publishedAt": "2026-06-16T11:45:22.000Z",
-      "snippet": "Working in England in the 14th century was difficult to say the least. Between the harsh conditions and low wages, you also had to fight against the occasional disease outbreak and a repressive government. As the Black D",
-      "author": "Nick Maggiulli",
-      "handle": "Of Dollars and Data",
-      "tag": "Behavioral"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
