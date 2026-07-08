@@ -1,23 +1,16 @@
 {
-  "lastUpdated": "2026-07-07T12:15:19.596Z",
+  "lastUpdated": "2026-07-08T11:23:42.784Z",
   "holdings": {},
   "redditTickers": [
     {
-      "ticker": "WEN",
+      "ticker": "NBIS",
       "mentions": 1,
       "subreddits": [
         "wallstreetbets"
       ]
     },
     {
-      "ticker": "AVEX",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "WULF",
+      "ticker": "ZETA",
       "mentions": 1,
       "subreddits": [
         "wallstreetbets"
@@ -26,14 +19,203 @@
   ],
   "redditPosts": [
     {
-      "id": "t3_1uprk10",
-      "title": "Beijing is looking at curbing overseas access to China's top AI models, sources say",
+      "id": "t3_1uqppmi",
+      "title": "Average day this month if you didn’t invest in AI",
       "subreddit": "wallstreetbets",
-      "author": "/u/kaapooj",
+      "author": "/u/Intelligent_Cabinet5",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-07-07T10:52:26+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uprk10/beijing_is_looking_at_curbing_overseas_access_to/",
+      "created": "2026-07-08T11:17:52+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uqppmi/average_day_this_month_if_you_didnt_invest_in_ai/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uqpkha",
+      "title": "bloomberg terminal, july 8, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/ChampionshipCivil308",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-08T11:10:56+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uqpkha/bloomberg_terminal_july_8_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uqp9jl",
+      "title": "Apple announces chip deal with Broadcom worth more than $30 billion",
+      "subreddit": "wallstreetbets",
+      "author": "/u/callsonreddit",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-08T10:55:50+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uqp9jl/apple_announces_chip_deal_with_broadcom_worth/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uqo7wi",
+      "title": "Daily Discussion Thread for July 8, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/verified-trader",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-08T10:00:37+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uqo7wi/daily_discussion_thread_for_july_8_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uqo4z3",
+      "title": "Well that's a new one for me.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/djmm12345",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-08T09:56:00+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uqo4z3/well_thats_a_new_one_for_me/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uqnl82",
+      "title": "Everyone this morning",
+      "subreddit": "wallstreetbets",
+      "author": "/u/AudiRick_",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-08T09:24:55+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uqnl82/everyone_this_morning/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uqgi6d",
+      "title": "Painful red days but I'm Still Standing, yeah yeah yeah",
+      "subreddit": "wallstreetbets",
+      "author": "/u/HomeHedgeFund",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-08T02:59:38+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uqgi6d/painful_red_days_but_im_still_standing_yeah_yeah/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uqdi38",
+      "title": "Down $143K from the peak on NBIS. Adding on the way down. Regarded or early?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/dylanavocado",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-08T00:41:20+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uqdi38/down_143k_from_the_peak_on_nbis_adding_on_the_way/",
+      "tickers": [
+        "NBIS"
+      ]
+    },
+    {
+      "id": "t3_1uqc0hj",
+      "title": "Down 46% from the highs. JPMorgan just called it a rare valuation opportunity.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Efficient_Ad5893",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-07T23:39:24+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uqc0hj/down_46_from_the_highs_jpmorgan_just_called_it_a/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uqa2ec",
+      "title": "In Loving Memory of Remy 9/05/2015 - 7/07/2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/cashflow_",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-07T22:21:10+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uqa2ec/in_loving_memory_of_remy_9052015_7072026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uq8f1f",
+      "title": "Just bought $4M DELL",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Special_Afternoon_85",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-07T21:18:40+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uq8f1f/just_bought_4m_dell/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uq852y",
+      "title": "Been quiet the few weeks $20k->$111k",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Jojn20",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-07T21:08:33+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uq852y/been_quiet_the_few_weeks_20k111k/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uq6y1c",
+      "title": "Stop buying options on SPY",
+      "subreddit": "wallstreetbets",
+      "author": "/u/bunnytoad69",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-07T20:24:58+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uq6y1c/stop_buying_options_on_spy/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uq6p8k",
+      "title": "PUT my Mortgage On AMD",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Gunnaman0",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-07T20:16:28+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uq6p8k/put_my_mortgage_on_amd/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uq6933",
+      "title": "What Are Your Moves Tomorrow, July 8, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/verified-trader",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-07T20:00:37+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uq6933/what_are_your_moves_tomorrow_july_8_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1upzhmw",
+      "title": "Chipotle on me",
+      "subreddit": "wallstreetbets",
+      "author": "/u/RelluaTTV",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-07T16:04:56+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upzhmw/chipotle_on_me/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1upwh73",
+      "title": "Classic AMD, goes up $80 crashes $80. Like clockwork.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/desturel",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-07T14:18:35+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upwh73/classic_amd_goes_up_80_crashes_80_like_clockwork/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1upujem",
+      "title": "Amazon aims to raise $25 billion from bond sale, Bloomberg News reports",
+      "subreddit": "wallstreetbets",
+      "author": "/u/spicykimchi_inmybutt",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-07T13:05:29+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upujem/amazon_aims_to_raise_25_billion_from_bond_sale/",
       "tickers": []
     },
     {
@@ -48,6 +230,19 @@
       "tickers": []
     },
     {
+      "id": "t3_1upqv5m",
+      "title": "Did I Discover The Biggest Opportunity In The Market?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Correct_Activity_469",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-07T10:16:21+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upqv5m/did_i_discover_the_biggest_opportunity_in_the/",
+      "tickers": [
+        "ZETA"
+      ]
+    },
+    {
       "id": "t3_1upqkbw",
       "title": "Daily Discussion Thread for July 7, 2026",
       "subreddit": "wallstreetbets",
@@ -56,50 +251,6 @@
       "num_comments": 0,
       "created": "2026-07-07T10:00:37+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1upqkbw/daily_discussion_thread_for_july_7_2026/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1upowv1",
-      "title": "Fuxk it - Shorting SPCX",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Key-Sweet-6418",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-07T08:26:13+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upowv1/fuxk_it_shorting_spcx/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uplwat",
-      "title": "RDDT to $300",
-      "subreddit": "wallstreetbets",
-      "author": "/u/RegardedBull_",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-07T05:37:45+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uplwat/rddt_to_300/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1upk5v0",
-      "title": "Should I just hang it up",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Standard_Effect9904",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-07T04:07:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upk5v0/should_i_just_hang_it_up/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1upgbna",
-      "title": "Micron Breaks Ground On $9 Billion Hiroshima Memory Chip Plant",
-      "subreddit": "wallstreetbets",
-      "author": "/u/tke248",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-07T01:09:55+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upgbna/micron_breaks_ground_on_9_billion_hiroshima/",
       "tickers": []
     },
     {
@@ -114,30 +265,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1upduld",
-      "title": "Being a perma-bear is a bad habit",
-      "subreddit": "wallstreetbets",
-      "author": "/u/HailX3",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-06T23:23:46+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upduld/being_a_permabear_is_a_bad_habit/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1updsgf",
-      "title": "$AVEX — unjammable military drones, first profitable quarter, still mispriced",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Valkyrie_Skuld",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-06T23:21:20+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1updsgf/avex_unjammable_military_drones_first_profitable/",
-      "tickers": [
-        "AVEX"
-      ]
-    },
-    {
       "id": "t3_1upddkl",
       "title": "Samsung Electronics Announces Earnings Guidance for Second Quarter 2026: 89.4t KW ($58.4b) operating profit, 1902% YOY",
       "subreddit": "wallstreetbets",
@@ -149,96 +276,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1upcmuh",
-      "title": "Rivian shares fall after public offering plan overshadows upbeat revenue forecast",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Several_Print4633",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-06T22:37:12+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upcmuh/rivian_shares_fall_after_public_offering_plan/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1upa3gd",
-      "title": "How are KOSPI gains sustainable?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Independent-Eye9513",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-06T21:01:52+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1upa3gd/how_are_kospi_gains_sustainable/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1up9yp6",
-      "title": "China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Several_Print4633",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-06T20:56:54+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1up9yp6/chinas_alibaba_bans_anthropic_ai_for_employees/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1up8fvp",
-      "title": "What Are Your Moves Tomorrow, July 7, 2026",
-      "subreddit": "wallstreetbets",
-      "author": "/u/verified-trader",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-06T20:00:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1up8fvp/what_are_your_moves_tomorrow_july_7_2026/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1up4xa1",
-      "title": "AMD gain…",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Klutzy_Throat_2813",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-06T17:57:40+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1up4xa1/amd_gain/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1up4m9u",
-      "title": "$WEN",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Sith_Lord_Karen",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-06T17:47:13+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1up4m9u/wen/",
-      "tickers": [
-        "WEN"
-      ]
-    },
-    {
-      "id": "t3_1up3gya",
-      "title": "Trump does not like gay bears 🐻",
-      "subreddit": "wallstreetbets",
-      "author": "/u/ApeApplePine",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-06T17:07:40+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1up3gya/trump_does_not_like_gay_bears/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1up2eh5",
-      "title": "Nvidia Server Delay Report Sends Asian Tech Stocks Sliding",
-      "subreddit": "wallstreetbets",
-      "author": "/u/lawyertings",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-06T16:30:27+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1up2eh5/nvidia_server_delay_report_sends_asian_tech/",
-      "tickers": []
-    },
-    {
       "id": "t3_1up26op",
       "title": "It's ok guys, Bitcoin has won",
       "subreddit": "wallstreetbets",
@@ -247,52 +284,6 @@
       "num_comments": 0,
       "created": "2026-07-06T16:22:48+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1up26op/its_ok_guys_bitcoin_has_won/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uovjmg",
-      "title": "Michael Saylor's 'Strategy' sold another 3,588 Bitcoin worth $225 million.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Kazgarth_",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-06T12:11:23+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uovjmg/michael_saylors_strategy_sold_another_3588/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uovhgd",
-      "title": "Terrawulf $WULF announced deal with Anthropic. Stock up 20%. Expected to generate $19B",
-      "subreddit": "wallstreetbets",
-      "author": "/u/ShaggysHyper",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-06T12:08:38+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uovhgd/terrawulf_wulf_announced_deal_with_anthropic/",
-      "tickers": [
-        "WULF"
-      ]
-    },
-    {
-      "id": "t3_1uootpg",
-      "title": "One of you is looking for divine intervention",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Muinko",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-06T05:59:54+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uootpg/one_of_you_is_looking_for_divine_intervention/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uoiivp",
-      "title": "Netflix's top shows have been losing 30-70% of their audience between seasons 1 and 2. Executives are trying to figure out why.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/2d12-RogueGames",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-06T00:40:15+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uoiivp/netflixs_top_shows_have_been_losing_3070_of_their/",
       "tickers": []
     },
     {
@@ -308,6 +299,16 @@
     }
   ],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=70878",
+      "title": "The Ups and the Downs of the Stock Market",
+      "link": "https://awealthofcommonsense.com/2026/07/the-ups-and-the-downs-of-the-stock-market/",
+      "publishedAt": "2026-07-07T18:36:46.000Z",
+      "snippet": "Sometimes the stock market goes down but most of the time it goes up. The post The Ups and the Downs of the Stock Market appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=32248",
       "title": "A Century of U.S. Stock Returns: Expect the Unexpected",
@@ -357,16 +358,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=70789",
-      "title": "How Much is One Million Dollars Worth?",
-      "link": "https://awealthofcommonsense.com/2026/07/how-much-is-one-million-dollars-worth/",
-      "publishedAt": "2026-07-03T12:00:20.000Z",
-      "snippet": "How many millionaires are there? The post How Much is One Million Dollars Worth? appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "doomberg-https://newsletter.doomberg.com/p/treatment-resistant",
