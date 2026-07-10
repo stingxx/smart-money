@@ -1,23 +1,9 @@
 {
-  "lastUpdated": "2026-07-09T12:19:53.060Z",
+  "lastUpdated": "2026-07-10T12:13:34.250Z",
   "holdings": {},
   "redditTickers": [
     {
-      "ticker": "USAR",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "MP",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "RAM",
+      "ticker": "VECO",
       "mentions": 1,
       "subreddits": [
         "wallstreetbets"
@@ -25,6 +11,228 @@
     }
   ],
   "redditPosts": [
+    {
+      "id": "t3_1usk3nc",
+      "title": "Sold last week, insta cashed 5K profit, rolled 3.5K into more positions… will they print?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/No_Locksmith_1739",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-10T10:46:41+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1usk3nc/sold_last_week_insta_cashed_5k_profit_rolled_35k/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1usj8ot",
+      "title": "Daily Discussion Thread for July 10, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/verified-trader",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-10T10:00:55+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1usj8ot/daily_discussion_thread_for_july_10_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1usg03i",
+      "title": "how dafuq is this market still on all time highs?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/putsonmsft",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-10T06:54:14+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1usg03i/how_dafuq_is_this_market_still_on_all_time_highs/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1usfsmp",
+      "title": "Not even 4x monitors could save him from the margin call 😭",
+      "subreddit": "wallstreetbets",
+      "author": "/u/yeetacus420_",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-10T06:42:26+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1usfsmp/not_even_4x_monitors_could_save_him_from_the/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1usax0f",
+      "title": "Is it a sign?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/rexmundi1017",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-10T02:32:00+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1usax0f/is_it_a_sign/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1us6el4",
+      "title": "Micron boosts US investment plan again, commits $250 billion through 2035",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Presently_Naked",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-09T23:14:38+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1us6el4/micron_boosts_us_investment_plan_again_commits/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1us6aju",
+      "title": "Semiconductors semi-conducted me into wealth. 💾⚡”",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Lilltoe",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-09T23:10:14+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1us6aju/semiconductors_semiconducted_me_into_wealth/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1us5s35",
+      "title": "A warning on how a stock hobby can progress",
+      "subreddit": "wallstreetbets",
+      "author": "/u/spilledonwhite",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-09T22:49:45+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1us5s35/a_warning_on_how_a_stock_hobby_can_progress/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1us4j7l",
+      "title": "Nervous about SK Hynix IPO tomorrow",
+      "subreddit": "wallstreetbets",
+      "author": "/u/HopefulPlace7146",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-09T22:02:08+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1us4j7l/nervous_about_sk_hynix_ipo_tomorrow/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1us1y8z",
+      "title": "Here at WSB there's no middle ground, you can only choose one path",
+      "subreddit": "wallstreetbets",
+      "author": "/u/I_killed_the_kraken",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-09T20:24:29+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1us1y8z/here_at_wsb_theres_no_middle_ground_you_can_only/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1us1xr5",
+      "title": "SK Hynix is on Nasdaq Tomorrow",
+      "subreddit": "wallstreetbets",
+      "author": "/u/NaderNation84",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-09T20:23:57+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1us1xr5/sk_hynix_is_on_nasdaq_tomorrow/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1us1ouw",
+      "title": "Put my kids child support ON AMD",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Gunnaman0",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-09T20:15:08+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1us1ouw/put_my_kids_child_support_on_amd/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1us1ap7",
+      "title": "What Are Your Moves Tomorrow, July 10, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/verified-trader",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-09T20:00:37+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1us1ap7/what_are_your_moves_tomorrow_july_10_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1us0wf6",
+      "title": "Buy Semiconductor CapEx Instead of Memory You Monkey (DD on $VECO)",
+      "subreddit": "wallstreetbets",
+      "author": "/u/checazzo01",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-09T19:46:08+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1us0wf6/buy_semiconductor_capex_instead_of_memory_you/",
+      "tickers": [
+        "VECO"
+      ]
+    },
+    {
+      "id": "t3_1urzq4m",
+      "title": "Blew the gambling account",
+      "subreddit": "wallstreetbets",
+      "author": "/u/justlosinmoney",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-09T19:03:52+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1urzq4m/blew_the_gambling_account/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uryocf",
+      "title": "Think My MU Calls Will Hit?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Not_Made_by_Design",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-09T18:27:08+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uryocf/think_my_mu_calls_will_hit/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1uryfgn",
+      "title": "Hate my job! So all my savings go into SPCX",
+      "subreddit": "wallstreetbets",
+      "author": "/u/creep911",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-09T18:18:46+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uryfgn/hate_my_job_so_all_my_savings_go_into_spcx/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1urxu1n",
+      "title": "Broadcom 1dte calls rocket ship",
+      "subreddit": "wallstreetbets",
+      "author": "/u/MrLeaps",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-09T17:58:20+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1urxu1n/broadcom_1dte_calls_rocket_ship/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1ursnud",
+      "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI",
+      "subreddit": "wallstreetbets",
+      "author": "/u/LoL_Journal",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-09T14:56:14+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ursnud/meta_jumps_into_ai_coding_market_in_effort_to/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1urp0rx",
+      "title": "Micron announces up to $3 billion strategic investment to strengthen US semiconductor ecosystem",
+      "subreddit": "wallstreetbets",
+      "author": "/u/I_killed_the_kraken",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-07-09T12:35:48+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1urp0rx/micron_announces_up_to_3_billion_strategic/",
+      "tickers": []
+    },
     {
       "id": "t3_1urndgb",
       "title": "Starbucks Taps AI to Reduce Reliance on Microsoft, IBM Software (means buy your own hardware)",
@@ -48,17 +256,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1urnayl",
-      "title": "Bluechip vs SP500 which wins",
-      "subreddit": "investing",
-      "author": "/u/DarkHarley1",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-09T11:17:20+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1urnayl/bluechip_vs_sp500_which_wins/",
-      "tickers": []
-    },
-    {
       "id": "t3_1urltju",
       "title": "Daily Discussion Thread for July 9, 2026",
       "subreddit": "wallstreetbets",
@@ -67,174 +264,6 @@
       "num_comments": 0,
       "created": "2026-07-09T10:00:37+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1urltju/daily_discussion_thread_for_july_9_2026/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1urkqdu",
-      "title": "Starting to invest as a 16 year old",
-      "subreddit": "investing",
-      "author": "/u/Trixikk_",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-09T08:59:25+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1urkqdu/starting_to_invest_as_a_16_year_old/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1urjq8t",
-      "title": "Daily General Discussion and Advice Thread - July 09, 2026",
-      "subreddit": "investing",
-      "author": "/u/AutoModerator",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-09T08:00:26+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1urjq8t/daily_general_discussion_and_advice_thread_july/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1urje4v",
-      "title": "ETF’s VS. individual stocks",
-      "subreddit": "investing",
-      "author": "/u/EquityEnigma",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-09T07:40:31+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1urje4v/etfs_vs_individual_stocks/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uriomz",
-      "title": "The Rare Earth Minerals play is here",
-      "subreddit": "wallstreetbets",
-      "author": "/u/embraacethesuck",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-09T07:00:18+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uriomz/the_rare_earth_minerals_play_is_here/",
-      "tickers": [
-        "USAR",
-        "MP"
-      ]
-    },
-    {
-      "id": "t3_1urgqno",
-      "title": "Accidentally enrolled in DRIP during company blackout period",
-      "subreddit": "investing",
-      "author": "/u/anxietyburner123",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-09T05:14:31+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1urgqno/accidentally_enrolled_in_drip_during_company/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1urg0l5",
-      "title": "I've been playing around with a few portfolio ideas on TestFol.io and ended up with five different versions that combine Fama-French Small Cap Value, leveraged ETFs, and trend following. They're all backtested from 1988-2025, and I'd love to hear what people think.",
-      "subreddit": "investing",
-      "author": "/u/hillionman",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-09T04:37:10+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1urg0l5/ive_been_playing_around_with_a_few_portfolio/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1urfokq",
-      "title": "Back-of-the-Envelope Math on the AI Spending Boom",
-      "subreddit": "wallstreetbets",
-      "author": "/u/CALAND951",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-09T04:20:09+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1urfokq/backoftheenvelope_math_on_the_ai_spending_boom/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1urf15b",
-      "title": "Penguin saviour 🐧",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Itsallaboutmargin",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-09T03:48:06+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1urf15b/penguin_saviour/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1uresyb",
-      "title": "Third times the charm",
-      "subreddit": "wallstreetbets",
-      "author": "/u/YoloLifeSaving",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-09T03:36:56+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1uresyb/third_times_the_charm/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1urbskq",
-      "title": "SK Hynix US Offering Is More Than 7 Times Oversubscribed - Bloomberg",
-      "subreddit": "wallstreetbets",
-      "author": "/u/SnooHedgehogs5162",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-09T01:16:19+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1urbskq/sk_hynix_us_offering_is_more_than_7_times/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1urb99c",
-      "title": "Rights offering on RQI - does it make sense to exercise ?",
-      "subreddit": "investing",
-      "author": "/u/amritsari2",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-09T00:52:00+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1urb99c/rights_offering_on_rqi_does_it_make_sense_to/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ur9gf6",
-      "title": "Pick and Shovel AI Investing",
-      "subreddit": "investing",
-      "author": "/u/0dojob0",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-08T23:33:49+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1ur9gf6/pick_and_shovel_ai_investing/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ur9aj2",
-      "title": "Are Our 401k Projections/Assumptions Correct? 10% Employer 401k Match.",
-      "subreddit": "investing",
-      "author": "/u/PerformanceOk9933",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-08T23:27:04+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1ur9aj2/are_our_401k_projectionsassumptions_correct_10/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ur7wll",
-      "title": "1,100 Shares $BE (Margin + Cash): Margin Called + Naked Options",
-      "subreddit": "wallstreetbets",
-      "author": "/u/SuperBearPut",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-08T22:31:12+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ur7wll/1100_shares_be_margin_cash_margin_called_naked/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ur63jv",
-      "title": "TSMC leverage yolo",
-      "subreddit": "wallstreetbets",
-      "author": "/u/MotherBake4137",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-08T21:21:48+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ur63jv/tsmc_leverage_yolo/",
       "tickers": []
     },
     {
@@ -249,94 +278,6 @@
       "tickers": []
     },
     {
-      "id": "t3_1ur57mb",
-      "title": "401K VOYA from former employer",
-      "subreddit": "investing",
-      "author": "/u/Few_Watercress_4533",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-08T20:50:23+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1ur57mb/401k_voya_from_former_employer/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ur55mf",
-      "title": "US diesel futures post biggest daily gains in four years after Russia bans exports",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Several_Print4633",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-08T20:48:21+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ur55mf/us_diesel_futures_post_biggest_daily_gains_in/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ur4wo4",
-      "title": "Why did I not stop",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Electronic-Bite-3613",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-08T20:39:09+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ur4wo4/why_did_i_not_stop/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ur4k6o",
-      "title": "someone spike my drink plz",
-      "subreddit": "wallstreetbets",
-      "author": "/u/cultoftheclave",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-08T20:26:18+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ur4k6o/someone_spike_my_drink_plz/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ur3tzh",
-      "title": "What Are Your Moves Tomorrow, July 9, 2026",
-      "subreddit": "wallstreetbets",
-      "author": "/u/verified-trader",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-08T20:00:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ur3tzh/what_are_your_moves_tomorrow_july_9_2026/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ur2x3d",
-      "title": "Is $100/week on VOO a good idea?",
-      "subreddit": "investing",
-      "author": "/u/Regular-Print2896",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-08T19:28:03+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1ur2x3d/is_100week_on_voo_a_good_idea/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ur1e4q",
-      "title": "Oregon Attorney General Dan Rayfield Calls for Pause of Paramount/Warner Bros Discovery Merger Citing Lack of Records Request",
-      "subreddit": "wallstreetbets",
-      "author": "/u/LivelyPants",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-08T18:34:34+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ur1e4q/oregon_attorney_general_dan_rayfield_calls_for/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1ur0tks",
-      "title": "$156k -> $425k 0DTE SPY",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Special_Afternoon_85",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-08T18:15:05+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1ur0tks/156k_425k_0dte_spy/",
-      "tickers": []
-    },
-    {
       "id": "t3_1uqx95l",
       "title": "Its time again",
       "subreddit": "wallstreetbets",
@@ -346,20 +287,29 @@
       "created": "2026-07-08T16:12:13+00:00",
       "url": "https://old.reddit.com/r/wallstreetbets/comments/1uqx95l/its_time_again/",
       "tickers": []
-    },
-    {
-      "id": "t3_1uqwzak",
-      "title": "What will happen to the stock market if the iran war drags on for years?",
-      "subreddit": "investing",
-      "author": "/u/General_Style_4384",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-07-08T16:02:36+00:00",
-      "url": "https://old.reddit.com/r/investing/comments/1uqwzak/what_will_happen_to_the_stock_market_if_the_iran/",
-      "tickers": []
     }
   ],
   "blogPosts": [
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/sources-and-methods",
+      "title": "Sources and Methods",
+      "link": "https://newsletter.doomberg.com/p/sources-and-methods",
+      "publishedAt": "2026-07-10T09:01:19.000Z",
+      "snippet": "Propaganda and the energy war between Russia and Ukraine.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=70924",
+      "title": "Is 90/10 Better Than 60/40 in Retirement?",
+      "link": "https://awealthofcommonsense.com/2026/07/is-90-10-better-than-60-40-in-retirement/",
+      "publishedAt": "2026-07-09T13:55:49.000Z",
+      "snippet": "Are retirees overinvested in bonds? The post Is 90/10 Better Than 60/40 in Retirement? appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=70889",
       "title": "Animal Spirits: 10 Reasons to be Bullish",
@@ -401,16 +351,6 @@
       "tag": "Energy / Macro"
     },
     {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=70851",
-      "title": "Talk Your Book: How SpaceX Got Into the Nasdaq 100",
-      "link": "https://awealthofcommonsense.com/2026/07/talk-your-book-how-spacex-got-into-the-nasdaq-100/",
-      "publishedAt": "2026-07-06T11:15:10.000Z",
-      "snippet": "On today's Talk Your Book we speak with Invesco's Paul Schroeder about the Nasdaq 100, index methodology, tech fundamentals, fast entry timelines for IPOs and more. The post Talk Your Book: How SpaceX Got Into the Nasdaq",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
       "id": "net-interest-https://www.netinterest.co/p/stretch-marks",
       "title": "Stretch Marks",
       "link": "https://www.netinterest.co/p/stretch-marks",
@@ -439,16 +379,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "doomberg-https://newsletter.doomberg.com/p/peak-not-oil",
-      "title": "Peak “Not Oil”",
-      "link": "https://newsletter.doomberg.com/p/peak-not-oil",
-      "publishedAt": "2026-06-30T09:00:32.000Z",
-      "snippet": "Natural gas liquids and the war in Iran.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
     },
     {
       "id": "net-interest-https://www.netinterest.co/p/duffys-last-dance",
