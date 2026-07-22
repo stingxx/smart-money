@@ -1,9 +1,39 @@
 {
-  "lastUpdated": "2026-07-21T11:24:26.976Z",
+  "lastUpdated": "2026-07-22T11:26:04.595Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/old-tapes",
+      "title": "Old Tapes",
+      "link": "https://newsletter.doomberg.com/p/old-tapes",
+      "publishedAt": "2026-07-22T09:01:46.000Z",
+      "snippet": "The US AI industry is about to suffer the China treatment.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=71120",
+      "title": "Housing Rules of Thumb",
+      "link": "https://awealthofcommonsense.com/2026/07/housing-rules-of-thumb/",
+      "publishedAt": "2026-07-21T18:55:10.000Z",
+      "snippet": "Why aren't more baby boomer retirees downsizing? The post Housing Rules of Thumb appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=32164",
+      "title": "Money Talks: The Price of Status",
+      "link": "https://ofdollarsanddata.com/money-talks/",
+      "publishedAt": "2026-07-21T11:45:28.000Z",
+      "snippet": "A year ago, I published my second book The Wealth Ladder . It's sold over 100,000 copies worldwide and hit the New York Times bestseller list in its third week of publication. At the time, I was thrilled that my work was",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=71103",
       "title": "Talk Your Book: Private Credit&#8217;s Next Act",
@@ -33,16 +63,6 @@
       "author": "Doomberg",
       "handle": "@DoombergT",
       "tag": "Energy / Macro"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=71055",
-      "title": "How Rich Are You?",
-      "link": "https://awealthofcommonsense.com/2026/07/how-rich-are-you/",
-      "publishedAt": "2026-07-17T20:30:08.000Z",
-      "snippet": "Status symbols that make you look rich. The post How Rich Are You? appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "net-interest-https://www.netinterest.co/p/too-big-to-succeed",
@@ -85,16 +105,6 @@
       "tag": "Financials"
     },
     {
-      "id": "doomberg-https://newsletter.doomberg.com/p/sources-and-methods",
-      "title": "Sources and Methods",
-      "link": "https://newsletter.doomberg.com/p/sources-and-methods",
-      "publishedAt": "2026-07-10T09:01:19.000Z",
-      "snippet": "Propaganda and the energy war between Russia and Ukraine.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
-    },
-    {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=32248",
       "title": "A Century of U.S. Stock Returns: Expect the Unexpected",
       "link": "https://ofdollarsanddata.com/a-century-of-us-stock-returns/",
@@ -113,16 +123,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "dollars-data-https://ofdollarsanddata.com/?p=33328",
-      "title": "Is $5M in Treasury Bills Enough to Be Set for Life?",
-      "link": "https://ofdollarsanddata.com/is-5m-in-tbills-enough-to-be-set-for-life/",
-      "publishedAt": "2026-06-30T11:45:51.000Z",
-      "snippet": "A few months ago I saw this video of Kevin O'Leary (Mr. Wonderful) arguing that $5M was enough for a lifetime of financial security. On the surface it seems hard to argue with this, but it was how O'Leary recommended inv",
-      "author": "Nick Maggiulli",
-      "handle": "Of Dollars and Data",
-      "tag": "Behavioral"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
