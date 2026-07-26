@@ -1,9 +1,19 @@
 {
-  "lastUpdated": "2026-07-25T10:53:07.897Z",
+  "lastUpdated": "2026-07-26T11:03:41.172Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/demand-push",
+      "title": "Demand Push",
+      "link": "https://newsletter.doomberg.com/p/demand-push",
+      "publishedAt": "2026-07-26T09:02:40.000Z",
+      "snippet": "Is a catastrophic shortage of US natural gas really on the horizon?",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=71185",
       "title": "Picking Stocks in a Bloodbath",
@@ -93,16 +103,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "doomberg-https://newsletter.doomberg.com/p/artificial-bloom",
-      "title": "Artificial Bloom",
-      "link": "https://newsletter.doomberg.com/p/artificial-bloom",
-      "publishedAt": "2026-07-14T09:01:56.000Z",
-      "snippet": "Rare earths, short sellers, and Chinese competition",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
     },
     {
       "id": "net-interest-https://www.netinterest.co/p/options-for-everyone",
