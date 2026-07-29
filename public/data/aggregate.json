@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-07-28T11:35:50.531Z",
+  "lastUpdated": "2026-07-29T11:40:45.396Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=71247",
+      "title": "Find Your Fascination",
+      "link": "https://awealthofcommonsense.com/2026/07/find-your-fascination/",
+      "publishedAt": "2026-07-28T14:51:33.000Z",
+      "snippet": "On the benefits of reading. The post Find Your Fascination appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=31730",
+      "title": "The Problem with Optionality",
+      "link": "https://ofdollarsanddata.com/the-problem-with-optionality/",
+      "publishedAt": "2026-07-28T11:45:41.000Z",
+      "snippet": "I’ve seen a lot of discussions this year around maximizing freedom and optionality. For example, consider this tweet : If you ever get up $1M in cash Buy a new modern apartment in the UAE for like $550k (you have zero pr",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=71202",
       "title": "Talk Your Book: Is Crypto Dead?",
@@ -33,16 +53,6 @@
       "author": "Doomberg",
       "handle": "@DoombergT",
       "tag": "Energy / Macro"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=71185",
-      "title": "Picking Stocks in a Bloodbath",
-      "link": "https://awealthofcommonsense.com/2026/07/picking-stocks-in-a-bloodbath/",
-      "publishedAt": "2026-07-25T02:13:05.000Z",
-      "snippet": "Is Netflix a buy here? Or is it a stock in secular decline? The post Picking Stocks in a Bloodbath appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "net-interest-https://www.netinterest.co/p/paypal-declined",
@@ -113,16 +123,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "dollars-data-https://ofdollarsanddata.com/?p=32248",
-      "title": "A Century of U.S. Stock Returns: Expect the Unexpected",
-      "link": "https://ofdollarsanddata.com/a-century-of-us-stock-returns/",
-      "publishedAt": "2026-07-07T11:45:59.000Z",
-      "snippet": "In honor of America's 250th birthday, I decided to do a deep dive into U.S. stock returns over the past century. My goal was to answer the following question: If you had invested in U.S. stocks at a random point in the l",
-      "author": "Nick Maggiulli",
-      "handle": "Of Dollars and Data",
-      "tag": "Behavioral"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
