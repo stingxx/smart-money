@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-07-29T11:40:45.396Z",
+  "lastUpdated": "2026-07-30T11:30:03.295Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/fire-horse",
+      "title": "Fire Horse",
+      "link": "https://newsletter.doomberg.com/p/fire-horse",
+      "publishedAt": "2026-07-29T13:14:41.000Z",
+      "snippet": "Pro Tier: July 2026 Doom Zoom",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=71270",
+      "title": "Animal Spirits: 45 Million Rich Households",
+      "link": "https://awealthofcommonsense.com/2026/07/71270/",
+      "publishedAt": "2026-07-29T11:15:25.000Z",
+      "snippet": "On today's show we discuss a good sign for the bull market, semiconductor stocks crashing, why valuations keep falling, everyone is bearish about bonds, South Korea traders, how big SpaceX could get, why people keep spen",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=71247",
       "title": "Find Your Fascination",
@@ -30,16 +50,6 @@
       "link": "https://awealthofcommonsense.com/2026/07/talk-your-book-is-crypto-dead/",
       "publishedAt": "2026-07-27T11:15:27.000Z",
       "snippet": "On today's Talk Your Book we speak with Grayscale's Krista Lynch we discuss the current sentiment surrounding crypto, Hyperliquid, building out the crypto infrastructure, what happened to Ethereum, stablecoins and more. ",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=71223",
-      "title": "Now Show Japan",
-      "link": "https://awealthofcommonsense.com/2026/07/now-show-japan/",
-      "publishedAt": "2026-07-27T02:59:19.000Z",
-      "snippet": "Some facts, figures and charts from Risk &#038; Reward about Japan. The post Now Show Japan appeared first on A Wealth of Common Sense. ...",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
@@ -83,16 +93,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "doomberg-https://newsletter.doomberg.com/p/land-of-the-waning-sun",
-      "title": "Land of the Waning Sun",
-      "link": "https://newsletter.doomberg.com/p/land-of-the-waning-sun",
-      "publishedAt": "2026-07-18T09:00:18.000Z",
-      "snippet": "Hard numbers on the arc of China&#8217;s solar journey.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
     },
     {
       "id": "net-interest-https://www.netinterest.co/p/too-big-to-succeed",
