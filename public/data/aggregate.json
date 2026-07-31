@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-07-30T11:30:03.295Z",
+  "lastUpdated": "2026-07-31T11:39:02.287Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/geopolitical-checkers",
+      "title": "Geopolitical Checkers",
+      "link": "https://newsletter.doomberg.com/p/geopolitical-checkers",
+      "publishedAt": "2026-07-31T09:01:28.000Z",
+      "snippet": "On the modern assumption that opponents can&#8217;t punch back.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=71252",
+      "title": "Investing in Momentum",
+      "link": "https://awealthofcommonsense.com/2026/07/investing-in-momentum/",
+      "publishedAt": "2026-07-30T18:26:16.000Z",
+      "snippet": "Some thoughts on our new Porterhouse momentum strategy. The post Investing in Momentum appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "doomberg-https://newsletter.doomberg.com/p/fire-horse",
       "title": "Fire Horse",
@@ -45,16 +65,6 @@
       "tag": "Behavioral"
     },
     {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=71202",
-      "title": "Talk Your Book: Is Crypto Dead?",
-      "link": "https://awealthofcommonsense.com/2026/07/talk-your-book-is-crypto-dead/",
-      "publishedAt": "2026-07-27T11:15:27.000Z",
-      "snippet": "On today's Talk Your Book we speak with Grayscale's Krista Lynch we discuss the current sentiment surrounding crypto, Hyperliquid, building out the crypto infrastructure, what happened to Ethereum, stablecoins and more. ",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
       "id": "doomberg-https://newsletter.doomberg.com/p/demand-push",
       "title": "Demand Push",
       "link": "https://newsletter.doomberg.com/p/demand-push",
@@ -73,16 +83,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "doomberg-https://newsletter.doomberg.com/p/old-tapes",
-      "title": "Old Tapes",
-      "link": "https://newsletter.doomberg.com/p/old-tapes",
-      "publishedAt": "2026-07-22T09:01:46.000Z",
-      "snippet": "The US AI industry is about to suffer the China treatment.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
     },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=32164",
