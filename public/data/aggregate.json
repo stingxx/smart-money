@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-08-04T11:40:24.018Z",
+  "lastUpdated": "2026-08-05T11:37:12.409Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=71343",
+      "title": "Spending Money",
+      "link": "https://awealthofcommonsense.com/2026/08/spending-money/",
+      "publishedAt": "2026-08-04T18:29:15.000Z",
+      "snippet": "Why does the economy continue to grow? The post Spending Money appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=32985",
+      "title": "Why $100 in Your 20s is Worth $500 in Your 60s",
+      "link": "https://ofdollarsanddata.com/why-100-in-your-20s-is-worth-500-in-your-60s/",
+      "publishedAt": "2026-08-04T11:45:33.000Z",
+      "snippet": "What if I told you that $100 at 25 is worth $500 at 65, even after we adjust for inflation? Well...it is. There's an unspoken belief in personal finance that a dollar is always worth a dollar (putting inflation aside). W",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
     {
       "id": "doomberg-https://newsletter.doomberg.com/p/passing-gas",
       "title": "Passing Gas",
@@ -55,16 +75,6 @@
       "tag": "Energy / Macro"
     },
     {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=71252",
-      "title": "Investing in Momentum",
-      "link": "https://awealthofcommonsense.com/2026/07/investing-in-momentum/",
-      "publishedAt": "2026-07-30T18:26:16.000Z",
-      "snippet": "Some thoughts on our new Porterhouse momentum strategy. The post Investing in Momentum appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
       "id": "doomberg-https://newsletter.doomberg.com/p/fire-horse",
       "title": "Fire Horse",
       "link": "https://newsletter.doomberg.com/p/fire-horse",
@@ -113,16 +123,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "dollars-data-https://ofdollarsanddata.com/?p=33428",
-      "title": "Are Stocks Going Up or Is the Dollar Going Down?",
-      "link": "https://ofdollarsanddata.com/are-stocks-going-up-or-is-the-dollar-going-down/",
-      "publishedAt": "2026-07-14T11:45:27.000Z",
-      "snippet": "As stocks have hit new all-time highs in recent months, I've seen an increasing number of people argue that stocks aren't becoming more valuable, the dollar is becoming less valuable. Investor Lee Roach articulated this ",
-      "author": "Nick Maggiulli",
-      "handle": "Of Dollars and Data",
-      "tag": "Behavioral"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
