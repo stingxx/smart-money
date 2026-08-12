@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-08-11T10:26:14.457Z",
+  "lastUpdated": "2026-08-12T10:36:06.524Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=71517",
+      "title": "Rich Man, Poor Man",
+      "link": "https://awealthofcommonsense.com/2026/08/rich-man-poor-man/",
+      "publishedAt": "2026-08-11T16:08:43.000Z",
+      "snippet": "The parallels between rich investors and poor investors. The post Rich Man, Poor Man appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=33889",
+      "title": "The Best Way to Sell a Concentrated Position",
+      "link": "https://ofdollarsanddata.com/the-best-way-to-sell-a-concentrated-position/",
+      "publishedAt": "2026-08-11T11:45:10.000Z",
+      "snippet": "Imagine being the typical SpaceX employee over the last few months. Your shares IPO at $135 and within a few days they peak at $225/share (up 67%) before they begin to decline. As of this morning they sit at around $139,",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=71508",
       "title": "Talk Your Book: Why Momentum Investing Works",
@@ -33,16 +53,6 @@
       "author": "Doomberg",
       "handle": "@DoombergT",
       "tag": "Energy / Macro"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=71427",
-      "title": "The One Wish Willow Economy",
-      "link": "https://awealthofcommonsense.com/2026/08/the-one-wish-willow-economy/",
-      "publishedAt": "2026-08-07T20:30:51.000Z",
-      "snippet": "Careful what you wish for with the economy. The post The One Wish Willow Economy appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=32985",
@@ -103,16 +113,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "dollars-data-https://ofdollarsanddata.com/?p=32164",
-      "title": "Money Talks: The Price of Status",
-      "link": "https://ofdollarsanddata.com/money-talks/",
-      "publishedAt": "2026-07-21T11:45:28.000Z",
-      "snippet": "A year ago, I published my second book The Wealth Ladder . It's sold over 100,000 copies worldwide and hit the New York Times bestseller list in its third week of publication. At the time, I was thrilled that my work was",
-      "author": "Nick Maggiulli",
-      "handle": "Of Dollars and Data",
-      "tag": "Behavioral"
     },
     {
       "id": "net-interest-https://www.netinterest.co/p/too-big-to-succeed",
