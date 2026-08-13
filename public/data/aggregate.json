@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-08-12T10:36:06.524Z",
+  "lastUpdated": "2026-08-13T10:38:08.621Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/a-minor-detail",
+      "title": "A Minor Detail",
+      "link": "https://newsletter.doomberg.com/p/a-minor-detail",
+      "publishedAt": "2026-08-13T09:01:37.000Z",
+      "snippet": "Amazingly, Putin will decide whether Europe freezes this winter.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=71544",
+      "title": "Animal Spirits: Depressed Day Traders",
+      "link": "https://awealthofcommonsense.com/2026/08/animal-spirits-depressed-day-traders/",
+      "publishedAt": "2026-08-12T11:15:06.000Z",
+      "snippet": "On today's show we discuss new all-time highs in the stock market, AI is the only thing that matters, emerging markets are cheap, 1987 crash calls, things rich people and poor people have in common, day trading is hard, ",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=71517",
       "title": "Rich Man, Poor Man",
@@ -30,16 +50,6 @@
       "link": "https://awealthofcommonsense.com/2026/08/talk-your-book-why-momentum-investing-works/",
       "publishedAt": "2026-08-10T11:15:59.000Z",
       "snippet": "On today's show we speak with John Lewis from Nasdaq Dorsey Wright about how the momentum factor works, why it works, how to implement it correctly and where the diversification benefits can help. The post Talk Your Book",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=71483",
-      "title": "Making it to New All-Time Highs",
-      "link": "https://awealthofcommonsense.com/2026/08/making-it-to-new-all-time-highs/",
-      "publishedAt": "2026-08-09T20:19:49.000Z",
-      "snippet": "All the things you had to survive to make it to new all-time highs in the stock market. The post Making it to New All-Time Highs appeared first on A Wealth of Common Sense. ...",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
@@ -83,16 +93,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "doomberg-https://newsletter.doomberg.com/p/geopolitical-checkers",
-      "title": "Geopolitical Checkers",
-      "link": "https://newsletter.doomberg.com/p/geopolitical-checkers",
-      "publishedAt": "2026-07-31T09:01:28.000Z",
-      "snippet": "On the modern assumption that opponents can&#8217;t punch back.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
     },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=31730",
