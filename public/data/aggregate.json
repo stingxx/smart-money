@@ -1,304 +1,29 @@
 {
-  "lastUpdated": "2026-08-18T09:59:07.685Z",
+  "lastUpdated": "2026-08-19T09:59:16.215Z",
   "holdings": {},
-  "redditTickers": [
-    {
-      "ticker": "RDDT",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "ITALY",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    }
-  ],
-  "redditPosts": [
-    {
-      "id": "t3_1vrkp65",
-      "title": "95x NBIS 250P 3DTE @ $5.17, because I hate money apparently",
-      "subreddit": "wallstreetbets",
-      "author": "/u/HailX3",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-18T09:54:48+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vrkp65/95x_nbis_250p_3dte_517_because_i_hate_money/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vrgwu6",
-      "title": "South Korean retail investors net bought $4.5 billion of U.S. stocks in July as their home market corrected",
-      "subreddit": "wallstreetbets",
-      "author": "/u/TheWanderer1337",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-18T06:13:09+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vrgwu6/south_korean_retail_investors_net_bought_45/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vrgjnj",
-      "title": "Burger King has reclaimed its place as America’s second-largest burger chain, overtaking Wendy’s and trailing only McDonald’s in sales.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/peepdabidness",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-18T05:53:04+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vrgjnj/burger_king_has_reclaimed_its_place_as_americas/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vrfxad",
-      "title": "rates go down soon",
-      "subreddit": "wallstreetbets",
-      "author": "/u/GrowthMLR",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-18T05:18:58+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vrfxad/rates_go_down_soon/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vrfa4b",
-      "title": "Where's the post from the guy that said there was zero chance that Nike was going to close below 40?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/StandByMe1977",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-18T04:44:55+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vrfa4b/wheres_the_post_from_the_guy_that_said_there_was/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vr99g0",
-      "title": "Upped my 50k to make 500k bet on SpaceX to reach 300 by January 2028 to $100k to make a million. Now represents 10% of my total port",
-      "subreddit": "wallstreetbets",
-      "author": "/u/smellyfingernail",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-18T00:03:32+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vr99g0/upped_my_50k_to_make_500k_bet_on_spacex_to_reach/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vr8183",
-      "title": "Paper handed my full port, 3.7k gain vs 18-19k gain",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Responsible_Laugh62",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-17T23:11:04+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vr8183/paper_handed_my_full_port_37k_gain_vs_1819k_gain/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vr73ke",
-      "title": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Tech-100",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-17T22:32:55+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vr73ke/nvidia_to_provide_up_to_105_billion_guarantee_for/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vr49nc",
-      "title": "WDC Thanks for the bump",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Ironhide90",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-17T20:43:10+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vr49nc/wdc_thanks_for_the_bump/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vr33v4",
-      "title": "What Are Your Moves Tomorrow, August 18, 2026",
-      "subreddit": "wallstreetbets",
-      "author": "/u/verified-trader",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-17T20:00:45+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vr33v4/what_are_your_moves_tomorrow_august_18_2026/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vr24bz",
-      "title": "MU gang",
-      "subreddit": "wallstreetbets",
-      "author": "/u/NeC309",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-17T19:24:51+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vr24bz/mu_gang/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vr15ra",
-      "title": "[DD] Why $RDDT goes to $1,000 the exact second their AI team figures out Post-Nut Clarity",
-      "subreddit": "wallstreetbets",
-      "author": "/u/dajerade1",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-17T18:51:05+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vr15ra/dd_why_rddt_goes_to_1000_the_exact_second_their/",
-      "tickers": [
-        "RDDT"
-      ]
-    },
-    {
-      "id": "t3_1vr0ye8",
-      "title": "FLUT completely mispriced?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Rose-n-Chosen",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-17T18:44:01+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vr0ye8/flut_completely_mispriced/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vr090v",
-      "title": "How my mag7 stocks feels today.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/vulgarbas3rd",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-17T18:19:28+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vr090v/how_my_mag7_stocks_feels_today/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vqztur",
-      "title": "Technical Analysis? 🖍️",
-      "subreddit": "wallstreetbets",
-      "author": "/u/AdCritical5383",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-17T18:04:43+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vqztur/technical_analysis/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vqyvhu",
-      "title": "I’m back. Turned paycheck into 250k",
-      "subreddit": "wallstreetbets",
-      "author": "/u/defaultkoolaid",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-17T17:31:41+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vqyvhu/im_back_turned_paycheck_into_250k/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vqya30",
-      "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Sufficient_Habit5091",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-17T17:11:59+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vqya30/meta_faces_astronomical_consequences_as_legal/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vqxv8j",
-      "title": "Big boys have loaded up on MU, now media has gone 180 on the MU AI story",
-      "subreddit": "wallstreetbets",
-      "author": "/u/ReturnLate8178",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-17T16:57:52+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vqxv8j/big_boys_have_loaded_up_on_mu_now_media_has_gone/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vqv585",
-      "title": "Sandisk 🚀",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Itsallaboutmargin",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-17T15:13:46+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vqv585/sandisk/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vqo03f",
-      "title": "Daily Discussion Thread for August 17, 2026",
-      "subreddit": "wallstreetbets",
-      "author": "/u/verified-trader",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-17T10:00:41+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vqo03f/daily_discussion_thread_for_august_17_2026/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vqmvx7",
-      "title": "What is your favorite trading approach or strategy?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/spaghetticode94",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-17T08:54:52+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vqmvx7/what_is_your_favorite_trading_approach_or_strategy/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vql2qj",
-      "title": "Compute futures",
-      "subreddit": "wallstreetbets",
-      "author": "/u/L1QU2D",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-17T07:06:15+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vql2qj/compute_futures/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vqj4x8",
-      "title": "When do I close these?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/kananishino",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-17T05:17:07+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vqj4x8/when_do_i_close_these/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vqgtq5",
-      "title": "MU loss",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Middle_Garbage_5547",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-17T03:17:01+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vqgtq5/mu_loss/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vqg1c3",
-      "title": "Italy's cheese loan system is under strain",
-      "subreddit": "wallstreetbets",
-      "author": "/u/mafugga77",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-17T02:39:02+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vqg1c3/italys_cheese_loan_system_is_under_strain/",
-      "tickers": [
-        "ITALY"
-      ]
-    }
-  ],
+  "redditTickers": [],
+  "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=71644",
+      "title": "Getting Ahead Has Never Been Easy",
+      "link": "https://awealthofcommonsense.com/2026/08/getting-ahead-has-never-been-easy/",
+      "publishedAt": "2026-08-18T17:31:19.000Z",
+      "snippet": "The present is not easy. But the past was a lot harder in terms of getting ahead. The post Getting Ahead Has Never Been Easy appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=31432",
+      "title": "The Myth of Owning Your Time",
+      "link": "https://ofdollarsanddata.com/the-myth-of-owning-your-time/",
+      "publishedAt": "2026-08-18T11:45:54.000Z",
+      "snippet": "You've probably heard it all before. Be your own boss. Control your schedule. Own your time. As attractive as it sounds, it's a lie. Many people believe that working for yourself means unlimited flexibility. You can work",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
     {
       "id": "doomberg-https://newsletter.doomberg.com/p/over-target",
       "title": "Over Target",
@@ -325,16 +50,6 @@
       "link": "https://awealthofcommonsense.com/2026/08/now-this-is-a-bull-market/",
       "publishedAt": "2026-08-17T02:06:17.000Z",
       "snippet": "The bull market is spreading. The post Now THIS is a Bull Market appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=71540",
-      "title": "How Often Should You Check Your Portfolio?",
-      "link": "https://awealthofcommonsense.com/2026/08/how-often-should-you-check-your-portfolio/",
-      "publishedAt": "2026-08-14T20:30:24.000Z",
-      "snippet": "Ben's rules for how often to check your portfolio. The post How Often Should You Check Your Portfolio? appeared first on A Wealth of Common Sense. ...",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
@@ -398,16 +113,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "dollars-data-https://ofdollarsanddata.com/?p=31730",
-      "title": "The Problem with Optionality",
-      "link": "https://ofdollarsanddata.com/the-problem-with-optionality/",
-      "publishedAt": "2026-07-28T11:45:41.000Z",
-      "snippet": "I’ve seen a lot of discussions this year around maximizing freedom and optionality. For example, consider this tweet : If you ever get up $1M in cash Buy a new modern apartment in the UAE for like $550k (you have zero pr",
-      "author": "Nick Maggiulli",
-      "handle": "Of Dollars and Data",
-      "tag": "Behavioral"
     },
     {
       "id": "net-interest-https://www.netinterest.co/p/paypal-declined",
