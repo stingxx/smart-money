@@ -1,9 +1,318 @@
 {
-  "lastUpdated": "2026-08-19T09:59:16.215Z",
+  "lastUpdated": "2026-08-20T10:01:26.778Z",
   "holdings": {},
-  "redditTickers": [],
-  "redditPosts": [],
+  "redditTickers": [
+    {
+      "ticker": "MRNA",
+      "mentions": 3,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    },
+    {
+      "ticker": "NAT",
+      "mentions": 1,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    }
+  ],
+  "redditPosts": [
+    {
+      "id": "t3_1vtf552",
+      "title": "Daily Discussion Thread for August 20, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/verified-trader",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-20T10:00:42+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vtf552/daily_discussion_thread_for_august_20_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vtbgk7",
+      "title": "Closed NBIS 250P for +$20k (+41%) on Tues, it hit +$300k on Wed 💀",
+      "subreddit": "wallstreetbets",
+      "author": "/u/HailX3",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-20T06:24:07+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vtbgk7/closed_nbis_250p_for_20k_41_on_tues_it_hit_300k/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vt9002",
+      "title": "SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Force_Hammer",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-20T04:11:00+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vt9002/sk_hynix_shares_surge_over_12_in_seoul_after/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vt7mob",
+      "title": "Finally, my turn",
+      "subreddit": "wallstreetbets",
+      "author": "/u/X0B0X0",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-20T03:04:17+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vt7mob/finally_my_turn/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vt5hx7",
+      "title": "$17K in $NAT because boats can’t go tits up",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Sufficient_Buyer3239",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-20T01:27:19+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vt5hx7/17k_in_nat_because_boats_cant_go_tits_up/",
+      "tickers": [
+        "NAT"
+      ]
+    },
+    {
+      "id": "t3_1vt3tbe",
+      "title": "Fuck your crops. Going long on WEAT into 2027.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/MeanTimeMeTime",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-20T00:12:59+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vt3tbe/fuck_your_crops_going_long_on_weat_into_2027/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vt0h99",
+      "title": "Scalping MRNA like a Crazy Maniac, 31 In and Out Trades, 32.6K Profits",
+      "subreddit": "wallstreetbets",
+      "author": "/u/sanjay_the_gemini",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-19T21:57:11+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vt0h99/scalping_mrna_like_a_crazy_maniac_31_in_and_out/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vszqq9",
+      "title": "Win small, lose big 💪",
+      "subreddit": "wallstreetbets",
+      "author": "/u/InvestigatorMain4008",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-19T21:28:36+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vszqq9/win_small_lose_big/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vsxde7",
+      "title": "What Are Your Moves Tomorrow, August 20, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/verified-trader",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-19T20:00:40+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vsxde7/what_are_your_moves_tomorrow_august_20_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vsx6ax",
+      "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Tech-100",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-19T19:53:34+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vsx6ax/openai_will_be_a_public_company_in_2027_or_sooner/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vswfnx",
+      "title": "Nike - just lose it.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/sexuallyactivepope",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-19T19:26:10+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vswfnx/nike_just_lose_it/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vsu5tn",
+      "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Force_Hammer",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-19T18:06:00+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vsu5tn/fed_officials_saw_need_for_rate_hike_if_inflation/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vsth0w",
+      "title": "I found an Infinite Money Glitch for Timing the Market",
+      "subreddit": "wallstreetbets",
+      "author": "/u/ExtremelyBigYikes",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-19T17:42:11+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vsth0w/i_found_an_infinite_money_glitch_for_timing_the/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vsrdbo",
+      "title": "Europoor 3x $105 MRNA Jan 15th 27 calls -> 14k gain",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Metrostation984",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-19T16:28:18+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vsrdbo/europoor_3x_105_mrna_jan_15th_27_calls_14k_gain/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vsr64j",
+      "title": "$500k overnight $MRNA",
+      "subreddit": "wallstreetbets",
+      "author": "/u/shanzid01",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-19T16:21:28+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vsr64j/500k_overnight_mrna/",
+      "tickers": [
+        "MRNA"
+      ]
+    },
+    {
+      "id": "t3_1vsqj6k",
+      "title": "Long MRNA $60C 1/21/28 @ $16.86 for $16,857, up $75,641 (+449%)",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Traditional-Year3847",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-19T15:59:43+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vsqj6k/long_mrna_60c_12128_1686_for_16857_up_75641_449/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vsqh8b",
+      "title": "Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Force_Hammer",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-19T15:57:46+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vsqh8b/marvell_pops_6_on_ai_chip_deal_that_lets_google/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vsp893",
+      "title": "Please stop confusing the FED and the TREASURY",
+      "subreddit": "wallstreetbets",
+      "author": "/u/cherrypoplar",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-19T15:11:59+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vsp893/please_stop_confusing_the_fed_and_the_treasury/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vsmz1w",
+      "title": "Bought MRVL calls because the new Spider-Man is breaking records, up 40k",
+      "subreddit": "wallstreetbets",
+      "author": "/u/XstraCrispy",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-19T13:48:46+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vsmz1w/bought_mrvl_calls_because_the_new_spiderman_is/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vsmxci",
+      "title": "Made $130,000 in 10 seconds today",
+      "subreddit": "wallstreetbets",
+      "author": "/u/crazyfool319",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-19T13:46:53+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vsmxci/made_130000_in_10_seconds_today/",
+      "tickers": [
+        "MRNA"
+      ]
+    },
+    {
+      "id": "t3_1vsmryk",
+      "title": "$MRNA gains",
+      "subreddit": "wallstreetbets",
+      "author": "/u/docgummibear",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-19T13:41:01+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vsmryk/mrna_gains/",
+      "tickers": [
+        "MRNA"
+      ]
+    },
+    {
+      "id": "t3_1vslc4x",
+      "title": "printer go brrrrrrr",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Redd411",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-19T12:41:47+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vslc4x/printer_go_brrrrrrr/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vsjjj7",
+      "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 50%",
+      "subreddit": "wallstreetbets",
+      "author": "/u/shootsmcgavins",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-19T11:19:24+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vsjjj7/moderna_merck_cancer_vaccine_shows_promise_in/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vsf7u7",
+      "title": "SK Hynix Acquires 40 Trillion Won Shares for Cancellation",
+      "subreddit": "wallstreetbets",
+      "author": "/u/VictoriousX",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-19T07:15:29+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vsf7u7/sk_hynix_acquires_40_trillion_won_shares_for/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vocawt",
+      "title": "Weekly Earnings Thread 8/17 - 8/21",
+      "subreddit": "wallstreetbets",
+      "author": "/u/OSRSkarma",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-14T16:38:12+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vocawt/weekly_earnings_thread_817_821/",
+      "tickers": []
+    }
+  ],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=71665",
+      "title": "Animal Spirits: The Best Bear Case on AI",
+      "link": "https://awealthofcommonsense.com/2026/08/animal-spirits-the-best-bear-case-on-ai/",
+      "publishedAt": "2026-08-19T11:15:33.000Z",
+      "snippet": "On today's show we discuss one of the greatest bull markets of all-time, falling valuations, why young people gamble, financial nihilism, the next recession, $3 trillion in money markets, when bond yields compete with st",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=71644",
       "title": "Getting Ahead Has Never Been Easy",
@@ -40,16 +349,6 @@
       "link": "https://awealthofcommonsense.com/2026/08/talk-your-book-the-most-important-thing-nobody-owns/",
       "publishedAt": "2026-08-17T11:15:42.000Z",
       "snippet": "On today's Talk Your Book we speak with Steve Schoffstall from Sprott ETFs about investing in critical materials, how technology shapes commodity demand, how to invest in the future and much more. The post Talk Your Book",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=71597",
-      "title": "Now THIS is a Bull Market",
-      "link": "https://awealthofcommonsense.com/2026/08/now-this-is-a-bull-market/",
-      "publishedAt": "2026-08-17T02:06:17.000Z",
-      "snippet": "The bull market is spreading. The post Now THIS is a Bull Market appeared first on A Wealth of Common Sense. ...",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
