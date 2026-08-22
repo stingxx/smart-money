@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-08-21T10:01:57.290Z",
+  "lastUpdated": "2026-08-22T09:52:25.169Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=71711",
+      "title": "The 401k Has Been a Success",
+      "link": "https://awealthofcommonsense.com/2026/08/the-401k-has-been-a-success/",
+      "publishedAt": "2026-08-21T20:30:58.000Z",
+      "snippet": "How to improve 401k plans. The post The 401k Has Been a Success appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "net-interest-https://www.netinterest.co/p/great-scott",
+      "title": "Great Scott",
+      "link": "https://www.netinterest.co/p/great-scott",
+      "publishedAt": "2026-08-21T17:35:18.000Z",
+      "snippet": "Challenges Facing the Bond Trader in Chief",
+      "author": "Marc Rubinstein",
+      "handle": "Net Interest",
+      "tag": "Financials"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=71698",
       "title": "Why the Stock Market Has to Crash",
@@ -20,16 +40,6 @@
       "link": "https://awealthofcommonsense.com/2026/08/animal-spirits-the-best-bear-case-on-ai/",
       "publishedAt": "2026-08-19T11:15:33.000Z",
       "snippet": "On today's show we discuss one of the greatest bull markets of all-time, falling valuations, why young people gamble, financial nihilism, the next recession, $3 trillion in money markets, when bond yields compete with st",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=71644",
-      "title": "Getting Ahead Has Never Been Easy",
-      "link": "https://awealthofcommonsense.com/2026/08/getting-ahead-has-never-been-easy/",
-      "publishedAt": "2026-08-18T17:31:19.000Z",
-      "snippet": "The present is not easy. But the past was a lot harder in terms of getting ahead. The post Getting Ahead Has Never Been Easy appeared first on A Wealth of Common Sense. ...",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
@@ -110,16 +120,6 @@
       "link": "https://www.netinterest.co/p/leopolds-fall",
       "publishedAt": "2026-08-03T10:05:15.000Z",
       "snippet": "Situational Awareness and Amaranth 20 Years Apart",
-      "author": "Marc Rubinstein",
-      "handle": "Net Interest",
-      "tag": "Financials"
-    },
-    {
-      "id": "net-interest-https://www.netinterest.co/p/paypal-declined",
-      "title": "PayPal, Declined",
-      "link": "https://www.netinterest.co/p/paypal-declined",
-      "publishedAt": "2026-07-24T16:33:10.000Z",
-      "snippet": "Inside the Bid for an Iconic Fintech",
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
