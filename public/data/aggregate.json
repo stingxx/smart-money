@@ -1,9 +1,19 @@
 {
-  "lastUpdated": "2026-08-22T09:52:25.169Z",
+  "lastUpdated": "2026-08-23T09:53:21.421Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/marginal-rations",
+      "title": "Marginal Rations",
+      "link": "https://newsletter.doomberg.com/p/marginal-rations",
+      "publishedAt": "2026-08-23T09:01:54.000Z",
+      "snippet": "The ominous math driving the current diesel crisis and how it will inevitably resolve.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=71711",
       "title": "The 401k Has Been a Success",
@@ -93,16 +103,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "doomberg-https://newsletter.doomberg.com/p/endangered-specious",
-      "title": "Endangered Specious",
-      "link": "https://newsletter.doomberg.com/p/endangered-specious",
-      "publishedAt": "2026-08-09T09:02:14.000Z",
-      "snippet": "Myths, ghosts, and other oil things that go bump in the night.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
     },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=32985",
