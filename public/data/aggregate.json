@@ -1,9 +1,331 @@
 {
-  "lastUpdated": "2026-08-23T09:53:21.421Z",
+  "lastUpdated": "2026-08-24T10:11:42.493Z",
   "holdings": {},
-  "redditTickers": [],
-  "redditPosts": [],
+  "redditTickers": [
+    {
+      "ticker": "SPCX",
+      "mentions": 1,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    },
+    {
+      "ticker": "MSTR",
+      "mentions": 1,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    },
+    {
+      "ticker": "HOOD",
+      "mentions": 1,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    },
+    {
+      "ticker": "USO",
+      "mentions": 1,
+      "subreddits": [
+        "wallstreetbets"
+      ]
+    }
+  ],
+  "redditPosts": [
+    {
+      "id": "t3_1vwygsh",
+      "title": "The global economy right now",
+      "subreddit": "wallstreetbets",
+      "author": "/u/I_killed_the_kraken",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-24T10:02:22+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vwygsh/the_global_economy_right_now/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vwyfhg",
+      "title": "Daily Discussion Thread for August 24, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/verified-trader",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-24T10:00:45+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vwyfhg/daily_discussion_thread_for_august_24_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vwovao",
+      "title": "$1,000,000 - Full Porting $SPCX and $MSTR",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Dull_Fly_7443",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-24T01:20:39+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vwovao/1000000_full_porting_spcx_and_mstr/",
+      "tickers": [
+        "SPCX",
+        "MSTR"
+      ]
+    },
+    {
+      "id": "t3_1vwhbz6",
+      "title": "What Are Your Moves Tomorrow, August 24, 2026",
+      "subreddit": "wallstreetbets",
+      "author": "/u/verified-trader",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-23T20:00:41+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vwhbz6/what_are_your_moves_tomorrow_august_24_2026/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vwhb0j",
+      "title": "$48k —> $622k on SLS",
+      "subreddit": "wallstreetbets",
+      "author": "/u/More_Advertising_383",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-23T19:59:51+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vwhb0j/48k_622k_on_sls/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vwfujd",
+      "title": "I used to trade weedstonks, I still do but I used to.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/DA2710",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-23T19:03:45+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vwfujd/i_used_to_trade_weedstonks_i_still_do_but_i_used/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vwevzi",
+      "title": "Back in my days",
+      "subreddit": "wallstreetbets",
+      "author": "/u/lost-identity-83",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-23T18:27:40+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vwevzi/back_in_my_days/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vvrioh",
+      "title": "New Research Just Dropped",
+      "subreddit": "wallstreetbets",
+      "author": "/u/anotherloserhere",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-22T23:42:04+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vvrioh/new_research_just_dropped/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vvrh14",
+      "title": "NVIDIA customers notified about AI-related price hikes above 15%, Bloomberg News reports",
+      "subreddit": "wallstreetbets",
+      "author": "/u/wafflepiezz",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-22T23:39:53+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vvrh14/nvidia_customers_notified_about_airelated_price/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vvpq3l",
+      "title": "$90k 1 week CBRS options",
+      "subreddit": "wallstreetbets",
+      "author": "/u/jfauv94",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-22T22:21:40+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vvpq3l/90k_1_week_cbrs_options/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vvohaa",
+      "title": "What's with the price-dependent periods of reduced volatility?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/StitchAndChill",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-22T21:27:57+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vvohaa/whats_with_the_pricedependent_periods_of_reduced/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vvnfpl",
+      "title": "Warren Buffett in the retirement home watching Berkshire Hathaway gamble the $400B cash pile he spent the last 3 years building",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Kervandos",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-22T20:44:44+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vvnfpl/warren_buffett_in_the_retirement_home_watching/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vvk2no",
+      "title": "Trading is easy",
+      "subreddit": "wallstreetbets",
+      "author": "/u/I_killed_the_kraken",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-22T18:32:47+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vvk2no/trading_is_easy/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vvgkty",
+      "title": "EZPawn DD",
+      "subreddit": "wallstreetbets",
+      "author": "/u/No_Presentation9490",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-22T16:16:35+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vvgkty/ezpawn_dd/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vuzcw6",
+      "title": "$USO - Oil Futures: Will it invert? Will the SPR deplete?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Tay_Tay86",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-22T01:54:56+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vuzcw6/uso_oil_futures_will_it_invert_will_the_spr/",
+      "tickers": [
+        "USO"
+      ]
+    },
+    {
+      "id": "t3_1vuymcs",
+      "title": "26k on 1DTE Spy Calls",
+      "subreddit": "wallstreetbets",
+      "author": "/u/RopPopPop",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-22T01:20:02+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vuymcs/26k_on_1dte_spy_calls/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vutz6c",
+      "title": "Salesforce partners not seeing meaningful revenue from Agentforce AI platform, report says",
+      "subreddit": "wallstreetbets",
+      "author": "/u/dgellow",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-21T21:58:35+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vutz6c/salesforce_partners_not_seeing_meaningful_revenue/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vutct8",
+      "title": "I traded CRCL off yesterday’s BTC move and made $24K🚀",
+      "subreddit": "wallstreetbets",
+      "author": "/u/DirectionOl",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-21T21:33:28+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vutct8/i_traded_crcl_off_yesterdays_btc_move_and_made_24k/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vuqyzj",
+      "title": "Weekend Discussion Thread for the Weekend of August 22-23",
+      "subreddit": "wallstreetbets",
+      "author": "/u/verified-trader",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-21T20:00:41+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vuqyzj/weekend_discussion_thread_for_the_weekend_of/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vuq487",
+      "title": "Just crossed 100k today, what do I do now?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Ockilydokily",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-21T19:28:17+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vuq487/just_crossed_100k_today_what_do_i_do_now/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vuogpe",
+      "title": "Being a Gay Bear Is Costly",
+      "subreddit": "wallstreetbets",
+      "author": "/u/the-revenge-trader",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-21T18:28:33+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vuogpe/being_a_gay_bear_is_costly/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vun4dp",
+      "title": "Can’t wait for meta to start mooning after cutting my losses short !",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Thelakefeben",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-21T17:39:24+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vun4dp/cant_wait_for_meta_to_start_mooning_after_cutting/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vumyj2",
+      "title": "Weekly Earnings Thread 8/24 - 8/28",
+      "subreddit": "wallstreetbets",
+      "author": "/u/OSRSkarma",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-21T17:33:19+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vumyj2/weekly_earnings_thread_824_828/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vulqic",
+      "title": "$HOOD +800%",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Drpoopscoop",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-21T16:49:31+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vulqic/hood_800/",
+      "tickers": [
+        "HOOD"
+      ]
+    },
+    {
+      "id": "t3_1vuhmyw",
+      "title": "Moderna Generational Yolo Territory Part 3 and final.",
+      "subreddit": "wallstreetbets",
+      "author": "/u/VoidAndOcean",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-21T14:17:28+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vuhmyw/moderna_generational_yolo_territory_part_3_and/",
+      "tickers": []
+    }
+  ],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=71735",
+      "title": "The Most Hated Asset Class in the World",
+      "link": "https://awealthofcommonsense.com/2026/08/the-most-hated-asset-class-in-the-world/",
+      "publishedAt": "2026-08-23T18:11:47.000Z",
+      "snippet": "Why everyone hates bonds right now. The post The Most Hated Asset Class in the World appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "doomberg-https://newsletter.doomberg.com/p/marginal-rations",
       "title": "Marginal Rations",
@@ -40,16 +362,6 @@
       "link": "https://awealthofcommonsense.com/2026/08/why-the-stock-market-has-to-crash/",
       "publishedAt": "2026-08-20T15:26:51.000Z",
       "snippet": "Why the stock market has to crash on occasion. The post Why the Stock Market Has to Crash appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=71665",
-      "title": "Animal Spirits: The Best Bear Case on AI",
-      "link": "https://awealthofcommonsense.com/2026/08/animal-spirits-the-best-bear-case-on-ai/",
-      "publishedAt": "2026-08-19T11:15:33.000Z",
-      "snippet": "On today's show we discuss one of the greatest bull markets of all-time, falling valuations, why young people gamble, financial nihilism, the next recession, $3 trillion in money markets, when bond yields compete with st",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
