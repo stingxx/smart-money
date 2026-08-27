@@ -1,23 +1,9 @@
 {
-  "lastUpdated": "2026-08-26T10:06:39.416Z",
+  "lastUpdated": "2026-08-27T19:56:04.020Z",
   "holdings": {},
   "redditTickers": [
     {
-      "ticker": "SNDK",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "MRNA",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "AUR",
+      "ticker": "SLS",
       "mentions": 1,
       "subreddits": [
         "wallstreetbets"
@@ -26,288 +12,314 @@
   ],
   "redditPosts": [
     {
-      "id": "t3_1vyspxe",
-      "title": "Daily Discussion Thread for August 26, 2026",
+      "id": "t3_1w04dbb",
+      "title": "Jensen al Gaib",
+      "subreddit": "wallstreetbets",
+      "author": "/u/CommonSentence8802",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-27T19:48:05+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w04dbb/jensen_al_gaib/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1w03ygr",
+      "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
+      "subreddit": "wallstreetbets",
+      "author": "/u/blended-bitty55",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-27T19:33:34+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w03ygr/ai_industry_says_trump_plans_to_tax_chips_in_the/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1w021ta",
+      "title": "$105K SPY 0DTE Gain",
+      "subreddit": "wallstreetbets",
+      "author": "/u/BathInfamous4473",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-27T18:24:38+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w021ta/105k_spy_0dte_gain/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1w00hwc",
+      "title": "Sk Hynix is a huge opportunity",
+      "subreddit": "wallstreetbets",
+      "author": "/u/ev0lii",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-27T17:29:44+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w00hwc/sk_hynix_is_a_huge_opportunity/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1w000a5",
+      "title": "Someone asked me to share a bit about this",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Feisty_Level_1412",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-27T17:12:10+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w000a5/someone_asked_me_to_share_a_bit_about_this/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vzz0wq",
+      "title": "My NVDA tendies",
+      "subreddit": "wallstreetbets",
+      "author": "/u/LordVixen",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-27T16:36:10+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vzz0wq/my_nvda_tendies/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vzx4za",
+      "title": "60k profit! YOLO on CRM with 4k! 220 strike call expiring on the 28th! And for 4k in cost what’s there to even complain about? That’s nothi",
+      "subreddit": "wallstreetbets",
+      "author": "/u/alvina_jumbo",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-27T15:26:48+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vzx4za/60k_profit_yolo_on_crm_with_4k_220_strike_call/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vzwqqv",
+      "title": "Thank you $SLS 🤑",
+      "subreddit": "wallstreetbets",
+      "author": "/u/BrightLengthiness853",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-27T15:12:29+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vzwqqv/thank_you_sls/",
+      "tickers": [
+        "SLS"
+      ]
+    },
+    {
+      "id": "t3_1vzvy3p",
+      "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says",
+      "subreddit": "wallstreetbets",
+      "author": "/u/Force_Hammer",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-27T14:43:40+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vzvy3p/nvidia_agrees_to_buy_hugging_face_for_129_billion/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vzsw2o",
+      "title": "$50,000 YOLO NVDA 8/28 exp $217.5 strike call - when to take profit?",
+      "subreddit": "wallstreetbets",
+      "author": "/u/oprah_2024",
+      "score": 0,
+      "num_comments": 0,
+      "created": "2026-08-27T12:42:13+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vzsw2o/50000_yolo_nvda_828_exp_2175_strike_call_when_to/",
+      "tickers": []
+    },
+    {
+      "id": "t3_1vzpno8",
+      "title": "Daily Discussion Thread for August 27, 2026",
       "subreddit": "wallstreetbets",
       "author": "/u/verified-trader",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-08-26T10:00:41+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vyspxe/daily_discussion_thread_for_august_26_2026/",
+      "created": "2026-08-27T10:00:44+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vzpno8/daily_discussion_thread_for_august_27_2026/",
       "tickers": []
     },
     {
-      "id": "t3_1vys25b",
-      "title": "Getting Michael Burried.",
+      "id": "t3_1vzozyk",
+      "title": "'Circular Financing' is the new buzzword for regards",
       "subreddit": "wallstreetbets",
-      "author": "/u/Akili-ndag",
+      "author": "/u/JimmyOhio360",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-08-26T09:23:18+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vys25b/getting_michael_burried/",
+      "created": "2026-08-27T09:22:06+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vzozyk/circular_financing_is_the_new_buzzword_for_regards/",
       "tickers": []
     },
     {
-      "id": "t3_1vyrx97",
-      "title": "Prove the haters wrong Jensen",
+      "id": "t3_1vznxya",
+      "title": "Please let the bull actually run this time instead of freaking out and selling once you break even on tech stocks",
       "subreddit": "wallstreetbets",
-      "author": "/u/Successful_Cod4379",
+      "author": "/u/Life_Show8246",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-08-26T09:15:40+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vyrx97/prove_the_haters_wrong_jensen/",
+      "created": "2026-08-27T08:18:36+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vznxya/please_let_the_bull_actually_run_this_time/",
       "tickers": []
     },
     {
-      "id": "t3_1vyq6c6",
-      "title": "Why rates will fall (and why that won't actually help)",
+      "id": "t3_1vzn19b",
+      "title": "Sleepy Dawgs",
       "subreddit": "wallstreetbets",
-      "author": "/u/GrowthMLR",
+      "author": "/u/s1n0d3utscht3k",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-08-26T07:32:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vyq6c6/why_rates_will_fall_and_why_that_wont_actually/",
+      "created": "2026-08-27T07:24:12+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vzn19b/sleepy_dawgs/",
       "tickers": []
     },
     {
-      "id": "t3_1vyn553",
-      "title": "Michael Saylor is getting a little too comfortable on Twitter rn",
+      "id": "t3_1vzjy5a",
+      "title": "Well, look who is back !",
       "subreddit": "wallstreetbets",
-      "author": "/u/throwheezy",
+      "author": "/u/AngryTomato027",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-08-26T04:45:47+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vyn553/michael_saylor_is_getting_a_little_too/",
+      "created": "2026-08-27T04:30:28+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vzjy5a/well_look_who_is_back/",
       "tickers": []
     },
     {
-      "id": "t3_1vym3fq",
-      "title": "Heavy bags",
+      "id": "t3_1vzhd2q",
+      "title": "Im not leaving",
       "subreddit": "wallstreetbets",
-      "author": "/u/0nth3sp3ctrum",
+      "author": "/u/nachograndpa",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-08-26T03:53:45+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vym3fq/heavy_bags/",
+      "created": "2026-08-27T02:24:56+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vzhd2q/im_not_leaving/",
       "tickers": []
     },
     {
-      "id": "t3_1vyjdi6",
-      "title": "opportunity before GTA VI, or a valuation trap?",
+      "id": "t3_1vzdrq2",
+      "title": "Shoutout to all the haters",
       "subreddit": "wallstreetbets",
-      "author": "/u/Wrking-Isopod8850",
+      "author": "/u/WeakCommunication743",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-08-26T01:49:24+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vyjdi6/opportunity_before_gta_vi_or_a_valuation_trap/",
+      "created": "2026-08-26T23:46:12+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vzdrq2/shoutout_to_all_the_haters/",
       "tickers": []
     },
     {
-      "id": "t3_1vyhsvb",
-      "title": "Which “financial institution” is getting sanctioned this week?",
+      "id": "t3_1vzdihj",
+      "title": "Nvidia earnings proved 2 things again…",
       "subreddit": "wallstreetbets",
-      "author": "/u/kea123456",
+      "author": "/u/jeremyvr46",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-08-26T00:38:40+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vyhsvb/which_financial_institution_is_getting_sanctioned/",
+      "created": "2026-08-26T23:34:49+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vzdihj/nvidia_earnings_proved_2_things_again/",
       "tickers": []
     },
     {
-      "id": "t3_1vyen42",
-      "title": "TSLA Calls Made Me $45K😅",
+      "id": "t3_1vzbnjb",
+      "title": "How long before Michael Burry cries uncle?",
       "subreddit": "wallstreetbets",
-      "author": "/u/DirectionOl",
+      "author": "/u/yangastas_paradise",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-08-25T22:25:44+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vyen42/tsla_calls_made_me_45k/",
+      "created": "2026-08-26T22:17:06+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vzbnjb/how_long_before_michael_burry_cries_uncle/",
       "tickers": []
     },
     {
-      "id": "t3_1vycz2n",
-      "title": "Buy at the very bottom?",
+      "id": "t3_1vzb98g",
+      "title": "Thank you papa Jensen",
       "subreddit": "wallstreetbets",
-      "author": "/u/Tonja_Gonzales",
+      "author": "/u/LarryBlink",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-08-25T21:21:08+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vycz2n/buy_at_the_very_bottom/",
+      "created": "2026-08-26T22:01:32+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vzb98g/thank_you_papa_jensen/",
       "tickers": []
     },
     {
-      "id": "t3_1vybwg5",
-      "title": "OpenAI’s Head of Data Centers Has Left the Company",
+      "id": "t3_1vzaud5",
+      "title": "Jensen Huang After Earnings",
       "subreddit": "wallstreetbets",
-      "author": "/u/Federal-Trip4067",
+      "author": "/u/YTLupo",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-08-25T20:41:42+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vybwg5/openais_head_of_data_centers_has_left_the_company/",
+      "created": "2026-08-26T21:45:14+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vzaud5/jensen_huang_after_earnings/",
       "tickers": []
     },
     {
-      "id": "t3_1vyaybm",
-      "title": "Dicks Loss Porn",
+      "id": "t3_1vzag6s",
+      "title": "The AI bubble crowd lose again",
       "subreddit": "wallstreetbets",
-      "author": "/u/sylphvanas",
+      "author": "/u/twist_games",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-08-25T20:08:37+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vyaybm/dicks_loss_porn/",
+      "created": "2026-08-26T21:30:16+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vzag6s/the_ai_bubble_crowd_lose_again/",
       "tickers": []
     },
     {
-      "id": "t3_1vyawfl",
-      "title": "Here goes everything $SNDK",
+      "id": "t3_1vza7sw",
+      "title": "PUMP IT 🚀",
       "subreddit": "wallstreetbets",
-      "author": "/u/A_Flying_Narwhal",
+      "author": "/u/BodybuilderOver3199",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-08-25T20:06:46+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vyawfl/here_goes_everything_sndk/",
-      "tickers": [
-        "SNDK"
-      ]
-    },
-    {
-      "id": "t3_1vyaq2v",
-      "title": "What Are Your Moves Tomorrow, August 26, 2026",
-      "subreddit": "wallstreetbets",
-      "author": "/u/verified-trader",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-25T20:00:38+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vyaq2v/what_are_your_moves_tomorrow_august_26_2026/",
+      "created": "2026-08-26T21:21:36+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vza7sw/pump_it/",
       "tickers": []
     },
     {
-      "id": "t3_1vya8su",
-      "title": "The highest paid CEOs lose their shareholders about $920M a year.",
+      "id": "t3_1vz8vpx",
+      "title": "Nvidia tops Q2 expectations, offers strong outlook, but stock falls",
       "subreddit": "wallstreetbets",
-      "author": "/u/Dismal-Cancel4958",
+      "author": "/u/King-of-Limbs-07",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-08-25T19:43:35+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vya8su/the_highest_paid_ceos_lose_their_shareholders/",
+      "created": "2026-08-26T20:31:08+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vz8vpx/nvidia_tops_q2_expectations_offers_strong_outlook/",
       "tickers": []
     },
     {
-      "id": "t3_1vya3gr",
-      "title": "Going Big on Dicks (DKS)",
+      "id": "t3_1vumyj2",
+      "title": "Weekly Earnings Thread 8/24 - 8/28",
       "subreddit": "wallstreetbets",
-      "author": "/u/CultureForsaken3762",
+      "author": "/u/OSRSkarma",
       "score": 0,
       "num_comments": 0,
-      "created": "2026-08-25T19:38:21+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vya3gr/going_big_on_dicks_dks/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vy9uw6",
-      "title": "Possible to trade based on opposite side of ‘losers’ here?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Ordinary-Heron-6821",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-25T19:29:48+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vy9uw6/possible_to_trade_based_on_opposite_side_of/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vy88yj",
-      "title": "Do NOT but Calls or PUTS for NVDIA tomorrow",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Successful_Cod4379",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-25T18:33:13+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vy88yj/do_not_but_calls_or_puts_for_nvdia_tomorrow/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vy6imq",
-      "title": "Never thought I'd make so much money from short Dicks",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Large_banana_hammock",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-25T17:33:03+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vy6imq/never_thought_id_make_so_much_money_from_short/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vy565r",
-      "title": "$AUR DD: 5,000 shares at $6.04 - I’m betting Chris Urmson and Aurora Innovation win a winner-take-most market",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Due-Perspective-3197",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-25T16:45:32+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vy565r/aur_dd_5000_shares_at_604_im_betting_chris_urmson/",
-      "tickers": [
-        "AUR"
-      ]
-    },
-    {
-      "id": "t3_1vy502t",
-      "title": "Anthropic to Tell Investors It Sees Over $30 Trillion in Potential Revenue",
-      "subreddit": "wallstreetbets",
-      "author": "/u/wotton",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-25T16:39:30+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vy502t/anthropic_to_tell_investors_it_sees_over_30/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vy3jxk",
-      "title": "SpaceX orbital data center launch moved up to 2027, Musk says",
-      "subreddit": "wallstreetbets",
-      "author": "/u/rebel-capitalist",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-25T15:47:32+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vy3jxk/spacex_orbital_data_center_launch_moved_up_to/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vxyym3",
-      "title": "$MRNA f*cked me",
-      "subreddit": "wallstreetbets",
-      "author": "/u/bannf",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-25T12:50:44+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vxyym3/mrna_fcked_me/",
-      "tickers": [
-        "MRNA"
-      ]
-    },
-    {
-      "id": "t3_1vxv1an",
-      "title": "Regards never give up!",
-      "subreddit": "wallstreetbets",
-      "author": "/u/I_killed_the_kraken",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-25T09:36:17+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vxv1an/regards_never_give_up/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1vxilt1",
-      "title": "Wendy's CEO Says Food Quality Hasn’t Been Chain’s Top Priority—Vows Changes",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Fair-Guitar",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-24T23:07:02+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vxilt1/wendys_ceo_says_food_quality_hasnt_been_chains/",
+      "created": "2026-08-21T17:33:19+00:00",
+      "url": "https://old.reddit.com/r/wallstreetbets/comments/1vumyj2/weekly_earnings_thread_824_828/",
       "tickers": []
     }
   ],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=22097",
+      "title": "10 Things You Need to Know About Investing in Stocks",
+      "link": "https://awealthofcommonsense.com/2026/08/10-things-you-need-to-know-about-investing-in-stocks/",
+      "publishedAt": "2026-08-27T16:52:42.000Z",
+      "snippet": "10 of the most important stock market charts of all-time. The post 10 Things You Need to Know About Investing in Stocks appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/company-deep-dive-chevron",
+      "title": "Company Deep Dive: Chevron",
+      "link": "https://newsletter.doomberg.com/p/company-deep-dive-chevron",
+      "publishedAt": "2026-08-26T14:37:02.000Z",
+      "snippet": "Pro Tier: August 2026 Doom Zoom",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=71789",
+      "title": "Animal Spirits: Are Free Markets Dead?",
+      "link": "https://awealthofcommonsense.com/2026/08/animal-spirits-are-free-markets-dead/",
+      "publishedAt": "2026-08-26T11:15:02.000Z",
+      "snippet": "On today's show we discuss the Treasury bond buybacks, Stanley Druckenmiller's op-ed, the real government debt risk, the most hated asset class in the world, why Bitcoin woke up, the end of the Go-Go years, finance bros ",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=71774",
       "title": "How Will This Cycle End?",
@@ -327,26 +339,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=71723",
-      "title": "Talk Your Book: The Alternative to Alternatives",
-      "link": "https://awealthofcommonsense.com/2026/08/talk-your-book-the-alternative-to-alternatives/",
-      "publishedAt": "2026-08-24T11:15:27.000Z",
-      "snippet": "On today's Talk Your Book we speak with Matt Radgowski from Halo about the structured notes space, how AI is improving reporting capabilities, how advisors use structured notes in client portfolios, the impact of defined",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=71735",
-      "title": "The Most Hated Asset Class in the World",
-      "link": "https://awealthofcommonsense.com/2026/08/the-most-hated-asset-class-in-the-world/",
-      "publishedAt": "2026-08-23T18:11:47.000Z",
-      "snippet": "Why everyone hates bonds right now. The post The Most Hated Asset Class in the World appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "doomberg-https://newsletter.doomberg.com/p/marginal-rations",
@@ -397,16 +389,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "doomberg-https://newsletter.doomberg.com/p/a-minor-detail",
-      "title": "A Minor Detail",
-      "link": "https://newsletter.doomberg.com/p/a-minor-detail",
-      "publishedAt": "2026-08-13T09:01:37.000Z",
-      "snippet": "Amazingly, Putin will decide whether Europe freezes this winter.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
     },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=33889",
