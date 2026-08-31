@@ -1,304 +1,29 @@
 {
-  "lastUpdated": "2026-08-30T14:29:44.836Z",
+  "lastUpdated": "2026-08-31T17:11:47.741Z",
   "holdings": {},
-  "redditTickers": [
-    {
-      "ticker": "VSXY",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    },
-    {
-      "ticker": "DELL",
-      "mentions": 1,
-      "subreddits": [
-        "wallstreetbets"
-      ]
-    }
-  ],
-  "redditPosts": [
-    {
-      "id": "t3_1w2gphz",
-      "title": "We are back baby",
-      "subreddit": "wallstreetbets",
-      "author": "/u/lmvaughan",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-30T12:48:56+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w2gphz/we_are_back_baby/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w1tunb",
-      "title": "Memory is now 50% of AI spending.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/RealLoner94",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-29T18:20:42+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w1tunb/memory_is_now_50_of_ai_spending/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w1tmec",
-      "title": "Mag 7 Companies Reported Earnings Growth Above 100% Boosted by Investment Gains",
-      "subreddit": "wallstreetbets",
-      "author": "/u/inWineVerit4x",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-29T18:11:45+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w1tmec/mag_7_companies_reported_earnings_growth_above/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w1t9iy",
-      "title": "Long Victoria’s Secret ($VSXY) with the release of GTA VI",
-      "subreddit": "wallstreetbets",
-      "author": "/u/chird_",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-29T17:57:39+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w1t9iy/long_victorias_secret_vsxy_with_the_release_of/",
-      "tickers": [
-        "VSXY"
-      ]
-    },
-    {
-      "id": "t3_1w1soci",
-      "title": "Lessons from my $8k IREN loss.. (regard edition)",
-      "subreddit": "wallstreetbets",
-      "author": "/u/miniscule_rycegrain",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-29T17:34:16+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w1soci/lessons_from_my_8k_iren_loss_regard_edition/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w1qqba",
-      "title": "2% in 6 years. Follow for more tips.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/StudentforaLifetime",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-29T16:17:25+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w1qqba/2_in_6_years_follow_for_more_tips/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w1g78f",
-      "title": "See y’all Monday boys🌈",
-      "subreddit": "wallstreetbets",
-      "author": "/u/unprofitabletrading",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-29T07:45:21+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w1g78f/see_yall_monday_boys/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w19va7",
-      "title": "$DELL — Am I crazy or is a $20 call actually a steal going into earnings?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Prior_Equivalent9125",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-29T02:11:43+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w19va7/dell_am_i_crazy_or_is_a_20_call_actually_a_steal/",
-      "tickers": [
-        "DELL"
-      ]
-    },
-    {
-      "id": "t3_1w19csw",
-      "title": "CRM - After earning bet",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Itsallaboutmargin",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-29T01:47:04+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w19csw/crm_after_earning_bet/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w16fht",
-      "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
-      "subreddit": "wallstreetbets",
-      "author": "/u/SailingTheInternet",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-28T23:31:55+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w16fht/trump_announces_deal_with_venezuela_to_secure/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w123tm",
-      "title": "My Biggest Options Win to Date — Thanks, Master Chief! 🫡🚀",
-      "subreddit": "wallstreetbets",
-      "author": "/u/OptimalEnthusiasm",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-28T20:36:56+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w123tm/my_biggest_options_win_to_date_thanks_master_chief/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w1156x",
-      "title": "Weekend Discussion Thread for the Weekend of August 29-30",
-      "subreddit": "wallstreetbets",
-      "author": "/u/verified-trader",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-28T20:00:44+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w1156x/weekend_discussion_thread_for_the_weekend_of/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w0zmdl",
-      "title": "Spy Put Options: 73k Gain",
-      "subreddit": "wallstreetbets",
-      "author": "/u/ImpossibleBag5787",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-28T19:04:22+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w0zmdl/spy_put_options_73k_gain/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w0zjap",
-      "title": "IREN opinion",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Significant-Fact4476",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-28T19:01:21+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w0zjap/iren_opinion/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w0wtrm",
-      "title": "MRVL put options: $14,896 profit.",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Ill-Engineering2145",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-28T17:22:31+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w0wtrm/mrvl_put_options_14896_profit/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w0wdhg",
-      "title": "🤔",
-      "subreddit": "wallstreetbets",
-      "author": "/u/PaperHandsTheDip",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-28T17:06:01+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w0wdhg/_/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w0wdaq",
-      "title": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Force_Hammer",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-28T17:05:51+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w0wdaq/analysis_kevin_warsh_sharpens_inflation_warning/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w0v8ss",
-      "title": "It's McDanks time",
-      "subreddit": "wallstreetbets",
-      "author": "/u/MeloniousV2",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-28T16:24:33+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w0v8ss/its_mcdanks_time/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w0utgj",
-      "title": "100% $25K 0DTE SPY Gain (but left $75K on the table)",
-      "subreddit": "wallstreetbets",
-      "author": "/u/BathInfamous4473",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-28T16:08:54+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w0utgj/100_25k_0dte_spy_gain_but_left_75k_on_the_table/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w0upg4",
-      "title": "Weekly Earnings Thread 8/31 - 9/4",
-      "subreddit": "wallstreetbets",
-      "author": "/u/OSRSkarma",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-28T16:04:45+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w0upg4/weekly_earnings_thread_831_94/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w0rpe8",
-      "title": "So, should we short until November?",
-      "subreddit": "wallstreetbets",
-      "author": "/u/Beginning_Sector_594",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-28T14:11:42+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w0rpe8/so_should_we_short_until_november/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w0pzmp",
-      "title": "August Gains +232k",
-      "subreddit": "wallstreetbets",
-      "author": "/u/ur_comment_is_low_IQ",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-28T13:02:20+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w0pzmp/august_gains_232k/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w0mane",
-      "title": "Daily Discussion Thread for August 28, 2026",
-      "subreddit": "wallstreetbets",
-      "author": "/u/verified-trader",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-28T10:01:25+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w0mane/daily_discussion_thread_for_august_28_2026/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w0kdx7",
-      "title": "Bagholder Bingo Card",
-      "subreddit": "wallstreetbets",
-      "author": "/u/LarryBlink",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-28T08:08:11+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w0kdx7/bagholder_bingo_card/",
-      "tickers": []
-    },
-    {
-      "id": "t3_1w069t1",
-      "title": "Just Buy NVDA at $12/share",
-      "subreddit": "wallstreetbets",
-      "author": "/u/wileywyatt",
-      "score": 0,
-      "num_comments": 0,
-      "created": "2026-08-27T20:56:53+00:00",
-      "url": "https://old.reddit.com/r/wallstreetbets/comments/1w069t1/just_buy_nvda_at_12share/",
-      "tickers": []
-    }
-  ],
+  "redditTickers": [],
+  "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=71861",
+      "title": "Talk Your Book: Cash Was Easy&#8230;Now What?",
+      "link": "https://awealthofcommonsense.com/2026/08/talk-your-book-cash-was-easy-now-what/",
+      "publishedAt": "2026-08-31T11:15:25.000Z",
+      "snippet": "On today's Talk Your Book we speak with Brandon Clark from Federated Hermes about generating income in your portfolio, using options inside of ETFs for higher income potential, the impact of taxes on fixed income product",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=71855",
+      "title": "Jerry Seinfeld&#8217;s Evergreen Career Advice",
+      "link": "https://awealthofcommonsense.com/2026/08/jerry-seinfelds-evergreen-career-advice/",
+      "publishedAt": "2026-08-31T02:27:35.000Z",
+      "snippet": "Some advice for young people on how to handle AI. The post Jerry Seinfeld&#8217;s Evergreen Career Advice appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=71820",
       "title": "My Most Contrarian Opinion Right Now",
@@ -330,16 +55,6 @@
       "tag": "Energy / Macro"
     },
     {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=22097",
-      "title": "10 Things You Need to Know About Investing in Stocks",
-      "link": "https://awealthofcommonsense.com/2026/08/10-things-you-need-to-know-about-investing-in-stocks/",
-      "publishedAt": "2026-08-27T16:52:42.000Z",
-      "snippet": "10 of the most important stock market charts of all-time. The post 10 Things You Need to Know About Investing in Stocks appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
       "id": "doomberg-https://newsletter.doomberg.com/p/company-deep-dive-chevron",
       "title": "Company Deep Dive: Chevron",
       "link": "https://newsletter.doomberg.com/p/company-deep-dive-chevron",
@@ -348,16 +63,6 @@
       "author": "Doomberg",
       "handle": "@DoombergT",
       "tag": "Energy / Macro"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=71789",
-      "title": "Animal Spirits: Are Free Markets Dead?",
-      "link": "https://awealthofcommonsense.com/2026/08/animal-spirits-are-free-markets-dead/",
-      "publishedAt": "2026-08-26T11:15:02.000Z",
-      "snippet": "On today's show we discuss the Treasury bond buybacks, Stanley Druckenmiller's op-ed, the real government debt risk, the most hated asset class in the world, why Bitcoin woke up, the end of the Go-Go years, finance bros ",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=33805",
