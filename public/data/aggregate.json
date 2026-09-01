@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-08-31T17:11:47.741Z",
+  "lastUpdated": "2026-09-01T14:15:12.971Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=34122",
+      "title": "Which Graduate Degrees Are the Best Investment? (Why I Skipped My MBA)",
+      "link": "https://ofdollarsanddata.com/which-graduate-degrees-are-the-best-investment-why-i-skipped-my-mba/",
+      "publishedAt": "2026-09-01T11:45:54.000Z",
+      "snippet": "When I was 27 years old I was at a crossroads. I was five years into my career, yet I was stagnating. Though I was making six figures, which was great for my 20s, I knew I couldn't make much more at my job. Without an ad",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/with-american-characteristics",
+      "title": "With American Characteristics",
+      "link": "https://newsletter.doomberg.com/p/with-american-characteristics",
+      "publishedAt": "2026-09-01T09:01:37.000Z",
+      "snippet": "The US enters the great state-owned enterprises game.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=71861",
       "title": "Talk Your Book: Cash Was Easy&#8230;Now What?",
@@ -75,16 +95,6 @@
       "tag": "Behavioral"
     },
     {
-      "id": "doomberg-https://newsletter.doomberg.com/p/marginal-rations",
-      "title": "Marginal Rations",
-      "link": "https://newsletter.doomberg.com/p/marginal-rations",
-      "publishedAt": "2026-08-23T09:01:54.000Z",
-      "snippet": "The ominous math driving the current diesel crisis and how it will inevitably resolve.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
-    },
-    {
       "id": "net-interest-https://www.netinterest.co/p/great-scott",
       "title": "Great Scott",
       "link": "https://www.netinterest.co/p/great-scott",
@@ -113,16 +123,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "dollars-data-https://ofdollarsanddata.com/?p=33889",
-      "title": "The Best Way to Sell a Concentrated Position",
-      "link": "https://ofdollarsanddata.com/the-best-way-to-sell-a-concentrated-position/",
-      "publishedAt": "2026-08-11T11:45:10.000Z",
-      "snippet": "Imagine being the typical SpaceX employee over the last few months. Your shares IPO at $135 and within a few days they peak at $225/share (up 67%) before they begin to decline. As of this morning they sit at around $139,",
-      "author": "Nick Maggiulli",
-      "handle": "Of Dollars and Data",
-      "tag": "Behavioral"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
