@@ -1,9 +1,39 @@
 {
-  "lastUpdated": "2026-09-04T13:42:07.996Z",
+  "lastUpdated": "2026-09-05T12:58:10.261Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/necessary-inventions",
+      "title": "Necessary Inventions",
+      "link": "https://newsletter.doomberg.com/p/necessary-inventions",
+      "publishedAt": "2026-09-05T09:00:49.000Z",
+      "snippet": "Energy pessimism as leading indicator of imminent breakthroughs.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=71931",
+      "title": "Will Young People Ever Buy a House?",
+      "link": "https://awealthofcommonsense.com/2026/09/will-young-people-ever-buy-a-house/",
+      "publishedAt": "2026-09-04T20:30:35.000Z",
+      "snippet": "More young people are buying homes than you realize. The post Will Young People Ever Buy a House? appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "net-interest-https://www.netinterest.co/p/hot-european-summer",
+      "title": "Hot European Summer",
+      "link": "https://www.netinterest.co/p/hot-european-summer",
+      "publishedAt": "2026-09-04T16:33:06.000Z",
+      "snippet": "Europe is outperforming &#8211; but Europeans aren&#8217;t participating",
+      "author": "Marc Rubinstein",
+      "handle": "Net Interest",
+      "tag": "Financials"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=71944",
       "title": "How to Invest When Your Portfolio Gets Bigger",
@@ -20,16 +50,6 @@
       "link": "https://awealthofcommonsense.com/2026/09/animal-spirits-the-next-michael-burry/",
       "publishedAt": "2026-09-02T10:45:11.000Z",
       "snippet": "On today's show we discuss the AI debt binge, no recessions for the rest of the 2020s, Kevin Warsh thoughts on the economy, the dead cat bounce in software stocks, bull market M&#038;A deals, no once cares about dividend",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=71882",
-      "title": "14 Questions I&#8217;m Thinking About",
-      "link": "https://awealthofcommonsense.com/2026/09/14-questions/",
-      "publishedAt": "2026-09-01T18:00:25.000Z",
-      "snippet": "Some questions about AI, housing, tech stocks, valuations, movies and more. The post 14 Questions I&#8217;m Thinking About appeared first on A Wealth of Common Sense. ...",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
@@ -75,16 +95,6 @@
       "tag": "Energy / Macro"
     },
     {
-      "id": "doomberg-https://newsletter.doomberg.com/p/company-deep-dive-chevron",
-      "title": "Company Deep Dive: Chevron",
-      "link": "https://newsletter.doomberg.com/p/company-deep-dive-chevron",
-      "publishedAt": "2026-08-26T14:37:02.000Z",
-      "snippet": "Pro Tier: August 2026 Doom Zoom",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
-    },
-    {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=33805",
       "title": "Why I Was Wrong to Be Bearish on U.S. Stocks",
       "link": "https://ofdollarsanddata.com/why-i-was-wrong-to-be-bearish-on-us-stocks/",
@@ -113,16 +123,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "net-interest-https://www.netinterest.co/p/financing-the-ai-boom-3",
-      "title": "Financing the AI Boom 3",
-      "link": "https://www.netinterest.co/p/financing-the-ai-boom-3",
-      "publishedAt": "2026-08-14T16:46:59.000Z",
-      "snippet": "Nvidia, Guarantor of Last Resort",
-      "author": "Marc Rubinstein",
-      "handle": "Net Interest",
-      "tag": "Financials"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
