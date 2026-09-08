@@ -1,9 +1,19 @@
 {
-  "lastUpdated": "2026-09-07T15:10:02.218Z",
+  "lastUpdated": "2026-09-08T13:47:20.165Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=33113",
+      "title": "Living Poor to Die Rich",
+      "link": "https://ofdollarsanddata.com/living-poor-to-die-rich/",
+      "publishedAt": "2026-09-08T11:45:51.000Z",
+      "snippet": "I recently joined a professional organization to discuss various topics in wealth management. On our first Zoom call there was a debate around the use of levered long/short strategies. For the uninitiated, a levered long",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=71974",
       "title": "Talk Your Book: AI Winners &#038; Losers",
@@ -113,16 +123,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "dollars-data-https://ofdollarsanddata.com/?p=31432",
-      "title": "The Myth of Owning Your Time",
-      "link": "https://ofdollarsanddata.com/the-myth-of-owning-your-time/",
-      "publishedAt": "2026-08-18T11:45:54.000Z",
-      "snippet": "You've probably heard it all before. Be your own boss. Control your schedule. Own your time. As attractive as it sounds, it's a lie. Many people believe that working for yourself means unlimited flexibility. You can work",
-      "author": "Nick Maggiulli",
-      "handle": "Of Dollars and Data",
-      "tag": "Behavioral"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
