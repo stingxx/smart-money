@@ -1,9 +1,39 @@
 {
-  "lastUpdated": "2026-09-11T13:44:07.600Z",
+  "lastUpdated": "2026-09-12T13:02:46.126Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/apricity-or-bust",
+      "title": "Apricity or Bust",
+      "link": "https://newsletter.doomberg.com/p/apricity-or-bust",
+      "publishedAt": "2026-09-12T09:00:54.000Z",
+      "snippet": "The most inexcusable energy crisis ever.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=72058",
+      "title": "Millionaires Everywhere",
+      "link": "https://awealthofcommonsense.com/2026/09/millionaires-everywhere/",
+      "publishedAt": "2026-09-11T20:30:11.000Z",
+      "snippet": "How wealth is changing the economy and markets. The post Millionaires Everywhere appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "net-interest-https://www.netinterest.co/p/the-five-deals-that-made-apollo",
+      "title": "The Five Deals That Made Apollo",
+      "link": "https://www.netinterest.co/p/the-five-deals-that-made-apollo",
+      "publishedAt": "2026-09-11T15:25:40.000Z",
+      "snippet": "From distressed debt to a trillion-dollar machine",
+      "author": "Marc Rubinstein",
+      "handle": "Net Interest",
+      "tag": "Financials"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=72041",
       "title": "A Short History of Trend-Following and Momentum",
@@ -33,16 +63,6 @@
       "author": "Doomberg",
       "handle": "@DoombergT",
       "tag": "Energy / Macro"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=72003",
-      "title": "The End of a Golden Era For Investors",
-      "link": "https://awealthofcommonsense.com/2026/09/the-end-of-a-golden-era-for-investors/",
-      "publishedAt": "2026-09-08T19:16:44.000Z",
-      "snippet": "Were millennials doomed to be period of lower stock market returns? The post The End of a Golden Era For Investors appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=33113",
@@ -85,16 +105,6 @@
       "tag": "Behavioral"
     },
     {
-      "id": "doomberg-https://newsletter.doomberg.com/p/with-american-characteristics",
-      "title": "With American Characteristics",
-      "link": "https://newsletter.doomberg.com/p/with-american-characteristics",
-      "publishedAt": "2026-09-01T09:01:37.000Z",
-      "snippet": "The US enters the great state-owned enterprises game.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
-    },
-    {
       "id": "net-interest-https://www.netinterest.co/p/untangling-guggenheim",
       "title": "Untangling Guggenheim",
       "link": "https://www.netinterest.co/p/untangling-guggenheim",
@@ -113,16 +123,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "net-interest-https://www.netinterest.co/p/great-scott",
-      "title": "Great Scott",
-      "link": "https://www.netinterest.co/p/great-scott",
-      "publishedAt": "2026-08-21T17:35:18.000Z",
-      "snippet": "Challenges Facing the Bond Trader in Chief",
-      "author": "Marc Rubinstein",
-      "handle": "Net Interest",
-      "tag": "Financials"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
