@@ -1,9 +1,19 @@
 {
-  "lastUpdated": "2026-09-14T15:58:36.002Z",
+  "lastUpdated": "2026-09-15T14:25:34.879Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=33562",
+      "title": "What Was the Best Portfolio Over the Last 50 Years?",
+      "link": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
+      "publishedAt": "2026-09-15T11:45:37.000Z",
+      "snippet": "A few months ago, I analyzed U.S. stock returns over the last century . Today, I'm going to determine the best portfolio over the last 50 years among the following asset classes: U.S. Stocks International Stocks Real Est",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=72083",
       "title": "Talk Your Book: Why Aren&#8217;t There More IPOs?",
@@ -113,16 +123,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "dollars-data-https://ofdollarsanddata.com/?p=33805",
-      "title": "Why I Was Wrong to Be Bearish on U.S. Stocks",
-      "link": "https://ofdollarsanddata.com/why-i-was-wrong-to-be-bearish-on-us-stocks/",
-      "publishedAt": "2026-08-25T11:45:39.000Z",
-      "snippet": "A year ago I wrote the blog post Why I'm Bearish on U.S. Stocks (for the Second Time Since 2017) . Since then U.S. stocks are up 16% (total return) and my bearish prediction turned out to be misguided. So where did I go ",
-      "author": "Nick Maggiulli",
-      "handle": "Of Dollars and Data",
-      "tag": "Behavioral"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
