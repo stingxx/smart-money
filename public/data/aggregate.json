@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-09-15T14:25:34.879Z",
+  "lastUpdated": "2026-09-16T14:18:04.377Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/value-trap",
+      "title": "Value Trap",
+      "link": "https://newsletter.doomberg.com/p/value-trap",
+      "publishedAt": "2026-09-16T09:00:37.000Z",
+      "snippet": "The downside of practically free natural gas.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=72112",
+      "title": "Why Are Valuations Falling in a Bull Market?",
+      "link": "https://awealthofcommonsense.com/2026/09/why-are-valuations-falling-in-a-bull-market/",
+      "publishedAt": "2026-09-16T00:48:25.000Z",
+      "snippet": "Rising rates, higher inflation and falling PE ratios. The post Why Are Valuations Falling in a Bull Market? appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=33562",
       "title": "What Was the Best Portfolio Over the Last 50 Years?",
@@ -45,16 +65,6 @@
       "tag": "Energy / Macro"
     },
     {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=72058",
-      "title": "Millionaires Everywhere",
-      "link": "https://awealthofcommonsense.com/2026/09/millionaires-everywhere/",
-      "publishedAt": "2026-09-11T20:30:11.000Z",
-      "snippet": "How wealth is changing the economy and markets. The post Millionaires Everywhere appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
       "id": "net-interest-https://www.netinterest.co/p/the-five-deals-that-made-apollo",
       "title": "The Five Deals That Made Apollo",
       "link": "https://www.netinterest.co/p/the-five-deals-that-made-apollo",
@@ -83,16 +93,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "doomberg-https://newsletter.doomberg.com/p/necessary-inventions",
-      "title": "Necessary Inventions",
-      "link": "https://newsletter.doomberg.com/p/necessary-inventions",
-      "publishedAt": "2026-09-05T09:00:49.000Z",
-      "snippet": "Energy pessimism as leading indicator of imminent breakthroughs.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
     },
     {
       "id": "net-interest-https://www.netinterest.co/p/hot-european-summer",
