@@ -1,9 +1,19 @@
 {
-  "lastUpdated": "2026-09-17T14:24:52.877Z",
+  "lastUpdated": "2026-09-18T13:45:20.765Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/coming-to-america",
+      "title": "Coming to America",
+      "link": "https://newsletter.doomberg.com/p/coming-to-america",
+      "publishedAt": "2026-09-18T09:02:46.000Z",
+      "snippet": "Lateral musings ahead of Xi Jinping&#8217;s official state visit.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=72121",
       "title": "Animal Spirits: How to Talk To Your Clients About Ray Dalio",
@@ -73,16 +83,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "doomberg-https://newsletter.doomberg.com/p/falkland-around",
-      "title": "Falkland Around",
-      "link": "https://newsletter.doomberg.com/p/falkland-around",
-      "publishedAt": "2026-09-09T09:00:58.000Z",
-      "snippet": "Will Milei impede the formation of a mini-petrostate next door?",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
     },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=33113",
