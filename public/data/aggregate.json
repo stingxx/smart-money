@@ -1,9 +1,19 @@
 {
-  "lastUpdated": "2026-09-18T13:45:20.765Z",
+  "lastUpdated": "2026-09-19T13:18:51.655Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=72141",
+      "title": "5% Bond Yields",
+      "link": "https://awealthofcommonsense.com/2026/09/5-bond-yields/",
+      "publishedAt": "2026-09-18T15:35:59.000Z",
+      "snippet": "How do bonds work? The post 5% Bond Yields appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "doomberg-https://newsletter.doomberg.com/p/coming-to-america",
       "title": "Coming to America",
@@ -53,16 +63,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=72083",
-      "title": "Talk Your Book: Why Aren&#8217;t There More IPOs?",
-      "link": "https://awealthofcommonsense.com/2026/09/talk-your-book-why-arent-there-more-ipos/",
-      "publishedAt": "2026-09-14T12:00:50.000Z",
-      "snippet": "On today's Animal Spirits Talk Your Book we speak to Christian Munafo from VanEck about AI IPOs, the trouble facing unicorn late stage growth companies, the liquidity problem for private market investors, secondary trans",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "doomberg-https://newsletter.doomberg.com/p/apricity-or-bust",
