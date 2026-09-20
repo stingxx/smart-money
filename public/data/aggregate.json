@@ -1,9 +1,19 @@
 {
-  "lastUpdated": "2026-09-19T13:18:51.655Z",
+  "lastUpdated": "2026-09-20T13:39:33.465Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "net-interest-https://www.netinterest.co/p/brookfield-of-dreams",
+      "title": "Brookfield of Dreams",
+      "link": "https://www.netinterest.co/p/brookfield-of-dreams",
+      "publishedAt": "2026-09-19T15:05:47.000Z",
+      "snippet": "Inside Brookfield&#8217;s Plan to Double Again",
+      "author": "Marc Rubinstein",
+      "handle": "Net Interest",
+      "tag": "Financials"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=72141",
       "title": "5% Bond Yields",
@@ -113,16 +123,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "net-interest-https://www.netinterest.co/p/untangling-guggenheim",
-      "title": "Untangling Guggenheim",
-      "link": "https://www.netinterest.co/p/untangling-guggenheim",
-      "publishedAt": "2026-08-28T15:05:53.000Z",
-      "snippet": "How Private Credit Built Its Own Universe",
-      "author": "Marc Rubinstein",
-      "handle": "Net Interest",
-      "tag": "Financials"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
