@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-09-21T15:59:23.949Z",
+  "lastUpdated": "2026-09-22T14:07:49.493Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=33985",
+      "title": "Is Startup Equity a Bad Deal?",
+      "link": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
+      "publishedAt": "2026-09-22T11:45:57.000Z",
+      "snippet": "Imagine joining a startup as employee number 10. Your salary is a bit below what the market pays for your role, but, in exchange, you get equity. How much? 0.25% of the company to be exact. You do the math in your head—i",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/escalation-clauses",
+      "title": "Escalation Clauses",
+      "link": "https://newsletter.doomberg.com/p/escalation-clauses",
+      "publishedAt": "2026-09-22T09:02:17.000Z",
+      "snippet": "Heads nobody wins, tails Europe loses.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=72176",
       "title": "Talk Your Book: Price is the Ultimate Factor",
@@ -75,16 +95,6 @@
       "tag": "Behavioral"
     },
     {
-      "id": "doomberg-https://newsletter.doomberg.com/p/apricity-or-bust",
-      "title": "Apricity or Bust",
-      "link": "https://newsletter.doomberg.com/p/apricity-or-bust",
-      "publishedAt": "2026-09-12T09:00:54.000Z",
-      "snippet": "The most inexcusable energy crisis ever.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
-    },
-    {
       "id": "net-interest-https://www.netinterest.co/p/the-five-deals-that-made-apollo",
       "title": "The Five Deals That Made Apollo",
       "link": "https://www.netinterest.co/p/the-five-deals-that-made-apollo",
@@ -113,16 +123,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "dollars-data-https://ofdollarsanddata.com/?p=34122",
-      "title": "Which Graduate Degrees Are the Best Investment? (Why I Skipped My MBA)",
-      "link": "https://ofdollarsanddata.com/which-graduate-degrees-are-the-best-investment-why-i-skipped-my-mba/",
-      "publishedAt": "2026-09-01T11:45:54.000Z",
-      "snippet": "When I was 27 years old I was at a crossroads. I was five years into my career, yet I was stagnating. Though I was making six figures, which was great for my 20s, I knew I couldn't make much more at my job. Without an ad",
-      "author": "Nick Maggiulli",
-      "handle": "Of Dollars and Data",
-      "tag": "Behavioral"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
