@@ -1,15 +1,45 @@
 {
-  "lastUpdated": "2026-09-25T14:42:22.219Z",
+  "lastUpdated": "2026-09-26T13:49:02.736Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
     {
+      "id": "doomberg-https://newsletter.doomberg.com/p/sector-deep-dive-north-american-midstream",
+      "title": "Sector Deep Dive: North American Midstream",
+      "link": "https://newsletter.doomberg.com/p/sector-deep-dive-north-american-midstream",
+      "publishedAt": "2026-09-26T10:20:11.000Z",
+      "snippet": "Pro Tier: September 2026 Doom Zoom",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=72240",
+      "title": "Most Stocks Are Losers",
+      "link": "https://awealthofcommonsense.com/2026/09/most-stocks-are-losers/",
+      "publishedAt": "2026-09-25T20:30:47.000Z",
+      "snippet": "Why most stocks underperform the market. The post Most Stocks Are Losers appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "net-interest-https://www.netinterest.co/p/the-agents-revolt",
+      "title": "The Agents Revolt",
+      "link": "https://www.netinterest.co/p/the-agents-revolt",
+      "publishedAt": "2026-09-25T17:33:27.000Z",
+      "snippet": "What happens to finance when customers start paying attention",
+      "author": "Marc Rubinstein",
+      "handle": "Net Interest",
+      "tag": "Financials"
+    },
+    {
       "id": "common-sense-https://awealthofcommonsense.com/?p=72247",
       "title": "Can You Be a Boglehead Tech Investor?",
       "link": "https://awealthofcommonsense.com/2026/09/can-you-be-a-boglehead-tech-investor/",
       "publishedAt": "2026-09-24T18:46:08.000Z",
-      "snippet": "A reader, Most of my friends work in tech and while they understand the Boglehead philosophy, the concern is that there is limited upside in public equities and most of the value is captured while companies are private t",
+      "snippet": "Why public market investors don't need private market stocks. The post Can You Be a Boglehead Tech Investor? appeared first on A Wealth of Common Sense. ...",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
@@ -20,16 +50,6 @@
       "link": "https://awealthofcommonsense.com/2026/09/animal-spirits-the-wobbly-house-of-cards/",
       "publishedAt": "2026-09-23T12:00:39.000Z",
       "snippet": "On today's show we discuss the interconnected hyperscalers, AI's risk to the economy, the chart of the year, Nvidia's valuation, Meta's personal assisstant, $186 trillion in household wealth, 10 year return projections, ",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=72066",
-      "title": "Why Didn&#8217;t We Get a Housing Bubble?",
-      "link": "https://awealthofcommonsense.com/2026/09/why-didnt-we-get-a-housing-bubble/",
-      "publishedAt": "2026-09-22T18:48:01.000Z",
-      "snippet": "A rise in price is not the same thing as a bubble. The post Why Didn&#8217;t We Get a Housing Bubble? appeared first on A Wealth of Common Sense. ...",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
@@ -75,16 +95,6 @@
       "tag": "Energy / Macro"
     },
     {
-      "id": "doomberg-https://newsletter.doomberg.com/p/value-trap",
-      "title": "Value Trap",
-      "link": "https://newsletter.doomberg.com/p/value-trap",
-      "publishedAt": "2026-09-16T09:00:37.000Z",
-      "snippet": "The downside of practically free natural gas.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
-    },
-    {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=33562",
       "title": "What Was the Best Portfolio Over the Last 50 Years?",
       "link": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
@@ -113,16 +123,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "net-interest-https://www.netinterest.co/p/hot-european-summer",
-      "title": "Hot European Summer",
-      "link": "https://www.netinterest.co/p/hot-european-summer",
-      "publishedAt": "2026-09-04T16:33:06.000Z",
-      "snippet": "Europe is outperforming &#8211; but Europeans aren&#8217;t participating",
-      "author": "Marc Rubinstein",
-      "handle": "Net Interest",
-      "tag": "Financials"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
