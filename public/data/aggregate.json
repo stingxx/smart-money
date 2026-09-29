@@ -1,9 +1,39 @@
 {
-  "lastUpdated": "2026-09-28T17:46:39.460Z",
+  "lastUpdated": "2026-09-29T16:04:48.706Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=72325",
+      "title": "A Brutal Bond Market",
+      "link": "https://awealthofcommonsense.com/2026/09/a-brutal-bond-market/",
+      "publishedAt": "2026-09-29T15:23:29.000Z",
+      "snippet": "The Bloomberg Aggregate Bond Index was created by Lehman Brothers in the early-1980s to offer investors a benchmark for the investment grade taxable bond market.1 The index is made up of mostly Treasuries, corporates, mo",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=34633",
+      "title": "Who Is Really Rich in America? (Hint: Main Street Millionaires)",
+      "link": "https://ofdollarsanddata.com/who-is-really-rich-in-america/",
+      "publishedAt": "2026-09-29T11:45:37.000Z",
+      "snippet": "If you want to understand the wealth of the typical American household, the resources are excellent. Not only are there free public data sources, but there are also many great books that detail how people live across The",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/going-with-the-flow",
+      "title": "Going With the Flow",
+      "link": "https://newsletter.doomberg.com/p/going-with-the-flow",
+      "publishedAt": "2026-09-29T09:02:34.000Z",
+      "snippet": "London to Brussels: Hold our beer.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=72291",
       "title": "Talk Your Book: The Next Generation of Income Strategies",
@@ -35,18 +65,8 @@
       "tag": "Energy / Macro"
     },
     {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=72240",
-      "title": "Most Stocks Are Losers",
-      "link": "https://awealthofcommonsense.com/2026/09/most-stocks-are-losers/",
-      "publishedAt": "2026-09-25T20:30:47.000Z",
-      "snippet": "Why most stocks underperform the market. The post Most Stocks Are Losers appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
       "id": "net-interest-https://www.netinterest.co/p/the-agents-revolt",
-      "title": "The Agents Revolt",
+      "title": "Agents Revolt",
       "link": "https://www.netinterest.co/p/the-agents-revolt",
       "publishedAt": "2026-09-25T17:33:27.000Z",
       "snippet": "What happens to finance when customers start paying attention",
@@ -85,16 +105,6 @@
       "tag": "Financials"
     },
     {
-      "id": "doomberg-https://newsletter.doomberg.com/p/coming-to-america",
-      "title": "Coming to America",
-      "link": "https://newsletter.doomberg.com/p/coming-to-america",
-      "publishedAt": "2026-09-18T09:02:46.000Z",
-      "snippet": "Lateral musings ahead of Xi Jinping&#8217;s official state visit.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
-    },
-    {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=33562",
       "title": "What Was the Best Portfolio Over the Last 50 Years?",
       "link": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
@@ -113,16 +123,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "dollars-data-https://ofdollarsanddata.com/?p=33113",
-      "title": "Living Poor to Die Rich",
-      "link": "https://ofdollarsanddata.com/living-poor-to-die-rich/",
-      "publishedAt": "2026-09-08T11:45:51.000Z",
-      "snippet": "I recently joined a professional organization to discuss various topics in wealth management. On our first Zoom call there was a debate around the use of levered long/short strategies. For the uninitiated, a levered long",
-      "author": "Nick Maggiulli",
-      "handle": "Of Dollars and Data",
-      "tag": "Behavioral"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
