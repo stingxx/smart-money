@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-10-02T15:56:07.213Z",
+  "lastUpdated": "2026-10-03T14:23:45.367Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "net-interest-https://www.netinterest.co/p/the-art-of-doing-financial-engineering",
+      "title": "The Art of Doing Financial Engineering",
+      "link": "https://www.netinterest.co/p/the-art-of-doing-financial-engineering",
+      "publishedAt": "2026-10-03T11:57:49.000Z",
+      "snippet": "AI Financing at the Frontier",
+      "author": "Marc Rubinstein",
+      "handle": "Net Interest",
+      "tag": "Financials"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=72398",
+      "title": "Why is Consumer Sentiment so Low?",
+      "link": "https://awealthofcommonsense.com/2026/10/why-is-consumer-sentiment-so-low/",
+      "publishedAt": "2026-10-02T20:30:19.000Z",
+      "snippet": "Why you can't trust sentiment surveys anymore. The post Why is Consumer Sentiment so Low? appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=72386",
       "title": "Where is the Stock Market Volatility?",
@@ -20,16 +40,6 @@
       "link": "https://awealthofcommonsense.com/2026/09/animal-spirits-will-higher-rates-kill-the-stock-market/",
       "publishedAt": "2026-09-30T12:00:18.000Z",
       "snippet": "On today's show we discuss the stock market has an excuse to sell off, valuations are falling across the board, the cause of the next correction, 5% bond yields, the worst bond market of all-time, incomes are rising, the",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=72325",
-      "title": "A Brutal Bond Market",
-      "link": "https://awealthofcommonsense.com/2026/09/a-brutal-bond-market/",
-      "publishedAt": "2026-09-29T15:23:29.000Z",
-      "snippet": "The Bloomberg Aggregate Bond Index was created by Lehman Brothers in the early-1980s to offer investors a benchmark for the investment grade taxable bond market.1 The index is made up of mostly Treasuries, corporates, mo",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
@@ -113,16 +123,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "net-interest-https://www.netinterest.co/p/the-five-deals-that-made-apollo",
-      "title": "The Five Deals That Made Apollo",
-      "link": "https://www.netinterest.co/p/the-five-deals-that-made-apollo",
-      "publishedAt": "2026-09-11T15:25:40.000Z",
-      "snippet": "From distressed debt to a trillion-dollar machine",
-      "author": "Marc Rubinstein",
-      "handle": "Net Interest",
-      "tag": "Financials"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
