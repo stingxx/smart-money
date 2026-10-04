@@ -1,9 +1,19 @@
 {
-  "lastUpdated": "2026-10-03T14:23:45.367Z",
+  "lastUpdated": "2026-10-04T14:56:11.069Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/straw-clutching",
+      "title": "Straw Clutching",
+      "link": "https://newsletter.doomberg.com/p/straw-clutching",
+      "publishedAt": "2026-10-04T09:00:53.000Z",
+      "snippet": "Diesel fallacies and other geopolitical musings.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
     {
       "id": "net-interest-https://www.netinterest.co/p/the-art-of-doing-financial-engineering",
       "title": "The Art of Doing Financial Engineering",
@@ -93,16 +103,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "doomberg-https://newsletter.doomberg.com/p/escalation-clauses",
-      "title": "Escalation Clauses",
-      "link": "https://newsletter.doomberg.com/p/escalation-clauses",
-      "publishedAt": "2026-09-22T09:02:17.000Z",
-      "snippet": "Heads nobody wins, tails Europe loses.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
     },
     {
       "id": "net-interest-https://www.netinterest.co/p/brookfield-of-dreams",
