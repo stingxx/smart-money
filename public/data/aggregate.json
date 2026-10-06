@@ -1,9 +1,19 @@
 {
-  "lastUpdated": "2026-10-05T18:45:52.232Z",
+  "lastUpdated": "2026-10-06T16:11:14.338Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=33648",
+      "title": "Playing the Wrong Game",
+      "link": "https://ofdollarsanddata.com/playing-the-wrong-game/",
+      "publishedAt": "2026-10-06T11:45:56.000Z",
+      "snippet": "A few months ago, I saw this tweet about the World Sauna Championships and how men will literally push themselves to the brink of death to win them, despite there being no tangible rewards. As the author of the tweet not",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=72453",
       "title": "Talk Your Book: How Higher Rates Are Re-shaping Commercial Real Estate",
@@ -113,16 +123,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "dollars-data-https://ofdollarsanddata.com/?p=33562",
-      "title": "What Was the Best Portfolio Over the Last 50 Years?",
-      "link": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
-      "publishedAt": "2026-09-15T11:45:37.000Z",
-      "snippet": "A few months ago, I analyzed U.S. stock returns over the last century . Today, I'm going to determine the best portfolio over the last 50 years among the following asset classes: U.S. Stocks International Stocks Real Est",
-      "author": "Nick Maggiulli",
-      "handle": "Of Dollars and Data",
-      "tag": "Behavioral"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
