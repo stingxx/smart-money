@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-10-09T16:28:41.024Z",
+  "lastUpdated": "2026-10-10T15:31:54.013Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "net-interest-https://www.netinterest.co/p/when-saturday-comes",
+      "title": "When Saturday Comes",
+      "link": "https://www.netinterest.co/p/when-saturday-comes",
+      "publishedAt": "2026-10-10T12:42:20.000Z",
+      "snippet": "Football as an Asset Class",
+      "author": "Marc Rubinstein",
+      "handle": "Net Interest",
+      "tag": "Financials"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=72323",
+      "title": "The Winners &#038; Losers of Higher Interest Rates",
+      "link": "https://awealthofcommonsense.com/2026/10/the-winners-losers-of-higher-interest-rates/",
+      "publishedAt": "2026-10-09T20:30:53.000Z",
+      "snippet": "Why higher interest rates are a problem. The post The Winners &#038; Losers of Higher Interest Rates appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=72526",
       "title": "Better Investment Right Now: Stocks or Bonds?",
@@ -33,16 +53,6 @@
       "author": "Doomberg",
       "handle": "@DoombergT",
       "tag": "Energy / Macro"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=72413",
-      "title": "The Rich Are Getting Richer. So Is Everyone Else",
-      "link": "https://awealthofcommonsense.com/2026/10/the-rich-are-getting-richer-so-is-everyone-else/",
-      "publishedAt": "2026-10-06T20:20:51.000Z",
-      "snippet": "Americans are extraordinarily rich. The post The Rich Are Getting Richer. So Is Everyone Else appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=33648",
@@ -113,16 +123,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "net-interest-https://www.netinterest.co/p/brookfield-of-dreams",
-      "title": "Brookfield of Dreams",
-      "link": "https://www.netinterest.co/p/brookfield-of-dreams",
-      "publishedAt": "2026-09-19T15:05:47.000Z",
-      "snippet": "Inside Brookfield&#8217;s Plan to Double Again",
-      "author": "Marc Rubinstein",
-      "handle": "Net Interest",
-      "tag": "Financials"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
