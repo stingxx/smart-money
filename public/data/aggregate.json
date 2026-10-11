@@ -1,9 +1,19 @@
 {
-  "lastUpdated": "2026-10-10T15:31:54.013Z",
+  "lastUpdated": "2026-10-11T15:54:13.608Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/jump-ball",
+      "title": "Jump Ball",
+      "link": "https://newsletter.doomberg.com/p/jump-ball",
+      "publishedAt": "2026-10-11T09:02:05.000Z",
+      "snippet": "Why Indonesia&#8217;s plan for strategic ambiguity just might work.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
     {
       "id": "net-interest-https://www.netinterest.co/p/when-saturday-comes",
       "title": "When Saturday Comes",
@@ -93,16 +103,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "doomberg-https://newsletter.doomberg.com/p/going-with-the-flow",
-      "title": "Going With the Flow",
-      "link": "https://newsletter.doomberg.com/p/going-with-the-flow",
-      "publishedAt": "2026-09-29T09:02:34.000Z",
-      "snippet": "London to Brussels: Hold our beer.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
     },
     {
       "id": "net-interest-https://www.netinterest.co/p/the-agents-revolt",
