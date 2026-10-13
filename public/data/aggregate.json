@@ -1,9 +1,19 @@
 {
-  "lastUpdated": "2026-10-12T19:15:14.793Z",
+  "lastUpdated": "2026-10-13T17:04:44.874Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=34290",
+      "title": "Who Got Richer Since 2022?",
+      "link": "https://ofdollarsanddata.com/who-got-richer-since-2022/",
+      "publishedAt": "2026-10-13T11:45:36.000Z",
+      "snippet": "Last Friday, the Federal Reserve released the results of its 2025 Survey of Consumer Finances (SCF) , which takes a detailed snapshot of American households' finances every three years. And the big takeaway from this yea",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=72605",
       "title": "Talk Your Book: Will AI Debt Cause a Recession?",
@@ -113,16 +123,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "dollars-data-https://ofdollarsanddata.com/?p=33985",
-      "title": "Is Startup Equity a Bad Deal?",
-      "link": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
-      "publishedAt": "2026-09-22T11:45:57.000Z",
-      "snippet": "Imagine joining a startup as employee number 10. Your salary is a bit below what the market pays for your role, but, in exchange, you get equity. How much? 0.25% of the company to be exact. You do the math in your head—i",
-      "author": "Nick Maggiulli",
-      "handle": "Of Dollars and Data",
-      "tag": "Behavioral"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
