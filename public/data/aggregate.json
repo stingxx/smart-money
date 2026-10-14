@@ -1,9 +1,39 @@
 {
-  "lastUpdated": "2026-10-13T17:04:44.874Z",
+  "lastUpdated": "2026-10-14T14:37:25.789Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=72634",
+      "title": "Animal Spirits: Are Higher Rates Worse Than ZIRP?",
+      "link": "https://awealthofcommonsense.com/2026/10/animal-spirits-are-higher-rates-worse-than-zirp/",
+      "publishedAt": "2026-10-14T12:00:20.000Z",
+      "snippet": "On today's show we discuss stock market concentration worries, how to hedge AI market risk, maxing out your 401k, who got richer this decade, AI is crowding out the economy, tariffs didn't work, higher rates are crushing",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/diesel-of-discontent",
+      "title": "Diesel of Discontent",
+      "link": "https://newsletter.doomberg.com/p/diesel-of-discontent",
+      "publishedAt": "2026-10-14T09:02:25.000Z",
+      "snippet": "The solution to the West&#8217;s self-inflicted pain is hidden in plain sight.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=72614",
+      "title": "Is It Time to Rebalance Your Portfolio?",
+      "link": "https://awealthofcommonsense.com/2026/10/is-it-time-to-rebalance-your-portfolio/",
+      "publishedAt": "2026-10-13T18:36:18.000Z",
+      "snippet": "It's time to rebalance your portfolio. The post Is It Time to Rebalance Your Portfolio? appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=34290",
       "title": "Who Got Richer Since 2022?",
@@ -20,16 +50,6 @@
       "link": "https://awealthofcommonsense.com/2026/10/talk-your-book-will-ai-debt-cause-a-recession/",
       "publishedAt": "2026-10-12T12:00:33.000Z",
       "snippet": "Today&#8217;s Talk Your Book is brought to you by JP Morgan: To learn more about the JPMorgan Strategic Income Opportunities Fund click here: https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-strategic",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=72585",
-      "title": "Betting on Hope",
-      "link": "https://awealthofcommonsense.com/2026/10/betting-on-hope/",
-      "publishedAt": "2026-10-11T16:00:56.000Z",
-      "snippet": "Why people make longshot bets. The post Betting on Hope appeared first on A Wealth of Common Sense. ...",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
@@ -55,16 +75,6 @@
       "tag": "Financials"
     },
     {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=72323",
-      "title": "The Winners &#038; Losers of Higher Interest Rates",
-      "link": "https://awealthofcommonsense.com/2026/10/the-winners-losers-of-higher-interest-rates/",
-      "publishedAt": "2026-10-09T20:30:53.000Z",
-      "snippet": "Why higher interest rates are a problem. The post The Winners &#038; Losers of Higher Interest Rates appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
       "id": "doomberg-https://newsletter.doomberg.com/p/ties-that-bind",
       "title": "Ties That Bind",
       "link": "https://newsletter.doomberg.com/p/ties-that-bind",
@@ -83,16 +93,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "doomberg-https://newsletter.doomberg.com/p/straw-clutching",
-      "title": "Straw Clutching",
-      "link": "https://newsletter.doomberg.com/p/straw-clutching",
-      "publishedAt": "2026-10-04T09:00:53.000Z",
-      "snippet": "Diesel fallacies and other geopolitical musings.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
     },
     {
       "id": "net-interest-https://www.netinterest.co/p/the-art-of-doing-financial-engineering",
