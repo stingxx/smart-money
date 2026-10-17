@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-10-16T14:08:07.237Z",
+  "lastUpdated": "2026-10-17T13:07:05.484Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=72620",
+      "title": "What&#8217;s the Right Level of Interest Rates For the Economy?",
+      "link": "https://awealthofcommonsense.com/2026/10/whats-the-right-level-of-interest-rates-for-the-economy/",
+      "publishedAt": "2026-10-16T20:30:04.000Z",
+      "snippet": "A historical look at the importance of interest rates. The post What&#8217;s the Right Level of Interest Rates For the Economy? appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "net-interest-https://www.netinterest.co/p/me-and-my-agents",
+      "title": "Me and My Agents",
+      "link": "https://www.netinterest.co/p/me-and-my-agents",
+      "publishedAt": "2026-10-16T16:39:55.000Z",
+      "snippet": "Unleashing AI Agents on Bank Earnings",
+      "author": "Marc Rubinstein",
+      "handle": "Net Interest",
+      "tag": "Financials"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=72667",
       "title": "Hedging the AI Trade",
@@ -33,16 +53,6 @@
       "author": "Doomberg",
       "handle": "@DoombergT",
       "tag": "Energy / Macro"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=72614",
-      "title": "Is It Time to Rebalance Your Portfolio?",
-      "link": "https://awealthofcommonsense.com/2026/10/is-it-time-to-rebalance-your-portfolio/",
-      "publishedAt": "2026-10-13T18:36:18.000Z",
-      "snippet": "It's time to rebalance your portfolio. The post Is It Time to Rebalance Your Portfolio? appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=34290",
@@ -113,16 +123,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "net-interest-https://www.netinterest.co/p/the-agents-revolt",
-      "title": "Agents Revolt",
-      "link": "https://www.netinterest.co/p/the-agents-revolt",
-      "publishedAt": "2026-09-25T17:33:27.000Z",
-      "snippet": "What happens to finance when customers start paying attention",
-      "author": "Marc Rubinstein",
-      "handle": "Net Interest",
-      "tag": "Financials"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
