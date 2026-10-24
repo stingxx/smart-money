@@ -1,9 +1,39 @@
 {
-  "lastUpdated": "2026-10-23T14:21:02.272Z",
+  "lastUpdated": "2026-10-24T13:31:29.679Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/margin-call",
+      "title": "Margin Call",
+      "link": "https://newsletter.doomberg.com/p/margin-call",
+      "publishedAt": "2026-10-24T09:02:02.000Z",
+      "snippet": "Will Brazil replicate Guyana&#8217;s magic in the Equatorial Atlantic?",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=72796",
+      "title": "Markets Are Always Different This Time",
+      "link": "https://awealthofcommonsense.com/2026/10/markets-are-always-different-this-time/",
+      "publishedAt": "2026-10-23T20:30:46.000Z",
+      "snippet": "How markets have evolved. The post Markets Are Always Different This Time appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "net-interest-https://www.netinterest.co/p/capital-wars",
+      "title": "Capital Wars",
+      "link": "https://www.netinterest.co/p/capital-wars",
+      "publishedAt": "2026-10-23T16:24:17.000Z",
+      "snippet": "CoreWeave and the Economics of a Data Center Build",
+      "author": "Marc Rubinstein",
+      "handle": "Net Interest",
+      "tag": "Financials"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=72781",
       "title": "How I Think About Investing in Bonds",
@@ -30,16 +60,6 @@
       "link": "https://awealthofcommonsense.com/2026/10/animal-spirits-its-a-bloodbath/",
       "publishedAt": "2026-10-21T12:00:33.000Z",
       "snippet": "On today's show we discuss AI debt concerns, Coreweave's Rocky IV moment, the 2020s appetite for risk, the Railway boom analogy, carnage under the surface of the stock market, the average stock this year, valuations are ",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=72734",
-      "title": "Tech People Don&#8217;t Know What&#8217;s Going to Happen Either",
-      "link": "https://awealthofcommonsense.com/2026/10/tech-people-dont-know-whats-going-to-happen-either/",
-      "publishedAt": "2026-10-20T18:08:25.000Z",
-      "snippet": "Why it's so hard to predict the AI future. The post Tech People Don&#8217;t Know What&#8217;s Going to Happen Either appeared first on A Wealth of Common Sense. ...",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
@@ -85,16 +105,6 @@
       "tag": "Behavioral"
     },
     {
-      "id": "doomberg-https://newsletter.doomberg.com/p/jump-ball",
-      "title": "Jump Ball",
-      "link": "https://newsletter.doomberg.com/p/jump-ball",
-      "publishedAt": "2026-10-11T09:02:05.000Z",
-      "snippet": "Why Indonesia&#8217;s plan for strategic ambiguity just might work.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
-    },
-    {
       "id": "net-interest-https://www.netinterest.co/p/when-saturday-comes",
       "title": "When Saturday Comes",
       "link": "https://www.netinterest.co/p/when-saturday-comes",
@@ -113,16 +123,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "net-interest-https://www.netinterest.co/p/the-art-of-doing-financial-engineering",
-      "title": "The Art of Doing Financial Engineering",
-      "link": "https://www.netinterest.co/p/the-art-of-doing-financial-engineering",
-      "publishedAt": "2026-10-03T11:57:49.000Z",
-      "snippet": "AI Financing at the Frontier",
-      "author": "Marc Rubinstein",
-      "handle": "Net Interest",
-      "tag": "Financials"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
