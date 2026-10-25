@@ -1,9 +1,19 @@
 {
-  "lastUpdated": "2026-10-24T13:31:29.679Z",
+  "lastUpdated": "2026-10-25T13:51:27.260Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=72835",
+      "title": "Talk Your Book: Investing in Single Stock Futures",
+      "link": "https://awealthofcommonsense.com/2026/10/talk-your-book-investing-in-single-stock-futures/",
+      "publishedAt": "2026-10-25T12:00:16.000Z",
+      "snippet": "On today's Talk Your Book we speak with Tim McCourt of CME Group about how single stock futures work, 23/5 trading hours, leverage, hedging and much more. The post Talk Your Book: Investing in Single Stock Futures appear",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "doomberg-https://newsletter.doomberg.com/p/margin-call",
       "title": "Margin Call",
@@ -53,16 +63,6 @@
       "author": "Doomberg",
       "handle": "@DoombergT",
       "tag": "Energy / Macro"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=72757",
-      "title": "Animal Spirits: It&#8217;s a Bloodbath",
-      "link": "https://awealthofcommonsense.com/2026/10/animal-spirits-its-a-bloodbath/",
-      "publishedAt": "2026-10-21T12:00:33.000Z",
-      "snippet": "On today's show we discuss AI debt concerns, Coreweave's Rocky IV moment, the 2020s appetite for risk, the Railway boom analogy, carnage under the surface of the stock market, the average stock this year, valuations are ",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=34288",
