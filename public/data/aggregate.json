@@ -1,9 +1,39 @@
 {
-  "lastUpdated": "2026-10-30T16:09:57.252Z",
+  "lastUpdated": "2026-10-31T15:28:17.432Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/gating-functions",
+      "title": "Gating Functions",
+      "link": "https://newsletter.doomberg.com/p/gating-functions",
+      "publishedAt": "2026-10-31T09:01:08.000Z",
+      "snippet": "Foundational lessons from Venezuela&#8217;s wild oil journey.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=72923",
+      "title": "Earnings &#038; Expectations",
+      "link": "https://awealthofcommonsense.com/2026/10/the-stock-market-earnings-bonanza/",
+      "publishedAt": "2026-10-30T20:30:37.000Z",
+      "snippet": "Why are earnings up way more than the stock market this year? The post Earnings &#038; Expectations appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "net-interest-https://www.netinterest.co/p/follow-the-money-ece",
+      "title": "Follow the Money",
+      "link": "https://www.netinterest.co/p/follow-the-money-ece",
+      "publishedAt": "2026-10-30T17:48:55.000Z",
+      "snippet": "What six years and 300+ posts of Net Interest say about where finance is heading",
+      "author": "Marc Rubinstein",
+      "handle": "Net Interest",
+      "tag": "Financials"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=72925",
       "title": "Is Buying a House Now a Bad Investment?",
@@ -20,16 +50,6 @@
       "link": "https://awealthofcommonsense.com/2026/10/animal-spirits-why-baby-boomers-have-all-the-money/",
       "publishedAt": "2026-10-28T12:00:03.000Z",
       "snippet": "On today's show we discuss the bull market in earnings, the bear case for AI, defining the AI bubble, the 1987 crash, the best AI hedge, why the labor market remains strong, consumers keep spending money, luxury real est",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=72879",
-      "title": "Why Smart People Make Dumb Decisions",
-      "link": "https://awealthofcommonsense.com/2026/10/why-smart-people-make-dumb-decisions/",
-      "publishedAt": "2026-10-27T19:11:06.000Z",
-      "snippet": "Elizabeth Holmes and the power of self-deception. The post Why Smart People Make Dumb Decisions appeared first on A Wealth of Common Sense. ...",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
@@ -75,16 +95,6 @@
       "tag": "Financials"
     },
     {
-      "id": "doomberg-https://newsletter.doomberg.com/p/doomberg-academy-refining",
-      "title": "Doomberg Academy: Refining",
-      "link": "https://newsletter.doomberg.com/p/doomberg-academy-refining",
-      "publishedAt": "2026-10-21T13:13:56.000Z",
-      "snippet": "Pro Tier: October 2026 Doom Zoom",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
-    },
-    {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=34288",
       "title": "What is the Average Net Worth by Age? [2025 Latest Data]",
       "link": "https://ofdollarsanddata.com/average-net-worth-by-age/",
@@ -113,16 +123,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "net-interest-https://www.netinterest.co/p/when-saturday-comes",
-      "title": "When Saturday Comes",
-      "link": "https://www.netinterest.co/p/when-saturday-comes",
-      "publishedAt": "2026-10-10T12:42:20.000Z",
-      "snippet": "Football as an Asset Class",
-      "author": "Marc Rubinstein",
-      "handle": "Net Interest",
-      "tag": "Financials"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
