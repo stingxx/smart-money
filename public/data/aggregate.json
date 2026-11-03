@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-11-02T19:41:27.594Z",
+  "lastUpdated": "2026-11-03T17:14:40.081Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=73018",
+      "title": "How Are U.S. Household Finances Doing?",
+      "link": "https://awealthofcommonsense.com/2026/11/how-are-u-s-household-finances-doing/",
+      "publishedAt": "2026-11-03T14:30:10.000Z",
+      "snippet": "An update on household balance sheets. The post How Are U.S. Household Finances Doing? appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=34292",
+      "title": "How Many Americans Are Millionaires?",
+      "link": "https://ofdollarsanddata.com/how-many-americans-are-millionaires/",
+      "publishedAt": "2026-11-03T12:45:02.000Z",
+      "snippet": "If it feels like there are more millionaires in the U.S. than ever before, you're right. According to the 2025 Survey of Consumer Finances , there are about 29 million U.S. households with a net worth (all assets minus a",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=72942",
       "title": "Talk Your Book: Diversifying the AI Trade",
@@ -33,16 +53,6 @@
       "author": "Doomberg",
       "handle": "@DoombergT",
       "tag": "Energy / Macro"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=72923",
-      "title": "Earnings &#038; Expectations",
-      "link": "https://awealthofcommonsense.com/2026/10/the-stock-market-earnings-bonanza/",
-      "publishedAt": "2026-10-30T20:30:37.000Z",
-      "snippet": "Why are earnings up way more than the stock market this year? The post Earnings &#038; Expectations appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "net-interest-https://www.netinterest.co/p/follow-the-money-ece",
@@ -113,16 +123,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "dollars-data-https://ofdollarsanddata.com/?p=34290",
-      "title": "Who Got Richer Since 2022?",
-      "link": "https://ofdollarsanddata.com/who-got-richer-since-2022/",
-      "publishedAt": "2026-10-13T11:45:36.000Z",
-      "snippet": "Last Friday, the Federal Reserve released the results of its 2025 Survey of Consumer Finances (SCF) , which takes a detailed snapshot of American households' finances every three years. And the big takeaway from this yea",
-      "author": "Nick Maggiulli",
-      "handle": "Of Dollars and Data",
-      "tag": "Behavioral"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
