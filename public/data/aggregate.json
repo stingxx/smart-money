@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-11-03T17:14:40.081Z",
+  "lastUpdated": "2026-11-04T17:26:00.706Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=73053",
+      "title": "Animal Spirits: Drowning Financially",
+      "link": "https://awealthofcommonsense.com/2026/11/animal-spirits-drowning-financially/",
+      "publishedAt": "2026-11-04T13:00:31.000Z",
+      "snippet": "On today's show we discuss reasons to be bearish, the joys of indexing in an AI boom, carnage in name-brand stocks, why the stock market is not down more, how the investing rules have changed, the buy the dip generation,",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/recycle-bin",
+      "title": "Recycle Bin",
+      "link": "https://newsletter.doomberg.com/p/recycle-bin",
+      "publishedAt": "2026-11-04T10:02:28.000Z",
+      "snippet": "Energy arbitrage is about to take flight.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=73018",
       "title": "How Are U.S. Household Finances Doing?",
@@ -30,16 +50,6 @@
       "link": "https://awealthofcommonsense.com/2026/11/talk-your-book-diversifying-the-ai-trade/",
       "publishedAt": "2026-11-02T13:00:10.000Z",
       "snippet": "On today's Talk Your Book we speak with Brian Griggs from Nuveen about how they help financial advisors build better portfolios, dealing with AI-related volatility, when to rebalance, the opportunity in bonds, private ma",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=72992",
-      "title": "A Bloodbath in the Stock Market?",
-      "link": "https://awealthofcommonsense.com/2026/11/a-bloodbath-in-the-stock-market/",
-      "publishedAt": "2026-11-02T04:16:19.000Z",
-      "snippet": "There are a lot of stocks getting hammered right now. The post A Bloodbath in the Stock Market? appeared first on A Wealth of Common Sense. ...",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
@@ -80,16 +90,6 @@
       "link": "https://newsletter.doomberg.com/p/tough-comp",
       "publishedAt": "2026-10-27T09:01:13.000Z",
       "snippet": "How formidable is Iran, really?",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
-    },
-    {
-      "id": "doomberg-https://newsletter.doomberg.com/p/margin-call",
-      "title": "Margin Call",
-      "link": "https://newsletter.doomberg.com/p/margin-call",
-      "publishedAt": "2026-10-24T09:02:02.000Z",
-      "snippet": "Will Brazil replicate Guyana&#8217;s magic in the Equatorial Atlantic?",
       "author": "Doomberg",
       "handle": "@DoombergT",
       "tag": "Energy / Macro"
