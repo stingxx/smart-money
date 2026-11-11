@@ -1,9 +1,39 @@
 {
-  "lastUpdated": "2026-11-10T17:13:45.726Z",
+  "lastUpdated": "2026-11-11T17:22:49.634Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=73201",
+      "title": "Animal Spirits: What the Hell Just Happened?!",
+      "link": "https://awealthofcommonsense.com/2026/11/animal-spirits-what-the-hell-just-happened/",
+      "publishedAt": "2026-11-11T13:00:10.000Z",
+      "snippet": "On today’s show we discuss how price sets the narrative, the blue tsunami, data center backlash, Thursday’s stock market wipeout, why everyone is always wrong about the markets, recency bias in politics, the market’s res",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/cat-scratch-fervo",
+      "title": "Cat-Scratch Fervo",
+      "link": "https://newsletter.doomberg.com/p/cat-scratch-fervo",
+      "publishedAt": "2026-11-11T10:02:47.000Z",
+      "snippet": "Will a premature IPO lead to an alternative energy mauling?",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=73180",
+      "title": "This is Why You Need a Plan",
+      "link": "https://awealthofcommonsense.com/2026/11/this-is-why-you-need-a-plan/",
+      "publishedAt": "2026-11-10T18:04:56.000Z",
+      "snippet": "Some thoughts on the craziest week of the year. The post This is Why You Need a Plan appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=34480",
       "title": "The Gamble of Your Life",
@@ -16,20 +46,10 @@
     },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=73167",
-      "title": "Talk Your Book: Customized and Income",
+      "title": "Talk Your Book: Customized Income",
       "link": "https://awealthofcommonsense.com/2026/11/talk-your-book-customized-and-income/",
       "publishedAt": "2026-11-09T13:00:06.000Z",
       "snippet": "On today's Talk Your Book we speak with Kacie Walsh Jason from Dimensional Fund Advisors about the benefits of investing in separately managed accounts. Then we speak with Wes Mathews from NEOs about the explosion in opt",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=73095",
-      "title": "Expect Less and Appreciate More",
-      "link": "https://awealthofcommonsense.com/2026/11/expect-less-and-appreciate-more/",
-      "publishedAt": "2026-11-09T04:04:29.000Z",
-      "snippet": "Why a mid-life crisis is impossible to ignore. The post Expect Less and Appreciate More appeared first on A Wealth of Common Sense. ...",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
@@ -43,16 +63,6 @@
       "author": "Doomberg",
       "handle": "@DoombergT",
       "tag": "Energy / Macro"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=73111",
-      "title": "Diversification &#038; Drawdowns",
-      "link": "https://awealthofcommonsense.com/2026/11/diversification-drawdowns/",
-      "publishedAt": "2026-11-06T21:30:42.000Z",
-      "snippet": "We had some big drawdowns in the market this week. The post Diversification &#038; Drawdowns appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "net-interest-https://www.netinterest.co/p/the-insatiable-demand-for-alpha",
@@ -83,16 +93,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "doomberg-https://newsletter.doomberg.com/p/gating-functions",
-      "title": "Gating Functions",
-      "link": "https://newsletter.doomberg.com/p/gating-functions",
-      "publishedAt": "2026-10-31T09:01:08.000Z",
-      "snippet": "Foundational lessons from Venezuela&#8217;s wild oil journey.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
     },
     {
       "id": "net-interest-https://www.netinterest.co/p/follow-the-money-ece",
