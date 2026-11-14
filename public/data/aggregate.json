@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-11-13T17:19:24.582Z",
+  "lastUpdated": "2026-11-14T15:58:35.488Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=73214",
+      "title": "Living a Better Life Now",
+      "link": "https://awealthofcommonsense.com/2026/11/living-a-better-life-now/",
+      "publishedAt": "2026-11-14T01:09:51.000Z",
+      "snippet": "If you read enough personal finance books you&#8217;re bound to come across the parable about the businessman and the fisherman. I&#8217;ve certainly read the story numerous times. It goes something like this: An America",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "net-interest-https://www.netinterest.co/p/a-bankers-guide-to-anthropic",
+      "title": "A Banker’s Guide to Anthropic",
+      "link": "https://www.netinterest.co/p/a-bankers-guide-to-anthropic",
+      "publishedAt": "2026-11-13T18:00:43.000Z",
+      "snippet": "Why the IPO is a credit event",
+      "author": "Marc Rubinstein",
+      "handle": "Net Interest",
+      "tag": "Financials"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=73220",
       "title": "The Bear Markets",
@@ -33,16 +53,6 @@
       "author": "Doomberg",
       "handle": "@DoombergT",
       "tag": "Energy / Macro"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=73180",
-      "title": "This is Why You Need a Plan",
-      "link": "https://awealthofcommonsense.com/2026/11/this-is-why-you-need-a-plan/",
-      "publishedAt": "2026-11-10T18:04:56.000Z",
-      "snippet": "Some thoughts on the craziest week of the year. The post This is Why You Need a Plan appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=34480",
@@ -113,16 +123,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "net-interest-https://www.netinterest.co/p/capital-wars",
-      "title": "Capital Wars",
-      "link": "https://www.netinterest.co/p/capital-wars",
-      "publishedAt": "2026-10-23T16:24:17.000Z",
-      "snippet": "CoreWeave and the Economics of a Data Center Build",
-      "author": "Marc Rubinstein",
-      "handle": "Net Interest",
-      "tag": "Financials"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
