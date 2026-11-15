@@ -1,9 +1,19 @@
 {
-  "lastUpdated": "2026-11-14T15:58:35.488Z",
+  "lastUpdated": "2026-11-15T16:30:39.605Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/lame-duck-a-lorange",
+      "title": "Lame Duck à L’Orange",
+      "link": "https://newsletter.doomberg.com/p/lame-duck-a-lorange",
+      "publishedAt": "2026-11-15T10:02:24.000Z",
+      "snippet": "A legacy-defining bill might just make it to Trump&#8217;s desk yet.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=73214",
       "title": "Living a Better Life Now",
@@ -83,16 +93,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "doomberg-https://newsletter.doomberg.com/p/recycle-bin",
-      "title": "Recycle Bin",
-      "link": "https://newsletter.doomberg.com/p/recycle-bin",
-      "publishedAt": "2026-11-04T10:02:28.000Z",
-      "snippet": "Energy arbitrage is about to take flight.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
     },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=34292",
