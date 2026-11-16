@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-11-15T16:30:39.605Z",
+  "lastUpdated": "2026-11-16T19:46:32.019Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=73273",
+      "title": "Talk Your Book: The Anthropic IPO",
+      "link": "https://awealthofcommonsense.com/2026/11/talk-your-book-the-anthropic-ipo/",
+      "publishedAt": "2026-11-16T13:00:58.000Z",
+      "snippet": "On today's Talk Your Book we speak with Derek Yan from KraneShares about investing in public and private market AI companies, how to build an AI portfolio, the most important information from Anthropic's S-1, why robotic",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=73253",
+      "title": "Nvidia: Now What?",
+      "link": "https://awealthofcommonsense.com/2026/11/nvidia-now-what/",
+      "publishedAt": "2026-11-16T04:27:46.000Z",
+      "snippet": "How does the Jensen scandal impact the AI winners and losers? The post Nvidia: Now What? appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "doomberg-https://newsletter.doomberg.com/p/lame-duck-a-lorange",
       "title": "Lame Duck à L’Orange",
@@ -19,7 +39,7 @@
       "title": "Living a Better Life Now",
       "link": "https://awealthofcommonsense.com/2026/11/living-a-better-life-now/",
       "publishedAt": "2026-11-14T01:09:51.000Z",
-      "snippet": "If you read enough personal finance books you&#8217;re bound to come across the parable about the businessman and the fisherman. I&#8217;ve certainly read the story numerous times. It goes something like this: An America",
+      "snippet": "What me and George Clooney learned from the Italians. The post Living a Better Life Now appeared first on A Wealth of Common Sense. ...",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
@@ -33,26 +53,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=73220",
-      "title": "The Bear Markets",
-      "link": "https://awealthofcommonsense.com/2026/11/the-bear-markets/",
-      "publishedAt": "2026-11-12T19:58:27.000Z",
-      "snippet": "Bull markets vs. bear markets. The post The Bear Markets appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=73201",
-      "title": "Animal Spirits: What the Hell Just Happened?!",
-      "link": "https://awealthofcommonsense.com/2026/11/animal-spirits-what-the-hell-just-happened/",
-      "publishedAt": "2026-11-11T13:00:10.000Z",
-      "snippet": "On today’s show we discuss how price sets the narrative, the blue tsunami, data center backlash, Thursday’s stock market wipeout, why everyone is always wrong about the markets, recency bias in politics, the market’s res",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "doomberg-https://newsletter.doomberg.com/p/cat-scratch-fervo",
