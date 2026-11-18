@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-11-17T18:42:58.674Z",
+  "lastUpdated": "2026-11-18T18:19:21.224Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=73306",
+      "title": "Animal Spirits: The Biggest Losers of the Year",
+      "link": "https://awealthofcommonsense.com/2026/11/animal-spirits-the-biggest-losers-of-the-year/",
+      "publishedAt": "2026-11-18T13:00:17.000Z",
+      "snippet": "On today’s show we discuss Jensen’s resignation, what this means for Nvidia, why the stock market isn’t down more, hubris is a risk, the end of the AI bubble, semiconductor valuations, hedge fund herding is getting worse",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=73282",
+      "title": "A Strange Year in the Stock Market",
+      "link": "https://awealthofcommonsense.com/2026/11/a-strange-year-in-the-stock-market/",
+      "publishedAt": "2026-11-17T19:42:56.000Z",
+      "snippet": "A look at performance of the stock market this year. The post A Strange Year in the Stock Market appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=34298",
       "title": "How Much Should You Have Saved for Retirement by Age?",
@@ -25,16 +45,6 @@
       "tag": "Long-term"
     },
     {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=73253",
-      "title": "Nvidia: Now What?",
-      "link": "https://awealthofcommonsense.com/2026/11/nvidia-now-what/",
-      "publishedAt": "2026-11-16T04:27:46.000Z",
-      "snippet": "How does the Jensen scandal impact the AI winners and losers? The post Nvidia: Now What? appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
       "id": "doomberg-https://newsletter.doomberg.com/p/lame-duck-a-lorange",
       "title": "Lame Duck à L’Orange",
       "link": "https://newsletter.doomberg.com/p/lame-duck-a-lorange",
@@ -43,16 +53,6 @@
       "author": "Doomberg",
       "handle": "@DoombergT",
       "tag": "Energy / Macro"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=73214",
-      "title": "Living a Better Life Now",
-      "link": "https://awealthofcommonsense.com/2026/11/living-a-better-life-now/",
-      "publishedAt": "2026-11-14T01:09:51.000Z",
-      "snippet": "What me and George Clooney learned from the Italians. The post Living a Better Life Now appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "net-interest-https://www.netinterest.co/p/a-bankers-guide-to-anthropic",
