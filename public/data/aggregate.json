@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-11-18T18:19:21.224Z",
+  "lastUpdated": "2026-11-19T18:32:42.731Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=73342",
+      "title": "How Often Do Bonds Beat Stocks?",
+      "link": "https://awealthofcommonsense.com/2026/11/how-often-do-bonds-beat-stocks/",
+      "publishedAt": "2026-11-19T15:48:28.000Z",
+      "snippet": "Better asset class over the next 10 years: Stocks or bonds? The post How Often Do Bonds Beat Stocks? appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/the-internet-of-gas",
+      "title": "The Internet of Gas",
+      "link": "https://newsletter.doomberg.com/p/the-internet-of-gas",
+      "publishedAt": "2026-11-19T10:01:26.000Z",
+      "snippet": "On hubs and spokes and the methane tipping point.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=73306",
       "title": "Animal Spirits: The Biggest Losers of the Year",
@@ -33,16 +53,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=73273",
-      "title": "Talk Your Book: The Anthropic IPO",
-      "link": "https://awealthofcommonsense.com/2026/11/talk-your-book-the-anthropic-ipo/",
-      "publishedAt": "2026-11-16T13:00:58.000Z",
-      "snippet": "On today's Talk Your Book we speak with Derek Yan from KraneShares about investing in public and private market AI companies, how to build an AI portfolio, the most important information from Anthropic's S-1, why robotic",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
     },
     {
       "id": "doomberg-https://newsletter.doomberg.com/p/lame-duck-a-lorange",
@@ -83,16 +93,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "doomberg-https://newsletter.doomberg.com/p/attrition-pocket",
-      "title": "Attrition Pocket",
-      "link": "https://newsletter.doomberg.com/p/attrition-pocket",
-      "publishedAt": "2026-11-07T10:02:27.000Z",
-      "snippet": "Eastern Ukraine through the lens of World War III.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
     },
     {
       "id": "net-interest-https://www.netinterest.co/p/the-insatiable-demand-for-alpha",
