@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-11-20T17:56:50.308Z",
+  "lastUpdated": "2026-11-21T16:54:40.972Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/basin-kings",
+      "title": "Basin Kings",
+      "link": "https://newsletter.doomberg.com/p/basin-kings",
+      "publishedAt": "2026-11-21T13:11:28.000Z",
+      "snippet": "Pro Tier: November 2026 Doom Zoom",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=71405",
+      "title": "When Will Buy the Dip Stop Working?",
+      "link": "https://awealthofcommonsense.com/2026/11/when-hubris-fails/",
+      "publishedAt": "2026-11-20T21:30:47.000Z",
+      "snippet": "What will it take for investors to stop buying the dip? The post When Will Buy the Dip Stop Working? appeared first on A Wealth of Common Sense. ...",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=73342",
       "title": "How Often Do Bonds Beat Stocks?",
@@ -30,16 +50,6 @@
       "link": "https://awealthofcommonsense.com/2026/11/animal-spirits-the-biggest-losers-of-the-year/",
       "publishedAt": "2026-11-18T13:00:17.000Z",
       "snippet": "On today’s show we discuss Jensen’s resignation, what this means for Nvidia, why the stock market isn’t down more, hubris is a risk, the end of the AI bubble, semiconductor valuations, hedge fund herding is getting worse",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=73282",
-      "title": "A Strange Year in the Stock Market",
-      "link": "https://awealthofcommonsense.com/2026/11/a-strange-year-in-the-stock-market/",
-      "publishedAt": "2026-11-17T19:42:56.000Z",
-      "snippet": "A look at performance of the stock market this year. The post A Strange Year in the Stock Market appeared first on A Wealth of Common Sense. ...",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
@@ -73,16 +83,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "doomberg-https://newsletter.doomberg.com/p/cat-scratch-fervo",
-      "title": "Cat-Scratch Fervo",
-      "link": "https://newsletter.doomberg.com/p/cat-scratch-fervo",
-      "publishedAt": "2026-11-11T10:02:47.000Z",
-      "snippet": "Will a premature IPO lead to an alternative energy mauling?",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
     },
     {
       "id": "dollars-data-https://ofdollarsanddata.com/?p=34480",
