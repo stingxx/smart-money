@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-11-22T17:18:42.505Z",
+  "lastUpdated": "2026-11-23T21:37:15.709Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "net-interest-https://www.netinterest.co/p/supply-and-demand",
+      "title": "Supply and Demand",
+      "link": "https://www.netinterest.co/p/supply-and-demand",
+      "publishedAt": "2026-11-23T15:38:25.000Z",
+      "snippet": "Finding Equilibrium Inside the AI Economy",
+      "author": "Marc Rubinstein",
+      "handle": "Net Interest",
+      "tag": "Financials"
+    },
+    {
+      "id": "common-sense-https://awealthofcommonsense.com/?p=73410",
+      "title": "Talk Your Book: Stop Handing the IRS Your Yield",
+      "link": "https://awealthofcommonsense.com/2026/11/talk-your-book-stop-handing-the-irs-your-yield-2/",
+      "publishedAt": "2026-11-23T13:00:25.000Z",
+      "snippet": "On today’s Talk Your Book we speak with Dave Hammer from PIMCO ETFs about investing in municipal bonds, today’s yield levels, where the money comes from, where the opportunities are today and much more about tax-exempt b",
+      "author": "Ben Carlson",
+      "handle": "A Wealth of Common Sense",
+      "tag": "Long-term"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=73378",
       "title": "Risk is a Four Letter Word",
@@ -30,16 +50,6 @@
       "link": "https://awealthofcommonsense.com/2026/11/when-hubris-fails/",
       "publishedAt": "2026-11-20T21:30:47.000Z",
       "snippet": "What will it take for investors to stop buying the dip? The post When Will Buy the Dip Stop Working? appeared first on A Wealth of Common Sense. ...",
-      "author": "Ben Carlson",
-      "handle": "A Wealth of Common Sense",
-      "tag": "Long-term"
-    },
-    {
-      "id": "common-sense-https://awealthofcommonsense.com/?p=73342",
-      "title": "How Often Do Bonds Beat Stocks?",
-      "link": "https://awealthofcommonsense.com/2026/11/how-often-do-bonds-beat-stocks/",
-      "publishedAt": "2026-11-19T15:48:28.000Z",
-      "snippet": "Better asset class over the next 10 years: Stocks or bonds? The post How Often Do Bonds Beat Stocks? appeared first on A Wealth of Common Sense. ...",
       "author": "Ben Carlson",
       "handle": "A Wealth of Common Sense",
       "tag": "Long-term"
@@ -113,16 +123,6 @@
       "author": "Nick Maggiulli",
       "handle": "Of Dollars and Data",
       "tag": "Behavioral"
-    },
-    {
-      "id": "net-interest-https://www.netinterest.co/p/follow-the-money-ece",
-      "title": "Follow the Money",
-      "link": "https://www.netinterest.co/p/follow-the-money-ece",
-      "publishedAt": "2026-10-30T17:48:55.000Z",
-      "snippet": "What six years and 300+ posts of Net Interest say about where finance is heading",
-      "author": "Marc Rubinstein",
-      "handle": "Net Interest",
-      "tag": "Financials"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
