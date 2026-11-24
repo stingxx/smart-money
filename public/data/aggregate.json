@@ -1,9 +1,29 @@
 {
-  "lastUpdated": "2026-11-23T21:37:15.709Z",
+  "lastUpdated": "2026-11-24T20:17:54.316Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "dollars-data-https://ofdollarsanddata.com/?p=34780",
+      "title": "Is It Better to Rent Forever?",
+      "link": "https://ofdollarsanddata.com/is-it-better-to-rent-forever/",
+      "publishedAt": "2026-11-24T12:45:40.000Z",
+      "snippet": "With nominal U.S. home prices near record highs and 30-year fixed-rate mortgages exceeding 7%, many prospective homebuyers are debating: should I buy a home or keep renting? I know this because I'm one of them. Back in 2",
+      "author": "Nick Maggiulli",
+      "handle": "Of Dollars and Data",
+      "tag": "Behavioral"
+    },
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/everything-is-awesome",
+      "title": "Everything is Awesome",
+      "link": "https://newsletter.doomberg.com/p/everything-is-awesome",
+      "publishedAt": "2026-11-24T10:02:05.000Z",
+      "snippet": "A linked tour of rampaging absurdities.",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
     {
       "id": "net-interest-https://www.netinterest.co/p/supply-and-demand",
       "title": "Supply and Demand",
@@ -75,16 +95,6 @@
       "tag": "Behavioral"
     },
     {
-      "id": "doomberg-https://newsletter.doomberg.com/p/lame-duck-a-lorange",
-      "title": "Lame Duck à L’Orange",
-      "link": "https://newsletter.doomberg.com/p/lame-duck-a-lorange",
-      "publishedAt": "2026-11-15T10:02:24.000Z",
-      "snippet": "A legacy-defining bill might just make it to Trump&#8217;s desk yet.",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
-    },
-    {
       "id": "net-interest-https://www.netinterest.co/p/a-bankers-guide-to-anthropic",
       "title": "A Banker’s Guide to Anthropic",
       "link": "https://www.netinterest.co/p/a-bankers-guide-to-anthropic",
@@ -113,16 +123,6 @@
       "author": "Marc Rubinstein",
       "handle": "Net Interest",
       "tag": "Financials"
-    },
-    {
-      "id": "dollars-data-https://ofdollarsanddata.com/?p=34292",
-      "title": "How Many Americans Are Millionaires?",
-      "link": "https://ofdollarsanddata.com/how-many-americans-are-millionaires/",
-      "publishedAt": "2026-11-03T12:45:02.000Z",
-      "snippet": "If it feels like there are more millionaires in the U.S. than ever before, you're right. According to the 2025 Survey of Consumer Finances , there are about 29 million U.S. households with a net worth (all assets minus a",
-      "author": "Nick Maggiulli",
-      "handle": "Of Dollars and Data",
-      "tag": "Behavioral"
     },
     {
       "id": "reformed-broker-https://thereformedbroker.com/?p=89792",
