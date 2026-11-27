@@ -1,9 +1,19 @@
 {
-  "lastUpdated": "2026-11-26T19:14:13.129Z",
+  "lastUpdated": "2026-11-27T19:07:50.680Z",
   "holdings": {},
   "redditTickers": [],
   "redditPosts": [],
   "blogPosts": [
+    {
+      "id": "doomberg-https://newsletter.doomberg.com/p/do-not-pass-go",
+      "title": "Do Not Pass Go",
+      "link": "https://newsletter.doomberg.com/p/do-not-pass-go",
+      "publishedAt": "2026-11-27T17:14:06.000Z",
+      "snippet": "Is the Jensen Huang scandal a cover for monopolizing recursive self-improvement?",
+      "author": "Doomberg",
+      "handle": "@DoombergT",
+      "tag": "Energy / Macro"
+    },
     {
       "id": "common-sense-https://awealthofcommonsense.com/?p=73496",
       "title": "Books For New Investors",
@@ -70,16 +80,6 @@
       "link": "https://newsletter.doomberg.com/p/basin-kings",
       "publishedAt": "2026-11-21T13:11:28.000Z",
       "snippet": "Pro Tier: November 2026 Doom Zoom",
-      "author": "Doomberg",
-      "handle": "@DoombergT",
-      "tag": "Energy / Macro"
-    },
-    {
-      "id": "doomberg-https://newsletter.doomberg.com/p/the-internet-of-gas",
-      "title": "The Internet of Gas",
-      "link": "https://newsletter.doomberg.com/p/the-internet-of-gas",
-      "publishedAt": "2026-11-19T10:01:26.000Z",
-      "snippet": "On hubs and spokes and the methane tipping point.",
       "author": "Doomberg",
       "handle": "@DoombergT",
       "tag": "Energy / Macro"
